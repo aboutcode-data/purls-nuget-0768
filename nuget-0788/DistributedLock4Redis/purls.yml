@@ -1,0 +1,5 @@
+- pkg:nuget/DistributedLock4Redis@1.0.0
+- pkg:nuget/DistributedLock4Redis@1.0.1
+- pkg:nuget/DistributedLock4Redis@1.0.2
+- pkg:nuget/DistributedLock4Redis@1.0.3
+- pkg:nuget/DistributedLock4Redis@1.0.4

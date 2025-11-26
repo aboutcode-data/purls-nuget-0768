@@ -1,0 +1,4 @@
+- pkg:nuget/DKNet.EfCore.Encryption@10.0.3
+- pkg:nuget/DKNet.EfCore.Encryption@9.5.28
+- pkg:nuget/DKNet.EfCore.Encryption@9.5.33
+- pkg:nuget/DKNet.EfCore.Encryption@9.5.35
