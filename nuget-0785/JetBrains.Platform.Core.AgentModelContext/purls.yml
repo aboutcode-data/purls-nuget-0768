@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@253.0.20250914.4854-eap01
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@253.0.20250922.232725-eap02
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@253.0.20250926.140429-eap03
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@253.0.20251008.615-eap05
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@253.0.20251110.111705
