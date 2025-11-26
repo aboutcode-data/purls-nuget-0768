@@ -13,6 +13,8 @@
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.11
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.11-develop.20250924081752
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.11-preview.20250924081502
+- pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.13-develop.20251126094604
+- pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.13-preview.20251126095034
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.2
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.2-develop.20250130074505
 - pkg:nuget/Primetec.OfferPro.Essentials.Database@9.0.2-preview.20250130074000
