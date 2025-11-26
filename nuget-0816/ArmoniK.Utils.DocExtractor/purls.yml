@@ -1,0 +1,15 @@
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.1-jfdocextractor.3.sha.8d3ffc0
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.1-jfdocextractor.4.sha.e2e91b7
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.1-jfdocextractor.5.sha.a142921
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.1-jfdocextractor.6.sha.c0c8080
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-SNAPSHOT.16.sha.10cb0c0
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfallowenums.17.sha.f9d4c8a
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfdocextractor.15.sha.ed3515f
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfdocextractor.4.sha.5c9023f
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfdocextractor.5.sha.751d8a3
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfflatten.22.sha.d96613b
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-jfflatten.23.sha.a44089f
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-renovategithubactions.21.sha.8f0f15a
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-renovatemajorgithubactions.21.sha.a9681e7
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.2-renovatemajornuget.17.sha.a84fecc
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.3-SNAPSHOT.4.sha.f969bd3
