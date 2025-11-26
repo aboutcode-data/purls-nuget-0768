@@ -1,0 +1,4 @@
+- pkg:nuget/TTC.Polygon.RestClient@0.0.1-alpha.1
+- pkg:nuget/TTC.Polygon.RestClient@0.0.2-alpha
+- pkg:nuget/TTC.Polygon.RestClient@0.1.0-beta
+- pkg:nuget/TTC.Polygon.RestClient@0.1.1-beta
