@@ -7,3 +7,4 @@
 - pkg:nuget/NetEvolve.Logging.Abstractions@1.2.18
 - pkg:nuget/NetEvolve.Logging.Abstractions@1.2.38
 - pkg:nuget/NetEvolve.Logging.Abstractions@1.2.70
+- pkg:nuget/NetEvolve.Logging.Abstractions@2.0.0
