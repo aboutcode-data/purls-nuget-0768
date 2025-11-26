@@ -1,0 +1,4 @@
+- pkg:nuget/LibSqlite3Orm@1.2.57
+- pkg:nuget/LibSqlite3Orm@1.2.58
+- pkg:nuget/LibSqlite3Orm@1.4.1
+- pkg:nuget/LibSqlite3Orm@1.5.2
