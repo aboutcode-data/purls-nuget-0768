@@ -3,5 +3,9 @@
 - pkg:nuget/Tuan_library_test@1.1.12-build.2
 - pkg:nuget/Tuan_library_test@1.1.23
 - pkg:nuget/Tuan_library_test@1.1.23-build.1
+- pkg:nuget/Tuan_library_test@1.1.37
+- pkg:nuget/Tuan_library_test@1.1.37-build.1
+- pkg:nuget/Tuan_library_test@1.1.39
+- pkg:nuget/Tuan_library_test@1.1.39-build.1
 - pkg:nuget/Tuan_library_test@1.1.8-build.22
 - pkg:nuget/Tuan_library_test@1.1.9
