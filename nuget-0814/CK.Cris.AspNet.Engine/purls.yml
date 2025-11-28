@@ -47,6 +47,7 @@
 - pkg:nuget/CK.Cris.AspNet.Engine@0.50.0
 - pkg:nuget/CK.Cris.AspNet.Engine@0.50.1
 - pkg:nuget/CK.Cris.AspNet.Engine@0.51.0
+- pkg:nuget/CK.Cris.AspNet.Engine@0.54.1
 - pkg:nuget/CK.Cris.AspNet.Engine@0.6.0
 - pkg:nuget/CK.Cris.AspNet.Engine@0.7.0
 - pkg:nuget/CK.Cris.AspNet.Engine@0.7.1
