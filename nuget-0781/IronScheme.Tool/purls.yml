@@ -12,3 +12,4 @@
 - pkg:nuget/IronScheme.Tool@1.0.600-beta
 - pkg:nuget/IronScheme.Tool@1.0.602-beta
 - pkg:nuget/IronScheme.Tool@1.1.609-beta
+- pkg:nuget/IronScheme.Tool@1.1.629-beta
