@@ -63,6 +63,7 @@
 - pkg:nuget/Indice.AspNetCore.Builder@8.17.0
 - pkg:nuget/Indice.AspNetCore.Builder@8.2.0
 - pkg:nuget/Indice.AspNetCore.Builder@8.20.0
+- pkg:nuget/Indice.AspNetCore.Builder@8.27.0
 - pkg:nuget/Indice.AspNetCore.Builder@8.3.0
 - pkg:nuget/Indice.AspNetCore.Builder@8.4.0
 - pkg:nuget/Indice.AspNetCore.Builder@8.5.0
