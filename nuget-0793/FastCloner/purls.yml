@@ -12,6 +12,7 @@
 - pkg:nuget/FastCloner@3.3.12
 - pkg:nuget/FastCloner@3.3.13
 - pkg:nuget/FastCloner@3.3.18
+- pkg:nuget/FastCloner@3.3.19
 - pkg:nuget/FastCloner@3.3.2
 - pkg:nuget/FastCloner@3.3.3
 - pkg:nuget/FastCloner@3.3.4
