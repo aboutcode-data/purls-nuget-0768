@@ -27,6 +27,8 @@
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview.20250728-101949%2Bfef0025
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview.20250729-202608%2Bc15c162
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview.20250806-011111%2Bd3f0ba9
+- pkg:nuget/ArcaneLibs.Timings@1.0.0-preview.20251207-164727
+- pkg:nuget/ArcaneLibs.Timings@1.0.0-preview.20251207-164820%2B270012a
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview10324471974.2befb4f
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview10878789808.b7685c7
 - pkg:nuget/ArcaneLibs.Timings@1.0.0-preview6988075606.a593ae4
