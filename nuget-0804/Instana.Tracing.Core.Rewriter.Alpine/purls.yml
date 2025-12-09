@@ -97,3 +97,4 @@
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Alpine@1.298.2
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Alpine@1.300.1
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Alpine@1.302.1
+- pkg:nuget/Instana.Tracing.Core.Rewriter.Alpine@1.309.2
