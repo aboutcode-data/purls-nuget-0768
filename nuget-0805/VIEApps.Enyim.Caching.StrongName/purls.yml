@@ -63,6 +63,7 @@
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@1.8.2011.1
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@1.8.2011.2
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@1.8.2012.1
+- pkg:nuget/VIEApps.Enyim.Caching.StrongName@10.10.2512.2
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@2.0.2012.1
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@2.0.2012.3
 - pkg:nuget/VIEApps.Enyim.Caching.StrongName@2.0.2012.4

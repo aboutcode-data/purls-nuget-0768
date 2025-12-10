@@ -676,3 +676,4 @@
 - pkg:nuget/FreeSql@3.5.215-preview20250928
 - pkg:nuget/FreeSql@3.5.215-preview20250929
 - pkg:nuget/FreeSql@3.5.303
+- pkg:nuget/FreeSql@3.5.304
