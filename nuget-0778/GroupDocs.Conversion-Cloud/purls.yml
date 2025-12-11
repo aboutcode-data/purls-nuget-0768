@@ -36,6 +36,7 @@
 - pkg:nuget/GroupDocs.Conversion-Cloud@24.4.0
 - pkg:nuget/GroupDocs.Conversion-Cloud@24.8.0
 - pkg:nuget/GroupDocs.Conversion-Cloud@25.10.0
+- pkg:nuget/GroupDocs.Conversion-Cloud@25.12.0
 - pkg:nuget/GroupDocs.Conversion-Cloud@25.3.0
 - pkg:nuget/GroupDocs.Conversion-Cloud@25.4.0
 - pkg:nuget/GroupDocs.Conversion-Cloud@25.5.0
