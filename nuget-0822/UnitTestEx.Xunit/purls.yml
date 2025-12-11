@@ -62,3 +62,4 @@
 - pkg:nuget/UnitTestEx.Xunit@5.4.6
 - pkg:nuget/UnitTestEx.Xunit@5.5.0
 - pkg:nuget/UnitTestEx.Xunit@5.6.0
+- pkg:nuget/UnitTestEx.Xunit@5.9.0
