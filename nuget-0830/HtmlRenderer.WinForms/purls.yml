@@ -10,5 +10,6 @@
 - pkg:nuget/HtmlRenderer.WinForms@1.4.9
 - pkg:nuget/HtmlRenderer.WinForms@1.5.0.5
 - pkg:nuget/HtmlRenderer.WinForms@1.5.0.6
+- pkg:nuget/HtmlRenderer.WinForms@1.5.1
 - pkg:nuget/HtmlRenderer.WinForms@1.5.1-beta
 - pkg:nuget/HtmlRenderer.WinForms@1.5.1-beta1
