@@ -243,3 +243,4 @@
 - pkg:nuget/Soneta.Test@2506.2.4
 - pkg:nuget/Soneta.Test@2506.3.5
 - pkg:nuget/Soneta.Test@2510.1.1
+- pkg:nuget/Soneta.Test@2512.0.0
