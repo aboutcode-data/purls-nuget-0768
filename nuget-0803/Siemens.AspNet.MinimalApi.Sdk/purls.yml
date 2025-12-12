@@ -112,6 +112,7 @@
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.29
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.33
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.331
+- pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.359
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.37
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.38
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.1.0-alpha.39
