@@ -13,5 +13,6 @@
 - pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@1.4.1
 - pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@1.4.2
 - pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@1.4.3
+- pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@1.4.4%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@2.0.12%2B71139413e2b534eb844bccb84805b7effb9863a2
 - pkg:nuget/EncySoftware.CAMAPI.SDK.bpl.x64@2.0.5%2B8423340c3c9672ae77f58a5c5987258dc38851c4
