@@ -1,1 +1,2 @@
 - pkg:nuget/SpecSync.Plugin.TestNGTestSource@1.0.0
+- pkg:nuget/SpecSync.Plugin.TestNGTestSource@5.0.0
