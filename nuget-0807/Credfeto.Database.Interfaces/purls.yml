@@ -915,6 +915,7 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.200.1749-dotnet-sdk-10-0
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.200.1750-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.200.1780-update-philips
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.201.1873-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.21.572-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.21.573-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.21.574
