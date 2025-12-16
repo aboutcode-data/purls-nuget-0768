@@ -33,6 +33,7 @@
 - pkg:nuget/NetVips.Native@8.17.0.1
 - pkg:nuget/NetVips.Native@8.17.1
 - pkg:nuget/NetVips.Native@8.17.2
+- pkg:nuget/NetVips.Native@8.18.0-rc2
 - pkg:nuget/NetVips.Native@8.7.4
 - pkg:nuget/NetVips.Native@8.8.0
 - pkg:nuget/NetVips.Native@8.8.0-rc1

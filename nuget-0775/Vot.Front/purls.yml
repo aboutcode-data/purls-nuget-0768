@@ -192,6 +192,7 @@
 - pkg:nuget/Vot.Front@1.0.300
 - pkg:nuget/Vot.Front@1.0.308
 - pkg:nuget/Vot.Front@1.0.313
+- pkg:nuget/Vot.Front@1.0.314
 - pkg:nuget/Vot.Front@1.0.33
 - pkg:nuget/Vot.Front@1.0.34
 - pkg:nuget/Vot.Front@1.0.35
