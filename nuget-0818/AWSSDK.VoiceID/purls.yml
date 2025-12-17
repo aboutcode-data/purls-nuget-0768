@@ -715,6 +715,7 @@
 - pkg:nuget/AWSSDK.VoiceID@3.7.502.13
 - pkg:nuget/AWSSDK.VoiceID@3.7.502.15
 - pkg:nuget/AWSSDK.VoiceID@3.7.502.19
+- pkg:nuget/AWSSDK.VoiceID@3.7.502.22
 - pkg:nuget/AWSSDK.VoiceID@3.7.502.6
 - pkg:nuget/AWSSDK.VoiceID@4.0.0
 - pkg:nuget/AWSSDK.VoiceID@4.0.0-preview
