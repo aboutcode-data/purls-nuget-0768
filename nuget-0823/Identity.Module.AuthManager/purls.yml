@@ -8,4 +8,5 @@
 - pkg:nuget/Identity.Module.AuthManager@2.5.23
 - pkg:nuget/Identity.Module.AuthManager@2.5.25
 - pkg:nuget/Identity.Module.AuthManager@2.5.5
+- pkg:nuget/Identity.Module.AuthManager@2.5.56
 - pkg:nuget/Identity.Module.AuthManager@2.5.6
