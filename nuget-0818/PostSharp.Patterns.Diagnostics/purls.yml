@@ -51,6 +51,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics@2025.1.7
 - pkg:nuget/PostSharp.Patterns.Diagnostics@2025.1.8
 - pkg:nuget/PostSharp.Patterns.Diagnostics@2025.1.9
+- pkg:nuget/PostSharp.Patterns.Diagnostics@2026.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Diagnostics@3.0.11-beta
 - pkg:nuget/PostSharp.Patterns.Diagnostics@3.0.14-beta
 - pkg:nuget/PostSharp.Patterns.Diagnostics@3.0.15-beta

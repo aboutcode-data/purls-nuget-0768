@@ -9,6 +9,7 @@
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@10.0.1
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@10.0.2
+- pkg:nuget/Paramore.Brighter.Transformers.Azure@10.0.5
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@9.4.1
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@9.4.2
 - pkg:nuget/Paramore.Brighter.Transformers.Azure@9.4.3

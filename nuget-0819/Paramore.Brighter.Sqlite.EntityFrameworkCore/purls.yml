@@ -9,6 +9,7 @@
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@10.0.1
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@10.0.2
+- pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@10.0.5
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@9.0.1
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@9.0.1-preview.2
 - pkg:nuget/Paramore.Brighter.Sqlite.EntityFrameworkCore@9.0.1-preview.3
