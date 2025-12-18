@@ -15,3 +15,4 @@
 - pkg:nuget/Rock.Siemens@1.5.0
 - pkg:nuget/Rock.Siemens@1.6.0
 - pkg:nuget/Rock.Siemens@1.7.0
+- pkg:nuget/Rock.Siemens@2.4.3
