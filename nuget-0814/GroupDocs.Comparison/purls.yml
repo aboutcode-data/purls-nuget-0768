@@ -79,6 +79,7 @@
 - pkg:nuget/GroupDocs.Comparison@24.8.0
 - pkg:nuget/GroupDocs.Comparison@24.9.0
 - pkg:nuget/GroupDocs.Comparison@25.1.0
+- pkg:nuget/GroupDocs.Comparison@25.12.0
 - pkg:nuget/GroupDocs.Comparison@25.2.0
 - pkg:nuget/GroupDocs.Comparison@25.3.0
 - pkg:nuget/GroupDocs.Comparison@25.4.0
