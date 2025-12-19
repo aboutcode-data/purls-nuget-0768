@@ -44,6 +44,7 @@
 - pkg:nuget/Elvia.Edna.Events@1.6.2
 - pkg:nuget/Elvia.Edna.Events@1.6.3
 - pkg:nuget/Elvia.Edna.Events@1.7.0
+- pkg:nuget/Elvia.Edna.Events@11.10.0-beta8
 - pkg:nuget/Elvia.Edna.Events@2.0.0
 - pkg:nuget/Elvia.Edna.Events@2.0.0-alpha1
 - pkg:nuget/Elvia.Edna.Events@2.0.0-beta1
