@@ -35,3 +35,7 @@
 - pkg:nuget/Devart.Data.Salesforce.EFCore@5.3.290.7
 - pkg:nuget/Devart.Data.Salesforce.EFCore@5.3.290.8
 - pkg:nuget/Devart.Data.Salesforce.EFCore@5.3.290.9
+- pkg:nuget/Devart.Data.Salesforce.EFCore@6.0.0
+- pkg:nuget/Devart.Data.Salesforce.EFCore@6.0.0.7
+- pkg:nuget/Devart.Data.Salesforce.EFCore@6.0.0.8
+- pkg:nuget/Devart.Data.Salesforce.EFCore@6.0.0.9
