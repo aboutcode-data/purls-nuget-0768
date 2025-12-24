@@ -272,6 +272,7 @@
 - pkg:nuget/AWSSDK.CodeConnections@3.7.503.11
 - pkg:nuget/AWSSDK.CodeConnections@3.7.503.15
 - pkg:nuget/AWSSDK.CodeConnections@3.7.503.16
+- pkg:nuget/AWSSDK.CodeConnections@3.7.503.20
 - pkg:nuget/AWSSDK.CodeConnections@3.7.503.7
 - pkg:nuget/AWSSDK.CodeConnections@3.7.503.9
 - pkg:nuget/AWSSDK.CodeConnections@4.0.0
