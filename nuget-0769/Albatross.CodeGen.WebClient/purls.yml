@@ -4,3 +4,4 @@
 - pkg:nuget/Albatross.CodeGen.WebClient@8.0.0%2B119a216
 - pkg:nuget/Albatross.CodeGen.WebClient@8.0.1%2Bd4d8556
 - pkg:nuget/Albatross.CodeGen.WebClient@8.0.2%2Bd22a9fa
+- pkg:nuget/Albatross.CodeGen.WebClient@9.0.1-55.main%2B8252963
