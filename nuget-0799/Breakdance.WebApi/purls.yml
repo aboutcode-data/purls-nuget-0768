@@ -121,3 +121,5 @@
 - pkg:nuget/Breakdance.WebApi@7.0.0-CI-20241122-022305
 - pkg:nuget/Breakdance.WebApi@7.0.1-CI-20250404-031338
 - pkg:nuget/Breakdance.WebApi@8.0.0-CI-20251111-164350
+- pkg:nuget/Breakdance.WebApi@8.0.0-CI-20251226-164344
+- pkg:nuget/Breakdance.WebApi@8.0.2
