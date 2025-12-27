@@ -685,6 +685,7 @@
 - pkg:nuget/AWSSDK.CloudWatchEvidently@3.7.502.16
 - pkg:nuget/AWSSDK.CloudWatchEvidently@3.7.502.21
 - pkg:nuget/AWSSDK.CloudWatchEvidently@3.7.502.25
+- pkg:nuget/AWSSDK.CloudWatchEvidently@3.7.502.26
 - pkg:nuget/AWSSDK.CloudWatchEvidently@4.0.0
 - pkg:nuget/AWSSDK.CloudWatchEvidently@4.0.0-preview
 - pkg:nuget/AWSSDK.CloudWatchEvidently@4.0.0-preview.10
