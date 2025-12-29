@@ -1,1 +1,2 @@
 - pkg:nuget/CleanArchitecture.Extensions.Caching@0.1.6-preview.13
+- pkg:nuget/CleanArchitecture.Extensions.Caching@0.2.1
