@@ -58,6 +58,7 @@
 - pkg:nuget/WebDAVServer.SqlStorage@15.3.15268-Beta3
 - pkg:nuget/WebDAVServer.SqlStorage@15.3.15282-Beta3
 - pkg:nuget/WebDAVServer.SqlStorage@15.3.16041
+- pkg:nuget/WebDAVServer.SqlStorage@15.4.16086
 - pkg:nuget/WebDAVServer.SqlStorage@5.0.3105-Beta
 - pkg:nuget/WebDAVServer.SqlStorage@5.0.3112-Beta
 - pkg:nuget/WebDAVServer.SqlStorage@5.0.3186-Beta
