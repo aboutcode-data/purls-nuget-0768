@@ -48,3 +48,4 @@
 - pkg:nuget/QuantConnect.Lean.DataSource.FactSet@2.5.17269
 - pkg:nuget/QuantConnect.Lean.DataSource.FactSet@2.5.17279
 - pkg:nuget/QuantConnect.Lean.DataSource.FactSet@2.5.17297
+- pkg:nuget/QuantConnect.Lean.DataSource.FactSet@2.5.17448
