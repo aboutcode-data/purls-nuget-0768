@@ -85,6 +85,7 @@
 - pkg:nuget/Sygenic.SharedKernel@12.7.0
 - pkg:nuget/Sygenic.SharedKernel@12.8.0
 - pkg:nuget/Sygenic.SharedKernel@12.9.0
+- pkg:nuget/Sygenic.SharedKernel@17.2.0
 - pkg:nuget/Sygenic.SharedKernel@2.0.0
 - pkg:nuget/Sygenic.SharedKernel@2.0.1
 - pkg:nuget/Sygenic.SharedKernel@2.0.2

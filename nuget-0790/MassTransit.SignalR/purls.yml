@@ -1138,3 +1138,5 @@
 - pkg:nuget/MassTransit.SignalR@8.5.7-develop.2404
 - pkg:nuget/MassTransit.SignalR@9.0.0-develop.23
 - pkg:nuget/MassTransit.SignalR@9.0.0-develop.25
+- pkg:nuget/MassTransit.SignalR@9.0.0-develop.31
+- pkg:nuget/MassTransit.SignalR@9.0.0-develop.33

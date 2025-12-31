@@ -1,5 +1,6 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.10.0
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.10.0-feature-inputStatus-messenger.2
+- pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.10.5-mock-tx-fixes.9
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.1-essentials-mc-updates.2
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.2

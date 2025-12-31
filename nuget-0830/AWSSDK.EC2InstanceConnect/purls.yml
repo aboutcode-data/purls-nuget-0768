@@ -1052,6 +1052,7 @@
 - pkg:nuget/AWSSDK.EC2InstanceConnect@3.7.502.13
 - pkg:nuget/AWSSDK.EC2InstanceConnect@3.7.502.15
 - pkg:nuget/AWSSDK.EC2InstanceConnect@3.7.502.24
+- pkg:nuget/AWSSDK.EC2InstanceConnect@3.7.502.26
 - pkg:nuget/AWSSDK.EC2InstanceConnect@4.0.0
 - pkg:nuget/AWSSDK.EC2InstanceConnect@4.0.0-preview
 - pkg:nuget/AWSSDK.EC2InstanceConnect@4.0.0-preview.10
