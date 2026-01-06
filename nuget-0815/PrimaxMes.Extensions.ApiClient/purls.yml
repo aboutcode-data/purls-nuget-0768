@@ -45,3 +45,4 @@
 - pkg:nuget/PrimaxMes.Extensions.ApiClient@2.24.5.22
 - pkg:nuget/PrimaxMes.Extensions.ApiClient@2.25.7.16
 - pkg:nuget/PrimaxMes.Extensions.ApiClient@2.25.8.13
+- pkg:nuget/PrimaxMes.Extensions.ApiClient@2.26.1.6
