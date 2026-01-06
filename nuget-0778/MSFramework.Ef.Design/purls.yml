@@ -171,4 +171,5 @@
 - pkg:nuget/MSFramework.Ef.Design@0.15.4-beta58
 - pkg:nuget/MSFramework.Ef.Design@0.15.4-beta59
 - pkg:nuget/MSFramework.Ef.Design@0.15.4-beta60
+- pkg:nuget/MSFramework.Ef.Design@0.15.4-beta73
 - pkg:nuget/MSFramework.Ef.Design@1.0.0

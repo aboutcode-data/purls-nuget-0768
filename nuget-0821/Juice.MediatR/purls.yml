@@ -94,3 +94,4 @@
 - pkg:nuget/Juice.MediatR@8.4.2
 - pkg:nuget/Juice.MediatR@8.4.3
 - pkg:nuget/Juice.MediatR@8.5.0
+- pkg:nuget/Juice.MediatR@9.0.0-beta.11

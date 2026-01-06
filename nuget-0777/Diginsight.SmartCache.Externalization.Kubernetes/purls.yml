@@ -45,3 +45,4 @@
 - pkg:nuget/Diginsight.SmartCache.Externalization.Kubernetes@3.3.0-alpha.2
 - pkg:nuget/Diginsight.SmartCache.Externalization.Kubernetes@3.3.0.1
 - pkg:nuget/Diginsight.SmartCache.Externalization.Kubernetes@3.5.0
+- pkg:nuget/Diginsight.SmartCache.Externalization.Kubernetes@3.7.1
