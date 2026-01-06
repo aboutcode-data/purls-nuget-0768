@@ -540,6 +540,7 @@
 - pkg:nuget/AWSSDK.Omics@3.7.503.3
 - pkg:nuget/AWSSDK.Omics@3.7.504.13
 - pkg:nuget/AWSSDK.Omics@3.7.504.18
+- pkg:nuget/AWSSDK.Omics@3.7.504.21
 - pkg:nuget/AWSSDK.Omics@3.7.504.5
 - pkg:nuget/AWSSDK.Omics@3.7.504.9
 - pkg:nuget/AWSSDK.Omics@4.0.0
