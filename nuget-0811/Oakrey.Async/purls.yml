@@ -1,3 +1,4 @@
 - pkg:nuget/Oakrey.Async@1.0.0
 - pkg:nuget/Oakrey.Async@1.1.0
 - pkg:nuget/Oakrey.Async@1.1.1
+- pkg:nuget/Oakrey.Async@2.0.1
