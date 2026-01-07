@@ -73,6 +73,7 @@
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.0.9
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.0
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.1
+- pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.13
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.2
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.3
 - pkg:nuget/Gammarers.CDK.AWS.FrontendWebAppDeployStack@2.1.4

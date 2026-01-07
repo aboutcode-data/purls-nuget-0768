@@ -780,3 +780,4 @@
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@3.0.715
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@3.0.716
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@4.0.717
+- pkg:nuget/Soenneker.Utils.AsyncSingleton@4.0.740
