@@ -1,3 +1,4 @@
 - pkg:nuget/Ground.Utilities.OpenTelemetryRegistration@1.0.0
 - pkg:nuget/Ground.Utilities.OpenTelemetryRegistration@2.0.0
 - pkg:nuget/Ground.Utilities.OpenTelemetryRegistration@3.0.0
+- pkg:nuget/Ground.Utilities.OpenTelemetryRegistration@9.0.2
