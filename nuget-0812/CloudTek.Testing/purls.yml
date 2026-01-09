@@ -14,6 +14,7 @@
 - pkg:nuget/CloudTek.Testing@1.4.0-alpha0004
 - pkg:nuget/CloudTek.Testing@1.4.0-alpha0005
 - pkg:nuget/CloudTek.Testing@1.5.0-alpha0001
+- pkg:nuget/CloudTek.Testing@10.0.1
 - pkg:nuget/CloudTek.Testing@2.1.0
 - pkg:nuget/CloudTek.Testing@2.1.0-beta
 - pkg:nuget/CloudTek.Testing@2.1.0-beta281
