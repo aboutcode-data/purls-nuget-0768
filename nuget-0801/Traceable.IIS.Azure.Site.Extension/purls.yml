@@ -35,3 +35,4 @@
 - pkg:nuget/Traceable.IIS.Azure.Site.Extension@1.2.5-rc.8
 - pkg:nuget/Traceable.IIS.Azure.Site.Extension@1.2.5-rc.9
 - pkg:nuget/Traceable.IIS.Azure.Site.Extension@1.2.6
+- pkg:nuget/Traceable.IIS.Azure.Site.Extension@1.2.6-rc.6
