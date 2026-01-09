@@ -75,5 +75,6 @@
 - pkg:nuget/Soenneker.Attributes.Validation.Guid@3.0.77
 - pkg:nuget/Soenneker.Attributes.Validation.Guid@3.0.8
 - pkg:nuget/Soenneker.Attributes.Validation.Guid@3.0.9
+- pkg:nuget/Soenneker.Attributes.Validation.Guid@4.0.102
 - pkg:nuget/Soenneker.Attributes.Validation.Guid@4.0.84
 - pkg:nuget/Soenneker.Attributes.Validation.Guid@4.0.95
