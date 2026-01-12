@@ -22,3 +22,4 @@
 - pkg:nuget/Umbraco.Community.AccessibilityReporter@3.4.0
 - pkg:nuget/Umbraco.Community.AccessibilityReporter@3.5.0
 - pkg:nuget/Umbraco.Community.AccessibilityReporter@3.5.1
+- pkg:nuget/Umbraco.Community.AccessibilityReporter@4.1.0
