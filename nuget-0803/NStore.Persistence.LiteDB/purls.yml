@@ -85,4 +85,6 @@
 - pkg:nuget/NStore.Persistence.LiteDB@0.20.0-alpha0011
 - pkg:nuget/NStore.Persistence.LiteDB@0.20.0-mongo-driver-3-0011
 - pkg:nuget/NStore.Persistence.LiteDB@0.20.1
+- pkg:nuget/NStore.Persistence.LiteDB@0.21.0-batchoperations0060
+- pkg:nuget/NStore.Persistence.LiteDB@0.21.0-batchoperations0061
 - pkg:nuget/NStore.Persistence.LiteDB@10.1.0-pre0012
