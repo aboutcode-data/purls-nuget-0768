@@ -13,6 +13,7 @@
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.158
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.159
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.163
+- pkg:nuget/FrameworkExtensions.Backports@1.0.0.235
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.25
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.26
 - pkg:nuget/FrameworkExtensions.Backports@1.0.0.27
