@@ -48,3 +48,5 @@
 - pkg:nuget/AllOsSuperSecsCore@2.0.4.8
 - pkg:nuget/AllOsSuperSecsCore@2.0.4.9
 - pkg:nuget/AllOsSuperSecsCore@2.0.5.1
+- pkg:nuget/AllOsSuperSecsCore@2.0.5.10
+- pkg:nuget/AllOsSuperSecsCore@2.0.5.12
