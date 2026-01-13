@@ -133,3 +133,4 @@
 - pkg:nuget/OBaseAuth@25.8.1
 - pkg:nuget/OBaseAuth@25.9.0
 - pkg:nuget/OBaseAuth@25.9.1
+- pkg:nuget/OBaseAuth@26.1.10
