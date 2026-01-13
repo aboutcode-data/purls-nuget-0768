@@ -1,1 +1,2 @@
 - pkg:nuget/ExperimentFramework.Plugins.Generators@0.16.0
+- pkg:nuget/ExperimentFramework.Plugins.Generators@0.17.4

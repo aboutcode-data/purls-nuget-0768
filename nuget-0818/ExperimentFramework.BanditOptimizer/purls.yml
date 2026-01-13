@@ -1,1 +1,2 @@
 - pkg:nuget/ExperimentFramework.BanditOptimizer@0.16.0
+- pkg:nuget/ExperimentFramework.BanditOptimizer@0.17.4
