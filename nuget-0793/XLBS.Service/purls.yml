@@ -11,6 +11,7 @@
 - pkg:nuget/XLBS.Service@1.0.21
 - pkg:nuget/XLBS.Service@1.0.30
 - pkg:nuget/XLBS.Service@1.0.31
+- pkg:nuget/XLBS.Service@1.0.35
 - pkg:nuget/XLBS.Service@1.0.6
 - pkg:nuget/XLBS.Service@1.0.7
 - pkg:nuget/XLBS.Service@1.0.8
