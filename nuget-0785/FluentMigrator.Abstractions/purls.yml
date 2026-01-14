@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.Abstractions@6.2.0
 - pkg:nuget/FluentMigrator.Abstractions@7.0.0
 - pkg:nuget/FluentMigrator.Abstractions@7.1.0
+- pkg:nuget/FluentMigrator.Abstractions@8.0.0
