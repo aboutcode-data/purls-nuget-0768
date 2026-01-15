@@ -12,3 +12,4 @@
 - pkg:nuget/Raider.NetHttp@1.1.1
 - pkg:nuget/Raider.NetHttp@2.0.1
 - pkg:nuget/Raider.NetHttp@2.0.2
+- pkg:nuget/Raider.NetHttp@2.0.6
