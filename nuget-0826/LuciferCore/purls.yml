@@ -21,3 +21,4 @@
 - pkg:nuget/LuciferCore@1.3.6.1
 - pkg:nuget/LuciferCore@1.3.7
 - pkg:nuget/LuciferCore@1.5.8
+- pkg:nuget/LuciferCore@1.6.0
