@@ -5,3 +5,4 @@
 - pkg:nuget/AWS.MSK.Auth@1.1.0-rc2025071801
 - pkg:nuget/AWS.MSK.Auth@1.1.0-rc2025072301
 - pkg:nuget/AWS.MSK.Auth@1.1.1
+- pkg:nuget/AWS.MSK.Auth@1.1.2
