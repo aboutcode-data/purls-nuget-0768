@@ -1,3 +1,4 @@
 - pkg:nuget/JYPPX.DeploySharp.ImageSharp@0.0.1-beta
 - pkg:nuget/JYPPX.DeploySharp.ImageSharp@0.0.2-beta
 - pkg:nuget/JYPPX.DeploySharp.ImageSharp@0.0.3
+- pkg:nuget/JYPPX.DeploySharp.ImageSharp@0.0.6.1

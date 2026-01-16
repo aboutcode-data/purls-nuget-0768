@@ -1,3 +1,4 @@
 - pkg:nuget/Snail.Logger@1.1.0
 - pkg:nuget/Snail.Logger@1.10.0
 - pkg:nuget/Snail.Logger@1.10.12
+- pkg:nuget/Snail.Logger@1.10.21
