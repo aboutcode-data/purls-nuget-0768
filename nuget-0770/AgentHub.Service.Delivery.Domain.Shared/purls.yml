@@ -54,6 +54,7 @@
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.148
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.149
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.15
+- pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.150
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.16
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.17
 - pkg:nuget/AgentHub.Service.Delivery.Domain.Shared@1.0.18
