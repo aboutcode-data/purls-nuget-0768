@@ -149,3 +149,4 @@
 - pkg:nuget/Sailfish.Analyzers@2.2.35
 - pkg:nuget/Sailfish.Analyzers@2.2.41
 - pkg:nuget/Sailfish.Analyzers@2.2.54
+- pkg:nuget/Sailfish.Analyzers@3.0.41
