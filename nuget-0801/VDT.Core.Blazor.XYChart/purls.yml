@@ -17,3 +17,4 @@
 - pkg:nuget/VDT.Core.Blazor.XYChart@2.3.1
 - pkg:nuget/VDT.Core.Blazor.XYChart@3.0.0
 - pkg:nuget/VDT.Core.Blazor.XYChart@4.0.0
+- pkg:nuget/VDT.Core.Blazor.XYChart@5.0.0
