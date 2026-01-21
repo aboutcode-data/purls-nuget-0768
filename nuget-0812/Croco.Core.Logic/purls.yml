@@ -124,6 +124,7 @@
 - pkg:nuget/Croco.Core.Logic@1.92.0
 - pkg:nuget/Croco.Core.Logic@1.93.0
 - pkg:nuget/Croco.Core.Logic@1.95.0
+- pkg:nuget/Croco.Core.Logic@10.1.0
 - pkg:nuget/Croco.Core.Logic@2.0.0
 - pkg:nuget/Croco.Core.Logic@2.2.0
 - pkg:nuget/Croco.Core.Logic@2.3.0
