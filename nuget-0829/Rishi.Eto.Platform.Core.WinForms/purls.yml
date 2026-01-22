@@ -3,5 +3,6 @@
 - pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.8.0.12-dev
 - pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.8.0.13-dev
 - pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.8.0.9-dev
+- pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.8.3-dev
 - pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.9.0-dev
 - pkg:nuget/Rishi.Eto.Platform.Core.WinForms@2.9.0.9-dev
