@@ -9,4 +9,5 @@
 - pkg:nuget/Sekiban.Dcb.BlobStorage.AzureStorage@10.0.1-preview13
 - pkg:nuget/Sekiban.Dcb.BlobStorage.AzureStorage@10.0.2-preview06
 - pkg:nuget/Sekiban.Dcb.BlobStorage.AzureStorage@10.0.2-preview07
+- pkg:nuget/Sekiban.Dcb.BlobStorage.AzureStorage@10.0.3
 - pkg:nuget/Sekiban.Dcb.BlobStorage.AzureStorage@9.1.9
