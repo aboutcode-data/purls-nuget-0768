@@ -18,3 +18,4 @@
 - pkg:nuget/MessagePack.NodaTime@3.4.2
 - pkg:nuget/MessagePack.NodaTime@3.4.3
 - pkg:nuget/MessagePack.NodaTime@3.4.4
+- pkg:nuget/MessagePack.NodaTime@3.5.2
