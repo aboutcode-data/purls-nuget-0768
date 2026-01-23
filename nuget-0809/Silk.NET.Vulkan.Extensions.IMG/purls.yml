@@ -13,6 +13,7 @@
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.20.0
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.21.0
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.22.0
+- pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.23.0
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.5.0
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.6.0
 - pkg:nuget/Silk.NET.Vulkan.Extensions.IMG@2.7.0
