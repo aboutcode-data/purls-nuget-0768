@@ -23,6 +23,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@1.5.3-hotfix-layout-recall.1
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@1.5.4
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@1.5.4-online-feedback-fix.1
+- pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@2.0.0-add-hdmdNxM4kze-support.20
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@2.0.0-add-hdmdNxM4kze-support.3
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@2.0.0-add-hdmdNxM4kze-support.4
 - pkg:nuget/PepperDash.Essentials.Plugin.4Series.DM@2.0.0-add-hdmdNxM4kze-support.5
