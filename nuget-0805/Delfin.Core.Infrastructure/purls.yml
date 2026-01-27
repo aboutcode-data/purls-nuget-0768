@@ -431,3 +431,4 @@
 - pkg:nuget/Delfin.Core.Infrastructure@1.3.81
 - pkg:nuget/Delfin.Core.Infrastructure@1.3.82
 - pkg:nuget/Delfin.Core.Infrastructure@1.3.83
+- pkg:nuget/Delfin.Core.Infrastructure@2.0.7
