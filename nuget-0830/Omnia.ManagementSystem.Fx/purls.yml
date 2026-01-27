@@ -80,6 +80,7 @@
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.22-preview
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.23-preview
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.24-preview
+- pkg:nuget/Omnia.ManagementSystem.Fx@7.9.26
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.3
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.3-preview
 - pkg:nuget/Omnia.ManagementSystem.Fx@7.9.4-preview
