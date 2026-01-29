@@ -1,3 +1,4 @@
+- pkg:nuget/Reo.Core.ExternalReference@10.0.9
 - pkg:nuget/Reo.Core.ExternalReference@3.1.11998
 - pkg:nuget/Reo.Core.ExternalReference@3.1.12021
 - pkg:nuget/Reo.Core.ExternalReference@3.1.12074
