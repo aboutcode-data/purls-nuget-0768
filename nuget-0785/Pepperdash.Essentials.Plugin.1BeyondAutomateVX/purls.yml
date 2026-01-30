@@ -6,3 +6,4 @@
 - pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-IHasCameras.1
 - pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-interfaces-and-messengers.1
 - pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-interfaces-and-messengers.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-convert-to-system-net-http.3
