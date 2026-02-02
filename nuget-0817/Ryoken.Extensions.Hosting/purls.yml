@@ -18,3 +18,5 @@
 - pkg:nuget/Ryoken.Extensions.Hosting@1.0.53
 - pkg:nuget/Ryoken.Extensions.Hosting@1.0.54
 - pkg:nuget/Ryoken.Extensions.Hosting@1.0.55
+- pkg:nuget/Ryoken.Extensions.Hosting@1.0.61
+- pkg:nuget/Ryoken.Extensions.Hosting@1.0.64
