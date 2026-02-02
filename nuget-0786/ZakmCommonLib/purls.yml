@@ -282,3 +282,5 @@
 - pkg:nuget/ZakmCommonLib@2.3.17
 - pkg:nuget/ZakmCommonLib@2.3.32
 - pkg:nuget/ZakmCommonLib@2.3.37
+- pkg:nuget/ZakmCommonLib@2.3.40
+- pkg:nuget/ZakmCommonLib@2.3.41

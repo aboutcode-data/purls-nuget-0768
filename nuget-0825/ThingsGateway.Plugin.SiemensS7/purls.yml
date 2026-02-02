@@ -356,6 +356,7 @@
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@12.4.22
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@12.4.24
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@12.4.30
+- pkg:nuget/ThingsGateway.Plugin.SiemensS7@12.4.43
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@6.1.0.17
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@6.1.0.18
 - pkg:nuget/ThingsGateway.Plugin.SiemensS7@6.1.0.19
