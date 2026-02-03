@@ -25,6 +25,7 @@
 - pkg:nuget/Tiny.RestClient@1.6.6
 - pkg:nuget/Tiny.RestClient@1.7.0
 - pkg:nuget/Tiny.RestClient@1.7.1
+- pkg:nuget/Tiny.RestClient@1.7.2
 - pkg:nuget/Tiny.RestClient@2.0.0-alpha001
 - pkg:nuget/Tiny.RestClient@2.0.0-alpha002
 - pkg:nuget/Tiny.RestClient@2.0.0-alpha003
