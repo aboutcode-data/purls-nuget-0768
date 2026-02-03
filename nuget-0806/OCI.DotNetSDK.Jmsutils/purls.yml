@@ -1,2 +1,3 @@
 - pkg:nuget/OCI.DotNetSDK.Jmsutils@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Jmsutils@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Jmsutils@127.0.0
