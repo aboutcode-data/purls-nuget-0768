@@ -22,3 +22,4 @@
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.PostgreSql@2025.8.23.2283
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.PostgreSql@2025.9.16.3038
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.PostgreSql@2025.9.9.2853
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.PostgreSql@2026.2.3.5277

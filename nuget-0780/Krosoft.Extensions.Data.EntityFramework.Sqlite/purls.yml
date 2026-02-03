@@ -22,3 +22,4 @@
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.Sqlite@2025.8.20.1758
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.Sqlite@2025.8.23.2284
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.Sqlite@2025.9.9.2854
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.Sqlite@2026.2.3.5279
