@@ -418,3 +418,4 @@
 - pkg:nuget/Meraki.Api@1.61.28
 - pkg:nuget/Meraki.Api@1.61.29
 - pkg:nuget/Meraki.Api@1.61.33
+- pkg:nuget/Meraki.Api@1.64.47
