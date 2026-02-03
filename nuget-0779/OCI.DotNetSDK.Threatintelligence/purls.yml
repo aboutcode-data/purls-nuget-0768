@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Threatintelligence@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@32.0.0
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@32.1.0
 - pkg:nuget/OCI.DotNetSDK.Threatintelligence@32.2.0
