@@ -1,1 +1,2 @@
 - pkg:nuget/IronHive.Providers.Ollama@0.1.0
+- pkg:nuget/IronHive.Providers.Ollama@0.2.2
