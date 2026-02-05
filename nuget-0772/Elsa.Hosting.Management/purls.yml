@@ -41,3 +41,4 @@
 - pkg:nuget/Elsa.Hosting.Management@3.5.0-rc4
 - pkg:nuget/Elsa.Hosting.Management@3.5.1
 - pkg:nuget/Elsa.Hosting.Management@3.6.0-rc2
+- pkg:nuget/Elsa.Hosting.Management@3.6.0-rc3
