@@ -10,3 +10,4 @@
 - pkg:nuget/openssl-native@3.0.17
 - pkg:nuget/openssl-native@3.0.8
 - pkg:nuget/openssl-native@3.5.3
+- pkg:nuget/openssl-native@3.5.5
