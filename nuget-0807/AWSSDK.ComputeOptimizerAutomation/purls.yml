@@ -3,5 +3,6 @@
 - pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.12
 - pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.14
 - pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.21
+- pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.28
 - pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.4
 - pkg:nuget/AWSSDK.ComputeOptimizerAutomation@3.7.500.6
