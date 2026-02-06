@@ -536,6 +536,7 @@
 - pkg:nuget/AWSSDK.CodeCatalyst@3.7.501.19
 - pkg:nuget/AWSSDK.CodeCatalyst@3.7.501.22
 - pkg:nuget/AWSSDK.CodeCatalyst@3.7.501.29
+- pkg:nuget/AWSSDK.CodeCatalyst@3.7.501.36
 - pkg:nuget/AWSSDK.CodeCatalyst@3.7.501.6
 - pkg:nuget/AWSSDK.CodeCatalyst@4.0.0
 - pkg:nuget/AWSSDK.CodeCatalyst@4.0.0-preview
