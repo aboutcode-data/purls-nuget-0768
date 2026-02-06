@@ -57,3 +57,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.Jobs@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.Jobs@24.1.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.Jobs@25.1.5
+- pkg:nuget/Luxoft.Framework.DomainDriven.Jobs@25.4.1

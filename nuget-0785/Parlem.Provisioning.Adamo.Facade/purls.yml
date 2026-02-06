@@ -101,6 +101,7 @@
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.41-beta1
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.43
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.5
+- pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.55
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.6
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.7
 - pkg:nuget/Parlem.Provisioning.Adamo.Facade@8.0.8
