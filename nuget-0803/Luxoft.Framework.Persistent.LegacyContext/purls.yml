@@ -212,3 +212,4 @@
 - pkg:nuget/Luxoft.Framework.Persistent.LegacyContext@23.2.9.3
 - pkg:nuget/Luxoft.Framework.Persistent.LegacyContext@24.1.3
 - pkg:nuget/Luxoft.Framework.Persistent.LegacyContext@25.3.0
+- pkg:nuget/Luxoft.Framework.Persistent.LegacyContext@25.4.1

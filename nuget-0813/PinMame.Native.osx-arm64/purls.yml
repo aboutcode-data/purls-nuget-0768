@@ -793,3 +793,4 @@
 - pkg:nuget/PinMame.Native.osx-arm64@3.6.0-preview.996
 - pkg:nuget/PinMame.Native.osx-arm64@3.6.0-preview.997
 - pkg:nuget/PinMame.Native.osx-arm64@3.6.0-preview.998
+- pkg:nuget/PinMame.Native.osx-arm64@3.7.0-beta1

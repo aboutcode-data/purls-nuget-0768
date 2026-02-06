@@ -1,5 +1,6 @@
 - pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.10.2512.1
 - pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.10.2512.2
+- pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.10.2602.1
 - pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.2.1811.1
 - pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.2.1811.2
 - pkg:nuget/VIEApps.Components.Utility.AssemblyLoader@10.2.1812.1
