@@ -1,3 +1,5 @@
 - pkg:nuget/Snapshooter.TUnit@0.15.0
 - pkg:nuget/Snapshooter.TUnit@1.0.0
 - pkg:nuget/Snapshooter.TUnit@1.0.1
+- pkg:nuget/Snapshooter.TUnit@1.2.0
+- pkg:nuget/Snapshooter.TUnit@1.2.0-preview.1
