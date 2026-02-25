@@ -1,1 +1,12 @@
 - pkg:nuget/UmbracoMediaSnapshot@1.0.5
+- pkg:nuget/UmbracoMediaSnapshot@1.0.9
+- pkg:nuget/UmbracoMediaSnapshot@1.1.8
+- pkg:nuget/UmbracoMediaSnapshot@1.2.5
+- pkg:nuget/UmbracoMediaSnapshot@1.3.1
+- pkg:nuget/UmbracoMediaSnapshot@1.3.2
+- pkg:nuget/UmbracoMediaSnapshot@1.3.3
+- pkg:nuget/UmbracoMediaSnapshot@1.3.5
+- pkg:nuget/UmbracoMediaSnapshot@2.0.0-alpha
+- pkg:nuget/UmbracoMediaSnapshot@2.1.6-alpha
+- pkg:nuget/UmbracoMediaSnapshot@2.1.7-alpha
+- pkg:nuget/UmbracoMediaSnapshot@2.1.8-alpha

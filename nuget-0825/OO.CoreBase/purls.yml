@@ -16,3 +16,4 @@
 - pkg:nuget/OO.CoreBase@1.9.4
 - pkg:nuget/OO.CoreBase@2.0.0
 - pkg:nuget/OO.CoreBase@2.0.3
+- pkg:nuget/OO.CoreBase@2.1.4

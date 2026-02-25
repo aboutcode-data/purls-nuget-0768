@@ -38,6 +38,8 @@
 - pkg:nuget/HMENetCore.Elasticsearch@6.0.7
 - pkg:nuget/HMENetCore.Elasticsearch@6.0.8
 - pkg:nuget/HMENetCore.Elasticsearch@7.1.1
+- pkg:nuget/HMENetCore.Elasticsearch@7.1.13
 - pkg:nuget/HMENetCore.Elasticsearch@8.1.1
+- pkg:nuget/HMENetCore.Elasticsearch@8.1.13
 - pkg:nuget/HMENetCore.Elasticsearch@8.1.2
 - pkg:nuget/HMENetCore.Elasticsearch@8.1.6
