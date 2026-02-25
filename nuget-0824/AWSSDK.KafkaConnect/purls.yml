@@ -723,6 +723,8 @@
 - pkg:nuget/AWSSDK.KafkaConnect@3.7.504.1
 - pkg:nuget/AWSSDK.KafkaConnect@3.7.504.15
 - pkg:nuget/AWSSDK.KafkaConnect@3.7.504.8
+- pkg:nuget/AWSSDK.KafkaConnect@3.7.505
+- pkg:nuget/AWSSDK.KafkaConnect@3.7.505.3
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.0
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.0-preview
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.0-preview.10
@@ -761,3 +763,4 @@
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.1.1
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.1.2
 - pkg:nuget/AWSSDK.KafkaConnect@4.0.1.4
+- pkg:nuget/AWSSDK.KafkaConnect@4.0.5

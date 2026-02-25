@@ -166,6 +166,7 @@
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.2.7
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.2.8
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.20.0-PreRelease
+- pkg:nuget/Dynamicweb.Indexing.Lucene4@10.20.15
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.21.2-PreRelease
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.22.8
 - pkg:nuget/Dynamicweb.Indexing.Lucene4@10.3.0

@@ -87,4 +87,6 @@
 - pkg:nuget/NStore.Persistence.LiteDB@0.20.1
 - pkg:nuget/NStore.Persistence.LiteDB@0.21.0-batchoperations0060
 - pkg:nuget/NStore.Persistence.LiteDB@0.21.0-batchoperations0061
+- pkg:nuget/NStore.Persistence.LiteDB@0.22.0-perfs0019
+- pkg:nuget/NStore.Persistence.LiteDB@1.0.0-beta0000
 - pkg:nuget/NStore.Persistence.LiteDB@10.1.0-pre0012

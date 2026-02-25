@@ -332,6 +332,7 @@
 - pkg:nuget/AWSSDK.TrustedAdvisor@3.7.502.37
 - pkg:nuget/AWSSDK.TrustedAdvisor@3.7.502.7
 - pkg:nuget/AWSSDK.TrustedAdvisor@3.7.502.9
+- pkg:nuget/AWSSDK.TrustedAdvisor@3.7.503
 - pkg:nuget/AWSSDK.TrustedAdvisor@4.0.0
 - pkg:nuget/AWSSDK.TrustedAdvisor@4.0.0-preview
 - pkg:nuget/AWSSDK.TrustedAdvisor@4.0.0-preview.10

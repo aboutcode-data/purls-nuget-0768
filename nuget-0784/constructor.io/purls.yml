@@ -54,3 +54,6 @@
 - pkg:nuget/constructor.io@3.7.0
 - pkg:nuget/constructor.io@3.8.0
 - pkg:nuget/constructor.io@3.9.0
+- pkg:nuget/constructor.io@4.0.0-beta.1
+- pkg:nuget/constructor.io@4.0.0-beta.2
+- pkg:nuget/constructor.io@4.0.0-beta.3

@@ -27,3 +27,4 @@
 - pkg:nuget/GcDocs.Barcode@8.1.5
 - pkg:nuget/GcDocs.Barcode@8.2.0
 - pkg:nuget/GcDocs.Barcode@8.2.1
+- pkg:nuget/GcDocs.Barcode@9.0.2

@@ -2,6 +2,7 @@
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@10.0.0-preview.2
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@10.0.0-preview.3
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@10.0.0-rc.1
+- pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@10.2.0
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@5.0.2018.350
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@5.0.2019.40
 - pkg:nuget/Cuemon.AspNetCore.Razor.TagHelpers@6.0.0
