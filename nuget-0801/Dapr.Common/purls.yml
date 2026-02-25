@@ -28,3 +28,4 @@
 - pkg:nuget/Dapr.Common@1.16.0-rc21
 - pkg:nuget/Dapr.Common@1.17.0-rc02
 - pkg:nuget/Dapr.Common@1.17.0-rc03
+- pkg:nuget/Dapr.Common@1.17.0-rc14

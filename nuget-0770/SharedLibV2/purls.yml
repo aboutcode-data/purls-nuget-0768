@@ -100,3 +100,4 @@
 - pkg:nuget/SharedLibV2@6.3.0
 - pkg:nuget/SharedLibV2@6.4.0
 - pkg:nuget/SharedLibV2@7.0.0
+- pkg:nuget/SharedLibV2@7.7.0

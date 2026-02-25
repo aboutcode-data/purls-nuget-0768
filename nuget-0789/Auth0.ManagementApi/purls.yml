@@ -120,6 +120,7 @@
 - pkg:nuget/Auth0.ManagementApi@7.4.0
 - pkg:nuget/Auth0.ManagementApi@7.40.0
 - pkg:nuget/Auth0.ManagementApi@7.41.0
+- pkg:nuget/Auth0.ManagementApi@7.45.0
 - pkg:nuget/Auth0.ManagementApi@7.5.0
 - pkg:nuget/Auth0.ManagementApi@7.5.1
 - pkg:nuget/Auth0.ManagementApi@7.6.0

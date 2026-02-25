@@ -42,3 +42,5 @@
 - pkg:nuget/Snapshooter.Xunit@0.9.0
 - pkg:nuget/Snapshooter.Xunit@1.0.0
 - pkg:nuget/Snapshooter.Xunit@1.0.1
+- pkg:nuget/Snapshooter.Xunit@1.2.0
+- pkg:nuget/Snapshooter.Xunit@1.2.0-preview.1
