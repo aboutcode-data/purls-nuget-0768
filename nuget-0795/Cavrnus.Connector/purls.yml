@@ -229,6 +229,7 @@
 - pkg:nuget/Cavrnus.Connector@2025.1.1337-alpha
 - pkg:nuget/Cavrnus.Connector@2025.1.1339-alpha
 - pkg:nuget/Cavrnus.Connector@2025.1.1340-alpha
+- pkg:nuget/Cavrnus.Connector@2025.1.1350-alpha
 - pkg:nuget/Cavrnus.Connector@2025.1.573-beta
 - pkg:nuget/Cavrnus.Connector@2025.1.574-beta
 - pkg:nuget/Cavrnus.Connector@2025.1.575-beta
