@@ -73,3 +73,4 @@
 - pkg:nuget/ArmoniK.TaskDumper@0.1.0-erpublishnuget.110.f42b1db
 - pkg:nuget/ArmoniK.TaskDumper@0.1.0-ertesttaskrerunner.77.4db9fe0
 - pkg:nuget/ArmoniK.TaskDumper@0.1.0-ertreestructureonreadme.104.21fb9b4
+- pkg:nuget/ArmoniK.TaskDumper@0.1.0-issue26docscreatereadthedocs.125.sha.68628ee
