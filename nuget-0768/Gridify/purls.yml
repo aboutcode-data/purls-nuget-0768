@@ -45,6 +45,7 @@
 - pkg:nuget/Gridify@2.16.2
 - pkg:nuget/Gridify@2.16.3
 - pkg:nuget/Gridify@2.17.1
+- pkg:nuget/Gridify@2.18.0
 - pkg:nuget/Gridify@2.2.0
 - pkg:nuget/Gridify@2.2.1
 - pkg:nuget/Gridify@2.3.0
