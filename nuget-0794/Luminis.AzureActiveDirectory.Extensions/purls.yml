@@ -10,3 +10,4 @@
 - pkg:nuget/Luminis.AzureActiveDirectory.Extensions@1.1.0-ci.1
 - pkg:nuget/Luminis.AzureActiveDirectory.Extensions@1.1.1%2B3
 - pkg:nuget/Luminis.AzureActiveDirectory.Extensions@2.0.0%2B0
+- pkg:nuget/Luminis.AzureActiveDirectory.Extensions@2.0.3%2B0
