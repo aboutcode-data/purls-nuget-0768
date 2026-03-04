@@ -1,3 +1,4 @@
 - pkg:nuget/Atc.Rest.Api.SourceGenerator@1.0.0
+- pkg:nuget/Atc.Rest.Api.SourceGenerator@1.0.116
 - pkg:nuget/Atc.Rest.Api.SourceGenerator@1.0.74
 - pkg:nuget/Atc.Rest.Api.SourceGenerator@1.0.79
