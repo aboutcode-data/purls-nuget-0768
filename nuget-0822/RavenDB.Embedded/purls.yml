@@ -1457,3 +1457,4 @@
 - pkg:nuget/RavenDB.Embedded@7.1.4-rc-71022
 - pkg:nuget/RavenDB.Embedded@7.1.6-rc-71029
 - pkg:nuget/RavenDB.Embedded@7.2.0-rc-72002
+- pkg:nuget/RavenDB.Embedded@7.2.1-rc-72004
