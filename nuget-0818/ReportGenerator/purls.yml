@@ -313,3 +313,4 @@
 - pkg:nuget/ReportGenerator@5.4.7
 - pkg:nuget/ReportGenerator@5.4.8
 - pkg:nuget/ReportGenerator@5.4.9
+- pkg:nuget/ReportGenerator@5.5.3
