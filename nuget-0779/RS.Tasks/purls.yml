@@ -58,6 +58,7 @@
 - pkg:nuget/RS.Tasks@1.157.0
 - pkg:nuget/RS.Tasks@1.158.0
 - pkg:nuget/RS.Tasks@1.159.0
+- pkg:nuget/RS.Tasks@1.169.0
 - pkg:nuget/RS.Tasks@1.49.0
 - pkg:nuget/RS.Tasks@1.50.0
 - pkg:nuget/RS.Tasks@1.51.0
