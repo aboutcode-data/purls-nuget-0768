@@ -78,3 +78,6 @@
 - pkg:nuget/Conexus.Export.Contracts@1.1.7.4
 - pkg:nuget/Conexus.Export.Contracts@1.1.7.5
 - pkg:nuget/Conexus.Export.Contracts@1.1.7.6
+- pkg:nuget/Conexus.Export.Contracts@1.1.8.9
+- pkg:nuget/Conexus.Export.Contracts@1.1.9.1
+- pkg:nuget/Conexus.Export.Contracts@1.1.9.2
