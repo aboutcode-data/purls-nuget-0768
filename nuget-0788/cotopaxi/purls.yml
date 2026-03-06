@@ -21,3 +21,4 @@
 - pkg:nuget/cotopaxi@1.7.0
 - pkg:nuget/cotopaxi@1.8.0
 - pkg:nuget/cotopaxi@1.9.0
+- pkg:nuget/cotopaxi@2.3.0-preview.2
