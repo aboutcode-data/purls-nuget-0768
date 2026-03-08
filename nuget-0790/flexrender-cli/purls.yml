@@ -1,2 +1,3 @@
+- pkg:nuget/flexrender-cli@0.11.1
 - pkg:nuget/flexrender-cli@0.5.2
 - pkg:nuget/flexrender-cli@0.9.0
