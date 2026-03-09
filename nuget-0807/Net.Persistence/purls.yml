@@ -3,3 +3,5 @@
 - pkg:nuget/Net.Persistence@1.0.2
 - pkg:nuget/Net.Persistence@1.0.3
 - pkg:nuget/Net.Persistence@1.0.9
+- pkg:nuget/Net.Persistence@2.0.9
+- pkg:nuget/Net.Persistence@3.0.0
