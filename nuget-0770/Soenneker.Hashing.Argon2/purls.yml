@@ -649,3 +649,5 @@
 - pkg:nuget/Soenneker.Hashing.Argon2@4.0.669
 - pkg:nuget/Soenneker.Hashing.Argon2@4.0.681
 - pkg:nuget/Soenneker.Hashing.Argon2@4.0.705
+- pkg:nuget/Soenneker.Hashing.Argon2@4.0.712
+- pkg:nuget/Soenneker.Hashing.Argon2@4.0.713

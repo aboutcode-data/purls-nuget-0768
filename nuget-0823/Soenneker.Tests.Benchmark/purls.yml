@@ -46,3 +46,5 @@
 - pkg:nuget/Soenneker.Tests.Benchmark@3.0.9
 - pkg:nuget/Soenneker.Tests.Benchmark@4.0.53
 - pkg:nuget/Soenneker.Tests.Benchmark@4.0.54
+- pkg:nuget/Soenneker.Tests.Benchmark@4.0.67
+- pkg:nuget/Soenneker.Tests.Benchmark@4.0.68
