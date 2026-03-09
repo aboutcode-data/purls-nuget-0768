@@ -59,6 +59,7 @@
 - pkg:nuget/Google.Cloud.PubSub.V1@3.26.0
 - pkg:nuget/Google.Cloud.PubSub.V1@3.27.0
 - pkg:nuget/Google.Cloud.PubSub.V1@3.3.0
+- pkg:nuget/Google.Cloud.PubSub.V1@3.33.0
 - pkg:nuget/Google.Cloud.PubSub.V1@3.4.0
 - pkg:nuget/Google.Cloud.PubSub.V1@3.5.0
 - pkg:nuget/Google.Cloud.PubSub.V1@3.5.1
