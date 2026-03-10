@@ -42,3 +42,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Sen5x@1.0.71
 - pkg:nuget/nanoFramework.Iot.Device.Sen5x@1.0.83
 - pkg:nuget/nanoFramework.Iot.Device.Sen5x@1.0.90
+- pkg:nuget/nanoFramework.Iot.Device.Sen5x@2.0.0-preview.16
