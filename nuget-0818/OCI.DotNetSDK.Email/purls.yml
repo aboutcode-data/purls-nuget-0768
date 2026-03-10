@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Email@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Email@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Email@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Email@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Email@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Email@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Email@14.1.0
