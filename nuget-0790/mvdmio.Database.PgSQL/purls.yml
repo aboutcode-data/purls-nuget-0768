@@ -1,6 +1,7 @@
 - pkg:nuget/mvdmio.Database.PgSQL@0.1.0
 - pkg:nuget/mvdmio.Database.PgSQL@0.1.1
 - pkg:nuget/mvdmio.Database.PgSQL@0.19.0
+- pkg:nuget/mvdmio.Database.PgSQL@0.19.3
 - pkg:nuget/mvdmio.Database.PgSQL@0.2.0
 - pkg:nuget/mvdmio.Database.PgSQL@0.2.1
 - pkg:nuget/mvdmio.Database.PgSQL@0.2.2
