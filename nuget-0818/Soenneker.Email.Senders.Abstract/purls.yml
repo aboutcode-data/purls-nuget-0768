@@ -27,6 +27,7 @@
 - pkg:nuget/Soenneker.Email.Senders.Abstract@3.0.7
 - pkg:nuget/Soenneker.Email.Senders.Abstract@3.0.8
 - pkg:nuget/Soenneker.Email.Senders.Abstract@3.0.9
+- pkg:nuget/Soenneker.Email.Senders.Abstract@4.0.101
 - pkg:nuget/Soenneker.Email.Senders.Abstract@4.0.37
 - pkg:nuget/Soenneker.Email.Senders.Abstract@4.0.39
 - pkg:nuget/Soenneker.Email.Senders.Abstract@4.0.42
