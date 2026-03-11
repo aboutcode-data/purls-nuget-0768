@@ -1,2 +1,6 @@
 - pkg:nuget/SmartExpressions@2.0.3
 - pkg:nuget/SmartExpressions@3.0.0
+- pkg:nuget/SmartExpressions@4.0.0
+- pkg:nuget/SmartExpressions@4.1.0
+- pkg:nuget/SmartExpressions@5.0.0
+- pkg:nuget/SmartExpressions@5.1.0
