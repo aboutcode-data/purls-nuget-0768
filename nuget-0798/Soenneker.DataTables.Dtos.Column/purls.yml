@@ -5,3 +5,4 @@
 - pkg:nuget/Soenneker.DataTables.Dtos.Column@3.0.5
 - pkg:nuget/Soenneker.DataTables.Dtos.Column@3.0.6
 - pkg:nuget/Soenneker.DataTables.Dtos.Column@4.0.11
+- pkg:nuget/Soenneker.DataTables.Dtos.Column@4.0.15
