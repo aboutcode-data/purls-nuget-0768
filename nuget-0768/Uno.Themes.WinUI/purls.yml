@@ -91,5 +91,7 @@
 - pkg:nuget/Uno.Themes.WinUI@5.8.0-dev.6
 - pkg:nuget/Uno.Themes.WinUI@6.0.2
 - pkg:nuget/Uno.Themes.WinUI@6.1.1
+- pkg:nuget/Uno.Themes.WinUI@7.0.0-dev.10
 - pkg:nuget/Uno.Themes.WinUI@7.0.0-dev.5
 - pkg:nuget/Uno.Themes.WinUI@7.0.0-dev.7
+- pkg:nuget/Uno.Themes.WinUI@7.0.0-dev.9
