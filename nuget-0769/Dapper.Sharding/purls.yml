@@ -175,6 +175,7 @@
 - pkg:nuget/Dapper.Sharding@3.0.41
 - pkg:nuget/Dapper.Sharding@3.0.42
 - pkg:nuget/Dapper.Sharding@3.0.43
+- pkg:nuget/Dapper.Sharding@3.0.44
 - pkg:nuget/Dapper.Sharding@3.0.5
 - pkg:nuget/Dapper.Sharding@3.0.6
 - pkg:nuget/Dapper.Sharding@3.0.7

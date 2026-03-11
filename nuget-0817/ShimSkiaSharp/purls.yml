@@ -77,3 +77,4 @@
 - pkg:nuget/ShimSkiaSharp@3.0.4-beta.3
 - pkg:nuget/ShimSkiaSharp@3.0.5
 - pkg:nuget/ShimSkiaSharp@3.0.6
+- pkg:nuget/ShimSkiaSharp@3.6.0
