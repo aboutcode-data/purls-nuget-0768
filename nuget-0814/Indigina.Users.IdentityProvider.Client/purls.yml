@@ -45,6 +45,7 @@
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.54
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.55
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.6
+- pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.61
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.7
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.8
 - pkg:nuget/Indigina.Users.IdentityProvider.Client@1.0.9
