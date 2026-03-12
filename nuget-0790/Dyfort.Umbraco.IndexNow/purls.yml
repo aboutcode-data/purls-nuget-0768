@@ -1,1 +1,6 @@
 - pkg:nuget/Dyfort.Umbraco.IndexNow@1.0.0
+- pkg:nuget/Dyfort.Umbraco.IndexNow@13.0.0
+- pkg:nuget/Dyfort.Umbraco.IndexNow@14.0.0
+- pkg:nuget/Dyfort.Umbraco.IndexNow@15.0.0
+- pkg:nuget/Dyfort.Umbraco.IndexNow@16.0.0
+- pkg:nuget/Dyfort.Umbraco.IndexNow@17.0.0
