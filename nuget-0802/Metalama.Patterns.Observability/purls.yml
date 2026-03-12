@@ -109,3 +109,4 @@
 - pkg:nuget/Metalama.Patterns.Observability@2025.1.9
 - pkg:nuget/Metalama.Patterns.Observability@2025.2.1-preview
 - pkg:nuget/Metalama.Patterns.Observability@2025.2.2-preview
+- pkg:nuget/Metalama.Patterns.Observability@2026.0.17
