@@ -1051,6 +1051,7 @@
 - pkg:nuget/AWSSDK.EventBridge@3.7.502.35
 - pkg:nuget/AWSSDK.EventBridge@3.7.502.42
 - pkg:nuget/AWSSDK.EventBridge@3.7.502.47
+- pkg:nuget/AWSSDK.EventBridge@3.7.502.54
 - pkg:nuget/AWSSDK.EventBridge@3.7.6
 - pkg:nuget/AWSSDK.EventBridge@3.7.6.1
 - pkg:nuget/AWSSDK.EventBridge@4.0.0
@@ -1095,3 +1096,4 @@
 - pkg:nuget/AWSSDK.EventBridge@4.0.4.4
 - pkg:nuget/AWSSDK.EventBridge@4.0.4.8
 - pkg:nuget/AWSSDK.EventBridge@4.0.5
+- pkg:nuget/AWSSDK.EventBridge@4.0.5.18
