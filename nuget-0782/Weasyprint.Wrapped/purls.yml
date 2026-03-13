@@ -26,3 +26,6 @@
 - pkg:nuget/Weasyprint.Wrapped@6.0.0
 - pkg:nuget/Weasyprint.Wrapped@6.0.1
 - pkg:nuget/Weasyprint.Wrapped@7.0.1
+- pkg:nuget/Weasyprint.Wrapped@8.0.0
+- pkg:nuget/Weasyprint.Wrapped@8.0.2
+- pkg:nuget/Weasyprint.Wrapped@8.0.3
