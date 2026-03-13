@@ -11,3 +11,4 @@
 - pkg:nuget/Cognos.LibraryCore.LinqDynamic@6.0.7
 - pkg:nuget/Cognos.LibraryCore.LinqDynamic@6.0.8
 - pkg:nuget/Cognos.LibraryCore.LinqDynamic@6.2.3
+- pkg:nuget/Cognos.LibraryCore.LinqDynamic@6.3.5
