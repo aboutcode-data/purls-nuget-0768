@@ -152,3 +152,4 @@
 - pkg:nuget/WeihanLi.Common.Logging.Serilog@1.0.81-preview-20250813-013801
 - pkg:nuget/WeihanLi.Common.Logging.Serilog@1.0.82
 - pkg:nuget/WeihanLi.Common.Logging.Serilog@1.0.82-preview-20250824-082917
+- pkg:nuget/WeihanLi.Common.Logging.Serilog@1.0.87-preview-20260314-012752

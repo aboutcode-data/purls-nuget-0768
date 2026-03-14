@@ -268,6 +268,7 @@
 - pkg:nuget/Uno.Check@1.33.0-dev.7
 - pkg:nuget/Uno.Check@1.33.1
 - pkg:nuget/Uno.Check@1.35.0-dev.5
+- pkg:nuget/Uno.Check@1.35.0-dev.6
 - pkg:nuget/Uno.Check@1.4.0
 - pkg:nuget/Uno.Check@1.4.0-dev.13
 - pkg:nuget/Uno.Check@1.4.0-dev.16

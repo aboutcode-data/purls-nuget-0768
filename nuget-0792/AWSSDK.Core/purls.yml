@@ -1356,4 +1356,5 @@
 - pkg:nuget/AWSSDK.Core@4.0.0.8
 - pkg:nuget/AWSSDK.Core@4.0.0.9
 - pkg:nuget/AWSSDK.Core@4.0.3.14
+- pkg:nuget/AWSSDK.Core@4.0.3.18
 - pkg:nuget/AWSSDK.Core@4.0.3.7
