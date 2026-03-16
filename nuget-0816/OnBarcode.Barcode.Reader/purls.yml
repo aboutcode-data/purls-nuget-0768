@@ -17,6 +17,7 @@
 - pkg:nuget/OnBarcode.Barcode.Reader@10.0.0.8
 - pkg:nuget/OnBarcode.Barcode.Reader@10.0.0.9
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.4
+- pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.6
 - pkg:nuget/OnBarcode.Barcode.Reader@9.5.0.1
 - pkg:nuget/OnBarcode.Barcode.Reader@9.5.0.1-rc1
 - pkg:nuget/OnBarcode.Barcode.Reader@9.5.0.2
