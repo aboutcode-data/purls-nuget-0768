@@ -3,3 +3,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.Apache.ActiveMq@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.Apache.ActiveMq@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.Apache.ActiveMq@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.Apache.ActiveMq@5.13.51
