@@ -42,6 +42,7 @@
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.1.2
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.10.0
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.11.0
+- pkg:nuget/IF.APM.App.Http.Api.Client@3.110.0
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.14.0
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.15.0
 - pkg:nuget/IF.APM.App.Http.Api.Client@3.15.1
