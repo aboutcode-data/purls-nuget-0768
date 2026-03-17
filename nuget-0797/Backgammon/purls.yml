@@ -1,4 +1,5 @@
 - pkg:nuget/Backgammon@1.0.1
+- pkg:nuget/Backgammon@10.0.5
 - pkg:nuget/Backgammon@2.0.1
 - pkg:nuget/Backgammon@2.0.2
 - pkg:nuget/Backgammon@7.0.1

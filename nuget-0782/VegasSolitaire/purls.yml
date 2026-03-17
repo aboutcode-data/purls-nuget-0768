@@ -1,4 +1,5 @@
 - pkg:nuget/VegasSolitaire@1.0.1
+- pkg:nuget/VegasSolitaire@10.0.5
 - pkg:nuget/VegasSolitaire@2.0.1
 - pkg:nuget/VegasSolitaire@2.0.2
 - pkg:nuget/VegasSolitaire@7.0.1
