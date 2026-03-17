@@ -1,6 +1,7 @@
 - pkg:nuget/MultiplayerSignalRHubClasses@1.0.1
 - pkg:nuget/MultiplayerSignalRHubClasses@1.0.2
 - pkg:nuget/MultiplayerSignalRHubClasses@1.0.3
+- pkg:nuget/MultiplayerSignalRHubClasses@10.0.12
 - pkg:nuget/MultiplayerSignalRHubClasses@7.0.1
 - pkg:nuget/MultiplayerSignalRHubClasses@8.0.1
 - pkg:nuget/MultiplayerSignalRHubClasses@8.0.2
