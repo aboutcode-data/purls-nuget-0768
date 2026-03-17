@@ -71,6 +71,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.44.1
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.44.2
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.44.3
+- pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.48.3
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.5.0
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.6.0
 - pkg:nuget/AlibabaCloud.SDK.Aliding20230426@2.7.0
