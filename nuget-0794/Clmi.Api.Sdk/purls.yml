@@ -498,6 +498,8 @@
 - pkg:nuget/Clmi.Api.Sdk@4.0.169
 - pkg:nuget/Clmi.Api.Sdk@4.0.170
 - pkg:nuget/Clmi.Api.Sdk@4.0.175
+- pkg:nuget/Clmi.Api.Sdk@4.0.182
+- pkg:nuget/Clmi.Api.Sdk@4.0.183
 - pkg:nuget/Clmi.Api.Sdk@4.0.2
 - pkg:nuget/Clmi.Api.Sdk@4.0.3
 - pkg:nuget/Clmi.Api.Sdk@4.0.4
@@ -509,3 +511,5 @@
 - pkg:nuget/Clmi.Api.Sdk@4.1.38
 - pkg:nuget/Clmi.Api.Sdk@4.1.47
 - pkg:nuget/Clmi.Api.Sdk@4.1.48
+- pkg:nuget/Clmi.Api.Sdk@4.1.59
+- pkg:nuget/Clmi.Api.Sdk@4.1.60
