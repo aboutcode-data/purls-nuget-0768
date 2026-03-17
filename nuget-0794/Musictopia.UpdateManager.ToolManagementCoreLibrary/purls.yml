@@ -1,3 +1,4 @@
+- pkg:nuget/Musictopia.UpdateManager.ToolManagementCoreLibrary@10.0.13
 - pkg:nuget/Musictopia.UpdateManager.ToolManagementCoreLibrary@9.0.2
 - pkg:nuget/Musictopia.UpdateManager.ToolManagementCoreLibrary@9.0.6
 - pkg:nuget/Musictopia.UpdateManager.ToolManagementCoreLibrary@9.0.7
