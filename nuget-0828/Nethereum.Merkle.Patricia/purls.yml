@@ -21,3 +21,4 @@
 - pkg:nuget/Nethereum.Merkle.Patricia@4.28.0
 - pkg:nuget/Nethereum.Merkle.Patricia@4.29.0
 - pkg:nuget/Nethereum.Merkle.Patricia@5.0.0
+- pkg:nuget/Nethereum.Merkle.Patricia@6.0.4
