@@ -52,3 +52,4 @@
 - pkg:nuget/Nethereum.RPC.Reactive@4.8.0
 - pkg:nuget/Nethereum.RPC.Reactive@4.9.0
 - pkg:nuget/Nethereum.RPC.Reactive@5.0.0
+- pkg:nuget/Nethereum.RPC.Reactive@6.0.4
