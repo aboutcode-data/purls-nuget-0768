@@ -27,3 +27,4 @@
 - pkg:nuget/Spiderly.Security@19.2.0-preview
 - pkg:nuget/Spiderly.Security@19.5.4-preview.1
 - pkg:nuget/Spiderly.Security@19.5.4-preview.3
+- pkg:nuget/Spiderly.Security@19.6.2
