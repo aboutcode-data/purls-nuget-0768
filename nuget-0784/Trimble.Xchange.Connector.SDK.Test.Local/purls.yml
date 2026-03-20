@@ -36,3 +36,4 @@
 - pkg:nuget/Trimble.Xchange.Connector.SDK.Test.Local@1.4.9
 - pkg:nuget/Trimble.Xchange.Connector.SDK.Test.Local@1.5.0
 - pkg:nuget/Trimble.Xchange.Connector.SDK.Test.Local@1.5.1
+- pkg:nuget/Trimble.Xchange.Connector.SDK.Test.Local@1.5.5

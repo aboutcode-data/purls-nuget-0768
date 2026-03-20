@@ -44,6 +44,7 @@
 - pkg:nuget/AWSSDK.BedrockAgentCore@3.7.510
 - pkg:nuget/AWSSDK.BedrockAgentCore@3.7.511.11
 - pkg:nuget/AWSSDK.BedrockAgentCore@3.7.511.4
+- pkg:nuget/AWSSDK.BedrockAgentCore@3.7.513
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.0
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.0.1
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.1
@@ -54,6 +55,7 @@
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.10
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.11.3
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.12.1
+- pkg:nuget/AWSSDK.BedrockAgentCore@4.0.13
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.2
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.2.1
 - pkg:nuget/AWSSDK.BedrockAgentCore@4.0.2.2

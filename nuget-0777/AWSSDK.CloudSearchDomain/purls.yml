@@ -1208,6 +1208,7 @@
 - pkg:nuget/AWSSDK.CloudSearchDomain@3.7.502.37
 - pkg:nuget/AWSSDK.CloudSearchDomain@3.7.502.48
 - pkg:nuget/AWSSDK.CloudSearchDomain@3.7.502.49
+- pkg:nuget/AWSSDK.CloudSearchDomain@3.7.502.52
 - pkg:nuget/AWSSDK.CloudSearchDomain@3.7.502.7
 - pkg:nuget/AWSSDK.CloudSearchDomain@4.0.0
 - pkg:nuget/AWSSDK.CloudSearchDomain@4.0.0-preview

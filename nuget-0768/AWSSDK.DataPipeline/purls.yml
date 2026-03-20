@@ -1205,6 +1205,7 @@
 - pkg:nuget/AWSSDK.DataPipeline@3.7.502.43
 - pkg:nuget/AWSSDK.DataPipeline@3.7.502.44
 - pkg:nuget/AWSSDK.DataPipeline@3.7.502.51
+- pkg:nuget/AWSSDK.DataPipeline@3.7.502.54
 - pkg:nuget/AWSSDK.DataPipeline@3.7.502.9
 - pkg:nuget/AWSSDK.DataPipeline@4.0.0
 - pkg:nuget/AWSSDK.DataPipeline@4.0.0-preview

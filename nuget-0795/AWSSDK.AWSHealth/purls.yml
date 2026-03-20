@@ -1178,6 +1178,7 @@
 - pkg:nuget/AWSSDK.AWSHealth@3.7.503.7
 - pkg:nuget/AWSSDK.AWSHealth@3.7.504.5
 - pkg:nuget/AWSSDK.AWSHealth@3.7.505.5
+- pkg:nuget/AWSSDK.AWSHealth@3.7.505.8
 - pkg:nuget/AWSSDK.AWSHealth@4.0.0
 - pkg:nuget/AWSSDK.AWSHealth@4.0.0-preview
 - pkg:nuget/AWSSDK.AWSHealth@4.0.0-preview.10

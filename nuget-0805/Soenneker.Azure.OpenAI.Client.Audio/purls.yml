@@ -804,3 +804,4 @@
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Audio@4.0.909
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Audio@4.0.911
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Audio@4.0.917
+- pkg:nuget/Soenneker.Azure.OpenAI.Client.Audio@4.0.919
