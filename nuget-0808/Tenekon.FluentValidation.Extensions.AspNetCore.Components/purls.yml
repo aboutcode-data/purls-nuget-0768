@@ -6,4 +6,5 @@
 - pkg:nuget/Tenekon.FluentValidation.Extensions.AspNetCore.Components@1.0.40-alpha-gac9cdc2716
 - pkg:nuget/Tenekon.FluentValidation.Extensions.AspNetCore.Components@1.0.42-alpha-gf27ed5ad86
 - pkg:nuget/Tenekon.FluentValidation.Extensions.AspNetCore.Components@1.0.42-alpha-gf7dff5e226
+- pkg:nuget/Tenekon.FluentValidation.Extensions.AspNetCore.Components@1.0.49-alpha
 - pkg:nuget/Tenekon.FluentValidation.Extensions.AspNetCore.Components@1.0.6-alpha-g5c83fc27bb
