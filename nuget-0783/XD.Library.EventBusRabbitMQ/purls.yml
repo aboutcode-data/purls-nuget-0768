@@ -76,6 +76,7 @@
 - pkg:nuget/XD.Library.EventBusRabbitMQ@2.0.78
 - pkg:nuget/XD.Library.EventBusRabbitMQ@2.0.8
 - pkg:nuget/XD.Library.EventBusRabbitMQ@2.0.9
+- pkg:nuget/XD.Library.EventBusRabbitMQ@8.0.108
 - pkg:nuget/XD.Library.EventBusRabbitMQ@8.0.7
 - pkg:nuget/XD.Library.EventBusRabbitMQ@8.0.71
 - pkg:nuget/XD.Library.EventBusRabbitMQ@8.0.72
