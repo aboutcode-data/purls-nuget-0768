@@ -358,6 +358,7 @@
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@15.3.8525
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@15.3.8526
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@15.3.8528
+- pkg:nuget/Telerik.Sitefinity.Diagnostics@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@7.2.5300
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@7.2.5310
 - pkg:nuget/Telerik.Sitefinity.Diagnostics@7.2.5311
