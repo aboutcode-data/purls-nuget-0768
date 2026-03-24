@@ -25,3 +25,4 @@
 - pkg:nuget/whipstaff-cmdhelp2markdown@8.2.210
 - pkg:nuget/whipstaff-cmdhelp2markdown@8.2.34-beta
 - pkg:nuget/whipstaff-cmdhelp2markdown@8.2.65-beta
+- pkg:nuget/whipstaff-cmdhelp2markdown@9.1.36
