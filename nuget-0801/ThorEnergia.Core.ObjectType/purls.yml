@@ -25,6 +25,7 @@
 - pkg:nuget/ThorEnergia.Core.ObjectType@33.0.0
 - pkg:nuget/ThorEnergia.Core.ObjectType@34.0.0
 - pkg:nuget/ThorEnergia.Core.ObjectType@38.0.0
+- pkg:nuget/ThorEnergia.Core.ObjectType@39.0.0
 - pkg:nuget/ThorEnergia.Core.ObjectType@4.0.0
 - pkg:nuget/ThorEnergia.Core.ObjectType@5.0.0
 - pkg:nuget/ThorEnergia.Core.ObjectType@6.0.0

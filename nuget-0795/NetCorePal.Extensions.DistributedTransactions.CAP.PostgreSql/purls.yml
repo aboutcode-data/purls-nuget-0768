@@ -68,3 +68,4 @@
 - pkg:nuget/NetCorePal.Extensions.DistributedTransactions.CAP.PostgreSql@2.9.3
 - pkg:nuget/NetCorePal.Extensions.DistributedTransactions.CAP.PostgreSql@3.0.0-rc.2
 - pkg:nuget/NetCorePal.Extensions.DistributedTransactions.CAP.PostgreSql@3.0.1
+- pkg:nuget/NetCorePal.Extensions.DistributedTransactions.CAP.PostgreSql@3.3.0
