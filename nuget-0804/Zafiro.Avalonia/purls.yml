@@ -466,6 +466,7 @@
 - pkg:nuget/Zafiro.Avalonia@43.0.1
 - pkg:nuget/Zafiro.Avalonia@46.0.13
 - pkg:nuget/Zafiro.Avalonia@5.0.0
+- pkg:nuget/Zafiro.Avalonia@51.0.10
 - pkg:nuget/Zafiro.Avalonia@51.0.2
 - pkg:nuget/Zafiro.Avalonia@6.0.0
 - pkg:nuget/Zafiro.Avalonia@6.1.0
