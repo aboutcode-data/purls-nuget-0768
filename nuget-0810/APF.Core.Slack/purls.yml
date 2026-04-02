@@ -3,3 +3,4 @@
 - pkg:nuget/APF.Core.Slack@8.0.0.1-Beta-01
 - pkg:nuget/APF.Core.Slack@8.0.0.1-migration
 - pkg:nuget/APF.Core.Slack@8.0.0.12-beta-migration
+- pkg:nuget/APF.Core.Slack@8.0.0.2-Beta-01
