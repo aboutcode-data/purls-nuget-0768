@@ -119,3 +119,8 @@
 - pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.1.8
 - pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.1.9
 - pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.1.93
+- pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.2.13
+- pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.2.15
+- pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.2.16
+- pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.2.17
+- pkg:nuget/Hx.Workflow.EntityFrameworkCore@1.2.19

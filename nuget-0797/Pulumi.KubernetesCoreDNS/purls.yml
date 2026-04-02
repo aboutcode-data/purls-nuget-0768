@@ -138,3 +138,4 @@
 - pkg:nuget/Pulumi.KubernetesCoreDNS@0.2.0-alpha.1766097087
 - pkg:nuget/Pulumi.KubernetesCoreDNS@0.2.0-alpha.1771815982
 - pkg:nuget/Pulumi.KubernetesCoreDNS@0.2.0-alpha.1772099887
+- pkg:nuget/Pulumi.KubernetesCoreDNS@0.2.0-alpha.1774915901

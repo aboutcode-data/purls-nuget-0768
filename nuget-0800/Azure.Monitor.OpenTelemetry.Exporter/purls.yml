@@ -21,3 +21,4 @@
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Exporter@1.4.0-beta.1
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Exporter@1.4.0-beta.2
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Exporter@1.4.0-beta.3
+- pkg:nuget/Azure.Monitor.OpenTelemetry.Exporter@1.7.0

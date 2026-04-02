@@ -142,3 +142,5 @@
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.2.0-alpha.510
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.2.0-alpha.514
 - pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@0.2.0-alpha.518
+- pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@7.0.1
+- pkg:nuget/Siemens.AspNet.MinimalApi.Sdk@7.0.2

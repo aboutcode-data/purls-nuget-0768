@@ -127,3 +127,4 @@
 - pkg:nuget/Asv.Mavlink@4.0.8
 - pkg:nuget/Asv.Mavlink@4.0.9
 - pkg:nuget/Asv.Mavlink@4.1.0
+- pkg:nuget/Asv.Mavlink@4.2.0

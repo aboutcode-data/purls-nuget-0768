@@ -20,6 +20,7 @@
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.115
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.121
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.124
+- pkg:nuget/MSBuild.PublishNuget.Target@5.0.125
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.14
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.17
 - pkg:nuget/MSBuild.PublishNuget.Target@5.0.2

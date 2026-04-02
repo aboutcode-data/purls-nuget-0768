@@ -13,3 +13,4 @@
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.QueueStorage@4.3.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.QueueStorage@4.4.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.QueueStorage@4.4.1
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.QueueStorage@5.0.5

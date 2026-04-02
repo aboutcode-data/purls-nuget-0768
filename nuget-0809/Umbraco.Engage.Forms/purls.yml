@@ -9,3 +9,5 @@
 - pkg:nuget/Umbraco.Engage.Forms@16.0.0
 - pkg:nuget/Umbraco.Engage.Forms@16.1.0
 - pkg:nuget/Umbraco.Engage.Forms@16.2.0
+- pkg:nuget/Umbraco.Engage.Forms@16.2.2
+- pkg:nuget/Umbraco.Engage.Forms@17.1.2

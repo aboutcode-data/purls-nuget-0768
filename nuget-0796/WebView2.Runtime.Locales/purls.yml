@@ -18,3 +18,5 @@
 - pkg:nuget/WebView2.Runtime.Locales@139.0.3405.86
 - pkg:nuget/WebView2.Runtime.Locales@142.0.3595.90
 - pkg:nuget/WebView2.Runtime.Locales@145.0.3800.65
+- pkg:nuget/WebView2.Runtime.Locales@146.0.3856.84
+- pkg:nuget/WebView2.Runtime.Locales@146.0.3856.97

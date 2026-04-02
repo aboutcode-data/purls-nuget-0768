@@ -45,3 +45,6 @@
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.1.0-feature-add-sort-code-and-specialsort.4
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.1.0-feature-add-sort-code-and-specialsort.5
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.1.0-feature-add-sort-code-and-specialsort.6
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.1
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.2
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.3

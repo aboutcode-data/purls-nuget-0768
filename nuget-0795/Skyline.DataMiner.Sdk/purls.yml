@@ -6,6 +6,7 @@
 - pkg:nuget/Skyline.DataMiner.Sdk@0.0.5-alpha
 - pkg:nuget/Skyline.DataMiner.Sdk@0.0.6
 - pkg:nuget/Skyline.DataMiner.Sdk@0.0.7
+- pkg:nuget/Skyline.DataMiner.Sdk@0.0.800
 - pkg:nuget/Skyline.DataMiner.Sdk@1.0.0
 - pkg:nuget/Skyline.DataMiner.Sdk@1.0.1
 - pkg:nuget/Skyline.DataMiner.Sdk@1.0.2

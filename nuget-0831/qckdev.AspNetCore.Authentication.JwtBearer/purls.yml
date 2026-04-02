@@ -1,2 +1,16 @@
 - pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.1.0-alpha
 - pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.2.0-alpha
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1530
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1532
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1541
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1550
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1552
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1560
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1581
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1619
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1657
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1661
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1662
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1663
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1664
+- pkg:nuget/qckdev.AspNetCore.Authentication.JwtBearer@0.3.0-net10.1665

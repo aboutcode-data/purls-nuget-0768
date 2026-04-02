@@ -130,3 +130,5 @@
 - pkg:nuget/pauldeen79.CrossCutting.Data.Core@5.0.9
 - pkg:nuget/pauldeen79.CrossCutting.Data.Core@6.0.0
 - pkg:nuget/pauldeen79.CrossCutting.Data.Core@8.0.1
+- pkg:nuget/pauldeen79.CrossCutting.Data.Core@8.1.1
+- pkg:nuget/pauldeen79.CrossCutting.Data.Core@8.1.2
