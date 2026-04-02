@@ -1,1 +1,2 @@
 - pkg:nuget/NuVatis.Extensions.OpenTelemetry@2.5.0
+- pkg:nuget/NuVatis.Extensions.OpenTelemetry@2.6.0
