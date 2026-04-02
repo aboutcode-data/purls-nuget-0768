@@ -1,1 +1,6 @@
 - pkg:nuget/Mythosia.AI.Rag@2.0.0
+- pkg:nuget/Mythosia.AI.Rag@6.1.0
+- pkg:nuget/Mythosia.AI.Rag@6.2.0
+- pkg:nuget/Mythosia.AI.Rag@7.0.0
+- pkg:nuget/Mythosia.AI.Rag@7.0.1
+- pkg:nuget/Mythosia.AI.Rag@7.1.0

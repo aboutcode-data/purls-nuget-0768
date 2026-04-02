@@ -136,3 +136,4 @@
 - pkg:nuget/dotnet-nodejs-win@24.0.2
 - pkg:nuget/dotnet-nodejs-win@24.1.0
 - pkg:nuget/dotnet-nodejs-win@24.2.0
+- pkg:nuget/dotnet-nodejs-win@25.9.0

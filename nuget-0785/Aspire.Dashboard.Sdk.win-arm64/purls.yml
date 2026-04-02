@@ -1,3 +1,4 @@
+- pkg:nuget/Aspire.Dashboard.Sdk.win-arm64@13.2.1
 - pkg:nuget/Aspire.Dashboard.Sdk.win-arm64@8.0.0
 - pkg:nuget/Aspire.Dashboard.Sdk.win-arm64@8.0.0-preview.3.24105.21
 - pkg:nuget/Aspire.Dashboard.Sdk.win-arm64@8.0.0-preview.4.24156.9
