@@ -53,6 +53,9 @@
 - pkg:nuget/uplink.NET@2.13.3484
 - pkg:nuget/uplink.NET@2.13.3494
 - pkg:nuget/uplink.NET@2.13.3501
+- pkg:nuget/uplink.NET@2.14.3736
+- pkg:nuget/uplink.NET@2.14.3753
+- pkg:nuget/uplink.NET@2.14.3772
 - pkg:nuget/uplink.NET@2.2.0
 - pkg:nuget/uplink.NET@2.2.1
 - pkg:nuget/uplink.NET@2.2.2

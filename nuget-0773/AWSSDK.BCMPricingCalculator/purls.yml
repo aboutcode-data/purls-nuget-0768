@@ -162,6 +162,7 @@
 - pkg:nuget/AWSSDK.BCMPricingCalculator@3.7.503.42
 - pkg:nuget/AWSSDK.BCMPricingCalculator@3.7.503.45
 - pkg:nuget/AWSSDK.BCMPricingCalculator@3.7.503.46
+- pkg:nuget/AWSSDK.BCMPricingCalculator@3.7.503.47
 - pkg:nuget/AWSSDK.BCMPricingCalculator@3.7.503.9
 - pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.0
 - pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.0-preview.10
@@ -200,3 +201,7 @@
 - pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.3.5
 - pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.3.7
 - pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.5.12
+- pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.5.14
+- pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.5.15
+- pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.5.16
+- pkg:nuget/AWSSDK.BCMPricingCalculator@4.0.5.17

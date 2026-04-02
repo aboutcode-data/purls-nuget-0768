@@ -85,3 +85,4 @@
 - pkg:nuget/Nuuvify.CommonPack.Security.JwtCredentials@2.0.0-preview.25021001
 - pkg:nuget/Nuuvify.CommonPack.Security.JwtCredentials@2.0.0-preview.25021006
 - pkg:nuget/Nuuvify.CommonPack.Security.JwtCredentials@2.2.0-preview.25102906
+- pkg:nuget/Nuuvify.CommonPack.Security.JwtCredentials@2.3.0-preview.26033108

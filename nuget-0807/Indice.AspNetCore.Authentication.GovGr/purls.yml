@@ -183,6 +183,7 @@
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.3.0
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.4.0
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.41.1
+- pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.42.0
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.5.0
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.6.0
 - pkg:nuget/Indice.AspNetCore.Authentication.GovGr@8.7.0

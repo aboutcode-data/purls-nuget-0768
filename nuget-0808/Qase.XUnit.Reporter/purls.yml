@@ -12,3 +12,5 @@
 - pkg:nuget/Qase.XUnit.Reporter@1.0.7
 - pkg:nuget/Qase.XUnit.Reporter@1.0.8
 - pkg:nuget/Qase.XUnit.Reporter@1.0.9
+- pkg:nuget/Qase.XUnit.Reporter@1.1.12
+- pkg:nuget/Qase.XUnit.Reporter@1.1.13

@@ -74,3 +74,10 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@8.4.928-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@8.4.989-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.1963-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2118
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2124
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2140
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2164-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2181-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.3.2202-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS@9.4.2224-rc

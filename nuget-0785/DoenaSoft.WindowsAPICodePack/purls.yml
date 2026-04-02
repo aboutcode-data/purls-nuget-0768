@@ -2,3 +2,14 @@
 - pkg:nuget/DoenaSoft.WindowsAPICodePack@1.1.2
 - pkg:nuget/DoenaSoft.WindowsAPICodePack@2.0.0
 - pkg:nuget/DoenaSoft.WindowsAPICodePack@3.0.0
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.2
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.2-patch1
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.2-patch2
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.2-patch3
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.3
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.4
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.7.5
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.8.1
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.8.1-patch1
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.8.2
+- pkg:nuget/DoenaSoft.WindowsAPICodePack@4.8.3

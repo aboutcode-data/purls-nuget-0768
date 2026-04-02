@@ -703,6 +703,7 @@
 - pkg:nuget/AWSSDK.ResilienceHub@3.7.501.52
 - pkg:nuget/AWSSDK.ResilienceHub@3.7.501.55
 - pkg:nuget/AWSSDK.ResilienceHub@3.7.501.56
+- pkg:nuget/AWSSDK.ResilienceHub@3.7.501.57
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0-preview
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0-preview.10
@@ -741,3 +742,7 @@
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0.7
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0.8
 - pkg:nuget/AWSSDK.ResilienceHub@4.0.0.9
+- pkg:nuget/AWSSDK.ResilienceHub@4.0.1.19
+- pkg:nuget/AWSSDK.ResilienceHub@4.0.1.20
+- pkg:nuget/AWSSDK.ResilienceHub@4.0.1.21
+- pkg:nuget/AWSSDK.ResilienceHub@4.0.1.22

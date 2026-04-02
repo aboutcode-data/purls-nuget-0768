@@ -334,6 +334,7 @@
 - pkg:nuget/AWSSDK.BCMDataExports@3.7.502.2
 - pkg:nuget/AWSSDK.BCMDataExports@3.7.502.5
 - pkg:nuget/AWSSDK.BCMDataExports@3.7.502.6
+- pkg:nuget/AWSSDK.BCMDataExports@3.7.503
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0-preview
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0-preview.10
@@ -373,3 +374,7 @@
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0.7
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0.8
 - pkg:nuget/AWSSDK.BCMDataExports@4.0.0.9
+- pkg:nuget/AWSSDK.BCMDataExports@4.0.3
+- pkg:nuget/AWSSDK.BCMDataExports@4.0.3.1
+- pkg:nuget/AWSSDK.BCMDataExports@4.0.3.2
+- pkg:nuget/AWSSDK.BCMDataExports@4.0.3.3

@@ -58,4 +58,6 @@
 - pkg:nuget/Wlniao.AspNetCore@8.0.68
 - pkg:nuget/Wlniao.AspNetCore@8.0.78
 - pkg:nuget/Wlniao.AspNetCore@8.0.8
+- pkg:nuget/Wlniao.AspNetCore@8.0.89
 - pkg:nuget/Wlniao.AspNetCore@8.0.9
+- pkg:nuget/Wlniao.AspNetCore@8.0.90

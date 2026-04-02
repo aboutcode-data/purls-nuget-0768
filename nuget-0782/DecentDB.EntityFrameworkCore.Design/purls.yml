@@ -1,3 +1,5 @@
 - pkg:nuget/DecentDB.EntityFrameworkCore.Design@1.1.2
 - pkg:nuget/DecentDB.EntityFrameworkCore.Design@1.4.0
 - pkg:nuget/DecentDB.EntityFrameworkCore.Design@1.7.1
+- pkg:nuget/DecentDB.EntityFrameworkCore.Design@2.0.1
+- pkg:nuget/DecentDB.EntityFrameworkCore.Design@2.1.0

@@ -383,3 +383,4 @@
 - pkg:nuget/Ascon.Pilot.Server.Api@25.9.0
 - pkg:nuget/Ascon.Pilot.Server.Api@25.9.98-alpha
 - pkg:nuget/Ascon.Pilot.Server.Api@25.9.99-alpha
+- pkg:nuget/Ascon.Pilot.Server.Api@26.4.0

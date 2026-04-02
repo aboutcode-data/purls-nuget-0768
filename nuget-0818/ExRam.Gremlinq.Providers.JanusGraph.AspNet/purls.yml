@@ -86,6 +86,7 @@
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@13.0.0
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@13.1.0
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@13.1.1
+- pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@13.8.0
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@8.0.0
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@8.0.0-preview-0577
 - pkg:nuget/ExRam.Gremlinq.Providers.JanusGraph.AspNet@8.0.0-preview-0586

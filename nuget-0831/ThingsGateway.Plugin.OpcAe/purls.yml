@@ -57,3 +57,6 @@
 - pkg:nuget/ThingsGateway.Plugin.OpcAe@12.4.37
 - pkg:nuget/ThingsGateway.Plugin.OpcAe@12.4.43
 - pkg:nuget/ThingsGateway.Plugin.OpcAe@12.4.8
+- pkg:nuget/ThingsGateway.Plugin.OpcAe@12.5.6
+- pkg:nuget/ThingsGateway.Plugin.OpcAe@12.5.7
+- pkg:nuget/ThingsGateway.Plugin.OpcAe@12.5.8

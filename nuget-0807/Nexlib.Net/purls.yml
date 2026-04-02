@@ -326,3 +326,7 @@
 - pkg:nuget/Nexlib.Net@7.26.1.6
 - pkg:nuget/Nexlib.Net@7.26.3.10
 - pkg:nuget/Nexlib.Net@7.26.3.11
+- pkg:nuget/Nexlib.Net@7.26.3.24
+- pkg:nuget/Nexlib.Net@7.26.3.25
+- pkg:nuget/Nexlib.Net@7.26.3.26
+- pkg:nuget/Nexlib.Net@7.26.3.30

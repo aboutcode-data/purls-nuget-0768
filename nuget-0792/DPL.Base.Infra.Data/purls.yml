@@ -52,6 +52,7 @@
 - pkg:nuget/DPL.Base.Infra.Data@1.0.177
 - pkg:nuget/DPL.Base.Infra.Data@1.0.178
 - pkg:nuget/DPL.Base.Infra.Data@1.0.18
+- pkg:nuget/DPL.Base.Infra.Data@1.0.181
 - pkg:nuget/DPL.Base.Infra.Data@1.0.19
 - pkg:nuget/DPL.Base.Infra.Data@1.0.2
 - pkg:nuget/DPL.Base.Infra.Data@1.0.20

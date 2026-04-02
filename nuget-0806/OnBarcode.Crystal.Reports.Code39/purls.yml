@@ -2,3 +2,4 @@
 - pkg:nuget/OnBarcode.Crystal.Reports.Code39@10.0.0.18
 - pkg:nuget/OnBarcode.Crystal.Reports.Code39@10.0.0.19
 - pkg:nuget/OnBarcode.Crystal.Reports.Code39@10.0.0.21
+- pkg:nuget/OnBarcode.Crystal.Reports.Code39@10.0.0.24

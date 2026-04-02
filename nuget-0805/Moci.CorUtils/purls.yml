@@ -138,3 +138,5 @@
 - pkg:nuget/Moci.CorUtils@2.9.2.3
 - pkg:nuget/Moci.CorUtils@2.9.2.8
 - pkg:nuget/Moci.CorUtils@2.9.2.9
+- pkg:nuget/Moci.CorUtils@2.9.3.3
+- pkg:nuget/Moci.CorUtils@2.9.3.4

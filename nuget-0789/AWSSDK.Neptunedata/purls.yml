@@ -383,6 +383,7 @@
 - pkg:nuget/AWSSDK.Neptunedata@3.7.503.11
 - pkg:nuget/AWSSDK.Neptunedata@3.7.503.14
 - pkg:nuget/AWSSDK.Neptunedata@3.7.503.15
+- pkg:nuget/AWSSDK.Neptunedata@3.7.503.16
 - pkg:nuget/AWSSDK.Neptunedata@3.7.503.3
 - pkg:nuget/AWSSDK.Neptunedata@3.7.503.4
 - pkg:nuget/AWSSDK.Neptunedata@4.0.0
@@ -427,3 +428,7 @@
 - pkg:nuget/AWSSDK.Neptunedata@4.0.2.8
 - pkg:nuget/AWSSDK.Neptunedata@4.0.4.3
 - pkg:nuget/AWSSDK.Neptunedata@4.0.4.4
+- pkg:nuget/AWSSDK.Neptunedata@4.0.4.5
+- pkg:nuget/AWSSDK.Neptunedata@4.0.4.6
+- pkg:nuget/AWSSDK.Neptunedata@4.0.4.7
+- pkg:nuget/AWSSDK.Neptunedata@4.0.4.8

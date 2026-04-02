@@ -4,6 +4,11 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.10.0-alpha.1552
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.10.0-alpha.1553
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.10.0-alpha.1554
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.1002.2
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.1014.0
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.1014.0-alpha.2495-vcst-4729-terms-sorting
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.1014.0-alpha.2496-vcst-4729-terms-sorting
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.1015.0
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.11.0
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.11.0-alpha.1555
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.11.0-alpha.1556
@@ -992,4 +997,5 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.9.0-alpha.1549
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.902.0
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.903.0
+- pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.904.7
 - pkg:nuget/VirtoCommerce.CatalogModule.BulkActions@3.907.0

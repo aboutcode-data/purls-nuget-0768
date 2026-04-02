@@ -335,6 +335,7 @@
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@3.7.501.51
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@3.7.501.54
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@3.7.501.55
+- pkg:nuget/AWSSDK.WorkSpacesThinClient@3.7.501.56
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@3.7.501.9
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.0
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.0-preview
@@ -377,3 +378,7 @@
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.3.7
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.3.9
 - pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.4.10
+- pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.4.19
+- pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.4.20
+- pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.4.21
+- pkg:nuget/AWSSDK.WorkSpacesThinClient@4.0.4.22

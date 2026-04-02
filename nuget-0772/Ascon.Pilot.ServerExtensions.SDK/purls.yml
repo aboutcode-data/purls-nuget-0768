@@ -167,3 +167,4 @@
 - pkg:nuget/Ascon.Pilot.ServerExtensions.SDK@25.9.35-alpha
 - pkg:nuget/Ascon.Pilot.ServerExtensions.SDK@25.9.36-alpha
 - pkg:nuget/Ascon.Pilot.ServerExtensions.SDK@26.1.46-alpha
+- pkg:nuget/Ascon.Pilot.ServerExtensions.SDK@26.4.0

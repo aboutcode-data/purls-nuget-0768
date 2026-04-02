@@ -271,3 +271,5 @@
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@8.4.0-dev.2
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@8.4.2
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@8.5.0-dev.27
+- pkg:nuget/Uno.Toolkit.Skia.WinUI@8.5.0-dev.35
+- pkg:nuget/Uno.Toolkit.Skia.WinUI@8.5.0-dev.36

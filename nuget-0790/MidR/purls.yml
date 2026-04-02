@@ -3,3 +3,6 @@
 - pkg:nuget/MidR@3.0.0
 - pkg:nuget/MidR@3.1.0
 - pkg:nuget/MidR@4.0.0
+- pkg:nuget/MidR@5.1.0
+- pkg:nuget/MidR@5.2.0
+- pkg:nuget/MidR@5.3.0

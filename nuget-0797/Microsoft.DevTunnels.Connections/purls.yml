@@ -126,6 +126,9 @@
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.2.7
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.2.9
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.3.2
+- pkg:nuget/Microsoft.DevTunnels.Connections@1.3.20
+- pkg:nuget/Microsoft.DevTunnels.Connections@1.3.34
+- pkg:nuget/Microsoft.DevTunnels.Connections@1.3.35
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.3.4
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.3.6
 - pkg:nuget/Microsoft.DevTunnels.Connections@1.3.6-g864a668dd9

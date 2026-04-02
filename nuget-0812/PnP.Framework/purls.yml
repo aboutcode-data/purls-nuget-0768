@@ -1266,10 +1266,12 @@
 - pkg:nuget/PnP.Framework@1.18.331-nightly
 - pkg:nuget/PnP.Framework@1.18.333-nightly
 - pkg:nuget/PnP.Framework@1.18.335-nightly
+- pkg:nuget/PnP.Framework@1.18.336-nightly
 - pkg:nuget/PnP.Framework@1.18.337-nightly
 - pkg:nuget/PnP.Framework@1.18.34-nightly
 - pkg:nuget/PnP.Framework@1.18.341-nightly
 - pkg:nuget/PnP.Framework@1.18.342-nightly
+- pkg:nuget/PnP.Framework@1.18.346-nightly
 - pkg:nuget/PnP.Framework@1.18.35-nightly
 - pkg:nuget/PnP.Framework@1.18.36-nightly
 - pkg:nuget/PnP.Framework@1.18.37-nightly

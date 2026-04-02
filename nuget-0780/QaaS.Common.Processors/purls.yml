@@ -1,1 +1,4 @@
 - pkg:nuget/QaaS.Common.Processors@1.0.1-alpha.6
+- pkg:nuget/QaaS.Common.Processors@1.2.1
+- pkg:nuget/QaaS.Common.Processors@1.2.1-alpha.1
+- pkg:nuget/QaaS.Common.Processors@1.3.0

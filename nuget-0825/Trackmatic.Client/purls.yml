@@ -214,6 +214,8 @@
 - pkg:nuget/Trackmatic.Client@4.0.0-alpha.9
 - pkg:nuget/Trackmatic.Client@4.0.1
 - pkg:nuget/Trackmatic.Client@4.0.10
+- pkg:nuget/Trackmatic.Client@4.0.107
+- pkg:nuget/Trackmatic.Client@4.0.108
 - pkg:nuget/Trackmatic.Client@4.0.11
 - pkg:nuget/Trackmatic.Client@4.0.12
 - pkg:nuget/Trackmatic.Client@4.0.13

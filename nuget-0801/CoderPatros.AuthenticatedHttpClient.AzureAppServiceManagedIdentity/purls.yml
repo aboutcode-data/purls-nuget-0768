@@ -8,3 +8,4 @@
 - pkg:nuget/CoderPatros.AuthenticatedHttpClient.AzureAppServiceManagedIdentity@1.4.2
 - pkg:nuget/CoderPatros.AuthenticatedHttpClient.AzureAppServiceManagedIdentity@1.4.7
 - pkg:nuget/CoderPatros.AuthenticatedHttpClient.AzureAppServiceManagedIdentity@1.4.8
+- pkg:nuget/CoderPatros.AuthenticatedHttpClient.AzureAppServiceManagedIdentity@1.5.0

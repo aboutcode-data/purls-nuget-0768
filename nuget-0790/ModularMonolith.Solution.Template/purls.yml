@@ -16,3 +16,6 @@
 - pkg:nuget/ModularMonolith.Solution.Template@1.0.0.4-beta2
 - pkg:nuget/ModularMonolith.Solution.Template@1.0.0.4-beta3
 - pkg:nuget/ModularMonolith.Solution.Template@1.10.0.1
+- pkg:nuget/ModularMonolith.Solution.Template@1.10.0.5
+- pkg:nuget/ModularMonolith.Solution.Template@1.10.0.6
+- pkg:nuget/ModularMonolith.Solution.Template@1.10.0.7

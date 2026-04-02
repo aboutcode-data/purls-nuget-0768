@@ -714,3 +714,4 @@
 - pkg:nuget/Pulumi.AliCloud@3.93.0-alpha.1768433632
 - pkg:nuget/Pulumi.AliCloud@3.95.0-alpha.1770096930
 - pkg:nuget/Pulumi.AliCloud@3.96.0-alpha.1771911951
+- pkg:nuget/Pulumi.AliCloud@3.98.0-alpha.1774891338

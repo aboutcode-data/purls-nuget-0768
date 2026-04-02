@@ -9,6 +9,7 @@
 - pkg:nuget/LightBDD.Autofac@3.1.1
 - pkg:nuget/LightBDD.Autofac@3.10.0
 - pkg:nuget/LightBDD.Autofac@3.11.0
+- pkg:nuget/LightBDD.Autofac@3.12.0
 - pkg:nuget/LightBDD.Autofac@3.2.0
 - pkg:nuget/LightBDD.Autofac@3.3.0
 - pkg:nuget/LightBDD.Autofac@3.3.1

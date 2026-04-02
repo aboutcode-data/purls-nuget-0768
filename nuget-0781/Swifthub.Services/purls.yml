@@ -2,6 +2,8 @@
 - pkg:nuget/Swifthub.Services@1.1.0
 - pkg:nuget/Swifthub.Services@1.1.1
 - pkg:nuget/Swifthub.Services@1.10.29
+- pkg:nuget/Swifthub.Services@1.10.46
+- pkg:nuget/Swifthub.Services@1.10.47
 - pkg:nuget/Swifthub.Services@1.2.1
 - pkg:nuget/Swifthub.Services@1.2.10
 - pkg:nuget/Swifthub.Services@1.2.11

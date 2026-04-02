@@ -231,3 +231,6 @@
 - pkg:nuget/Kayisoft.Abp.Print.SCU@4.6.1
 - pkg:nuget/Kayisoft.Abp.Print.SCU@4.6.2
 - pkg:nuget/Kayisoft.Abp.Print.SCU@4.9.9
+- pkg:nuget/Kayisoft.Abp.Print.SCU@5.0.2
+- pkg:nuget/Kayisoft.Abp.Print.SCU@5.0.3
+- pkg:nuget/Kayisoft.Abp.Print.SCU@5.0.4

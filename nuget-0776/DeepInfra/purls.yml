@@ -35,7 +35,14 @@
 - pkg:nuget/DeepInfra@0.11.1-dev.11
 - pkg:nuget/DeepInfra@0.11.1-dev.13
 - pkg:nuget/DeepInfra@0.11.1-dev.130
+- pkg:nuget/DeepInfra@0.11.1-dev.139
 - pkg:nuget/DeepInfra@0.11.1-dev.14
+- pkg:nuget/DeepInfra@0.11.1-dev.142
+- pkg:nuget/DeepInfra@0.11.1-dev.143
+- pkg:nuget/DeepInfra@0.11.1-dev.145
+- pkg:nuget/DeepInfra@0.11.1-dev.147
+- pkg:nuget/DeepInfra@0.11.1-dev.153
+- pkg:nuget/DeepInfra@0.11.1-dev.157
 - pkg:nuget/DeepInfra@0.11.1-dev.16
 - pkg:nuget/DeepInfra@0.11.1-dev.17
 - pkg:nuget/DeepInfra@0.11.1-dev.18

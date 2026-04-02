@@ -166,6 +166,8 @@
 - pkg:nuget/Struct.PIM.Api.Models@3.16.2
 - pkg:nuget/Struct.PIM.Api.Models@3.16.26
 - pkg:nuget/Struct.PIM.Api.Models@3.16.3
+- pkg:nuget/Struct.PIM.Api.Models@3.16.33
+- pkg:nuget/Struct.PIM.Api.Models@3.16.34
 - pkg:nuget/Struct.PIM.Api.Models@3.16.4
 - pkg:nuget/Struct.PIM.Api.Models@3.16.5
 - pkg:nuget/Struct.PIM.Api.Models@3.16.7

@@ -157,6 +157,7 @@
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.70.0.3875
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.70.0.3894
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.71.0.3913
+- pkg:nuget/Google.Apis.Datastore.v1beta1@1.73.0.4099
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.8.0.180-rc
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.8.0.190-rc
 - pkg:nuget/Google.Apis.Datastore.v1beta1@1.8.1.200

@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.ImportModule.Data@3.1000.0
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0-alpha.12-dev
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0-alpha.13
@@ -136,3 +137,4 @@
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.808.0-alpha.271-dev
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.808.0-alpha.272-stream-can-seek
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.808.0-alpha.284-vcst-1906
+- pkg:nuget/VirtoCommerce.ImportModule.Data@3.809.0

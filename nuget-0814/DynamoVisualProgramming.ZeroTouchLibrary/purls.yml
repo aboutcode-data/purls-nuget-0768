@@ -309,6 +309,8 @@
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.3.0.6320
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.3.1.7717
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.3.1.7726
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.3.2.11846
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.3.2.11866
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.4.0-beta6130
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.4.0-beta6174
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@3.4.0-beta6176
@@ -644,3 +646,11 @@
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4334
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4336
 - pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4400
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4536
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4540
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4546
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0-beta4550
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0.4556
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.1.0.4562
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.2.0-beta4556
+- pkg:nuget/DynamoVisualProgramming.ZeroTouchLibrary@4.2.0-beta4564

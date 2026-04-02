@@ -21,6 +21,9 @@
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.109
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.118
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.119
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.130
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.131
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.132
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.24
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.30
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.36

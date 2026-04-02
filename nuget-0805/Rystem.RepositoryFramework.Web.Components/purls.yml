@@ -1,3 +1,4 @@
+- pkg:nuget/Rystem.RepositoryFramework.Web.Components@10.0.7
 - pkg:nuget/Rystem.RepositoryFramework.Web.Components@3.0.20
 - pkg:nuget/Rystem.RepositoryFramework.Web.Components@3.0.24
 - pkg:nuget/Rystem.RepositoryFramework.Web.Components@3.0.25
