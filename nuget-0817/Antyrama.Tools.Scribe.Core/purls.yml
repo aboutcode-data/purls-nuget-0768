@@ -7,6 +7,8 @@
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.15
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.15-rc
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.16-rc
+- pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.17
+- pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.17-rc
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.2-rc
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.3-rc
 - pkg:nuget/Antyrama.Tools.Scribe.Core@0.0.4-rc

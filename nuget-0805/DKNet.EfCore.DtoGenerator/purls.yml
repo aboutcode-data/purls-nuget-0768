@@ -1,4 +1,7 @@
 - pkg:nuget/DKNet.EfCore.DtoGenerator@10.0.18
+- pkg:nuget/DKNet.EfCore.DtoGenerator@10.0.23
+- pkg:nuget/DKNet.EfCore.DtoGenerator@10.0.24
+- pkg:nuget/DKNet.EfCore.DtoGenerator@10.0.25
 - pkg:nuget/DKNet.EfCore.DtoGenerator@9.5.13
 - pkg:nuget/DKNet.EfCore.DtoGenerator@9.5.28
 - pkg:nuget/DKNet.EfCore.DtoGenerator@9.5.33

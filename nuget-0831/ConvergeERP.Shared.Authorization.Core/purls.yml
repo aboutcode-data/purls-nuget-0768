@@ -1,2 +1,3 @@
+- pkg:nuget/ConvergeERP.Shared.Authorization.Core@0.0.1-beta
 - pkg:nuget/ConvergeERP.Shared.Authorization.Core@1.0.3
 - pkg:nuget/ConvergeERP.Shared.Authorization.Core@1.0.6
