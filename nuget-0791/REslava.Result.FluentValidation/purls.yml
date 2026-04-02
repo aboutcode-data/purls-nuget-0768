@@ -1,1 +1,3 @@
 - pkg:nuget/REslava.Result.FluentValidation@1.29.0
+- pkg:nuget/REslava.Result.FluentValidation@1.51.0
+- pkg:nuget/REslava.Result.FluentValidation@1.52.0

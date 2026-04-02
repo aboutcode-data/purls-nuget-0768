@@ -1,1 +1,2 @@
 - pkg:nuget/BarcodeLib.Crystal.Reports.Format.EAN8@7.4.0.3
+- pkg:nuget/BarcodeLib.Crystal.Reports.Format.EAN8@7.4.0.5

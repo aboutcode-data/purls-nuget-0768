@@ -1,6 +1,7 @@
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.0
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.1
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.14
+- pkg:nuget/Apaya.Connector.Clients.Verto@1.0.19
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.2
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.3
 - pkg:nuget/Apaya.Connector.Clients.Verto@1.0.4
