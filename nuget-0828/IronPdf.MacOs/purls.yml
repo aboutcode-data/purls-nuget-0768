@@ -68,3 +68,4 @@
 - pkg:nuget/IronPdf.MacOs@2025.7.17
 - pkg:nuget/IronPdf.MacOs@2025.8.8
 - pkg:nuget/IronPdf.MacOs@2025.9.4
+- pkg:nuget/IronPdf.MacOs@2026.4.1

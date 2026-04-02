@@ -50,5 +50,6 @@
 - pkg:nuget/Duna.Libs.Web@0.0.55
 - pkg:nuget/Duna.Libs.Web@0.0.6
 - pkg:nuget/Duna.Libs.Web@0.0.7
+- pkg:nuget/Duna.Libs.Web@0.0.72
 - pkg:nuget/Duna.Libs.Web@0.0.8
 - pkg:nuget/Duna.Libs.Web@0.0.9

@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.WebRTC@10.0.0.604-beta1
+- pkg:nuget/WebSharper.WebRTC@10.1.0.667
 - pkg:nuget/WebSharper.WebRTC@4.4.1.118
 - pkg:nuget/WebSharper.WebRTC@4.5.0.120
 - pkg:nuget/WebSharper.WebRTC@4.5.0.121

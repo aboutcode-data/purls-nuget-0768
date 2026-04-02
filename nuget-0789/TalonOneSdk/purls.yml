@@ -1,2 +1,4 @@
 - pkg:nuget/TalonOneSdk@26.5.1
 - pkg:nuget/TalonOneSdk@26.5.2
+- pkg:nuget/TalonOneSdk@26.6.1
+- pkg:nuget/TalonOneSdk@26.7.0
