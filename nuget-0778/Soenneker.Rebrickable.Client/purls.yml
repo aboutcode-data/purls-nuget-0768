@@ -31,6 +31,8 @@
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.139
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.154
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.166
+- pkg:nuget/Soenneker.Rebrickable.Client@4.0.169
+- pkg:nuget/Soenneker.Rebrickable.Client@4.0.170
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.45
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.52
 - pkg:nuget/Soenneker.Rebrickable.Client@4.0.68

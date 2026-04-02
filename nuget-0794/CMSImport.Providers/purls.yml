@@ -1,1 +1,2 @@
 - pkg:nuget/CMSImport.Providers@16.0.0-alpha0001
+- pkg:nuget/CMSImport.Providers@17.0.1

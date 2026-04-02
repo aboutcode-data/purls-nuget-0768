@@ -20,3 +20,4 @@
 - pkg:nuget/essentialMix.RabbitMQ@16.0.1
 - pkg:nuget/essentialMix.RabbitMQ@16.1.0
 - pkg:nuget/essentialMix.RabbitMQ@17.0.2
+- pkg:nuget/essentialMix.RabbitMQ@17.0.3
