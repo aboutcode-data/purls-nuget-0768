@@ -1,3 +1,4 @@
 - pkg:nuget/WebSharper.WebLocks@10.0.0.604-beta1
+- pkg:nuget/WebSharper.WebLocks@10.1.0.667
 - pkg:nuget/WebSharper.WebLocks@9.1.0.555
 - pkg:nuget/WebSharper.WebLocks@9.1.0.557
