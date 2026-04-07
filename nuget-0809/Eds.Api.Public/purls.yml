@@ -130,6 +130,7 @@
 - pkg:nuget/Eds.Api.Public@141.0.0.670-pre
 - pkg:nuget/Eds.Api.Public@141.0.0.671
 - pkg:nuget/Eds.Api.Public@141.0.0.672-pre
+- pkg:nuget/Eds.Api.Public@147.0.0.684
 - pkg:nuget/Eds.Api.Public@15.0.0.58
 - pkg:nuget/Eds.Api.Public@15.0.0.59
 - pkg:nuget/Eds.Api.Public@15.0.0.60

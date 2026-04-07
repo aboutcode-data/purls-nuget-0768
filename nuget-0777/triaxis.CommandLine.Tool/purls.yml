@@ -24,3 +24,4 @@
 - pkg:nuget/triaxis.CommandLine.Tool@1.4.1-beta4.22272.1
 - pkg:nuget/triaxis.CommandLine.Tool@1.4.2-beta4.22272.1
 - pkg:nuget/triaxis.CommandLine.Tool@1.4.3-beta4.22272.1
+- pkg:nuget/triaxis.CommandLine.Tool@2.1.0
