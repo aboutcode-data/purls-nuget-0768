@@ -106,3 +106,4 @@
 - pkg:nuget/PowerThreadPool@4.9.0
 - pkg:nuget/PowerThreadPool@4.9.1
 - pkg:nuget/PowerThreadPool@5.0.0-rc.1
+- pkg:nuget/PowerThreadPool@6.1.0
