@@ -238,3 +238,4 @@
 - pkg:nuget/GeoNorgeAPI@4.0.0-alpha2
 - pkg:nuget/GeoNorgeAPI@4.0.0-alpha3
 - pkg:nuget/GeoNorgeAPI@4.0.1
+- pkg:nuget/GeoNorgeAPI@4.0.5
