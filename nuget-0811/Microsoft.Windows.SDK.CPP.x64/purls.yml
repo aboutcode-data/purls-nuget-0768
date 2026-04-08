@@ -107,3 +107,4 @@
 - pkg:nuget/Microsoft.Windows.SDK.CPP.x64@10.0.26100.6584
 - pkg:nuget/Microsoft.Windows.SDK.CPP.x64@10.0.28000.1-RTM
 - pkg:nuget/Microsoft.Windows.SDK.CPP.x64@10.0.28000.1721
+- pkg:nuget/Microsoft.Windows.SDK.CPP.x64@10.0.28000.1761-preview
