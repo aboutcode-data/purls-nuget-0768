@@ -84,3 +84,7 @@
 - pkg:nuget/LuciferCore@2.3.5-debug
 - pkg:nuget/LuciferCore@2.3.6
 - pkg:nuget/LuciferCore@2.3.6-debug
+- pkg:nuget/LuciferCore@2.4.0
+- pkg:nuget/LuciferCore@2.4.0-debug
+- pkg:nuget/LuciferCore@2.4.2
+- pkg:nuget/LuciferCore@2.4.2-debug
