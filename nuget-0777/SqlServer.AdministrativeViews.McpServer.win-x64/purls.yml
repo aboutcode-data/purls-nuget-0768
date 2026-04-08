@@ -1,3 +1,4 @@
 - pkg:nuget/SqlServer.AdministrativeViews.McpServer.win-x64@1.1.304
 - pkg:nuget/SqlServer.AdministrativeViews.McpServer.win-x64@1.1.305
 - pkg:nuget/SqlServer.AdministrativeViews.McpServer.win-x64@1.1.311
+- pkg:nuget/SqlServer.AdministrativeViews.McpServer.win-x64@1.1.319
