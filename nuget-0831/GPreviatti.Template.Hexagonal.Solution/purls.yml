@@ -1,5 +1,6 @@
 - pkg:nuget/GPreviatti.Template.Hexagonal.Solution@1.0.0
 - pkg:nuget/GPreviatti.Template.Hexagonal.Solution@10.1.0
+- pkg:nuget/GPreviatti.Template.Hexagonal.Solution@10.5.0
 - pkg:nuget/GPreviatti.Template.Hexagonal.Solution@8.0.34
 - pkg:nuget/GPreviatti.Template.Hexagonal.Solution@8.0.35
 - pkg:nuget/GPreviatti.Template.Hexagonal.Solution@8.0.36
