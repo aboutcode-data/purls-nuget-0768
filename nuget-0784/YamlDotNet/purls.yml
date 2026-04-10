@@ -54,6 +54,7 @@
 - pkg:nuget/YamlDotNet@16.2.0
 - pkg:nuget/YamlDotNet@16.2.1
 - pkg:nuget/YamlDotNet@16.3.0
+- pkg:nuget/YamlDotNet@17.0.1
 - pkg:nuget/YamlDotNet@2.3.0-rc
 - pkg:nuget/YamlDotNet@3.0.0
 - pkg:nuget/YamlDotNet@3.1.0
