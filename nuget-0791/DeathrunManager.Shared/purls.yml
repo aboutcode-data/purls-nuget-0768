@@ -14,6 +14,8 @@
 - pkg:nuget/DeathrunManager.Shared@0.1.26.2
 - pkg:nuget/DeathrunManager.Shared@0.1.26.3
 - pkg:nuget/DeathrunManager.Shared@0.1.27
+- pkg:nuget/DeathrunManager.Shared@0.1.37
 - pkg:nuget/DeathrunManager.Shared@0.1.7
 - pkg:nuget/DeathrunManager.Shared@0.1.8
 - pkg:nuget/DeathrunManager.Shared@0.1.9
+- pkg:nuget/DeathrunManager.Shared@1.38.0
