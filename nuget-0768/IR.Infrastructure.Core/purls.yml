@@ -8,6 +8,8 @@
 - pkg:nuget/IR.Infrastructure.Core@2.1.38
 - pkg:nuget/IR.Infrastructure.Core@2.1.50
 - pkg:nuget/IR.Infrastructure.Core@2.1.51
+- pkg:nuget/IR.Infrastructure.Core@2.1.53
+- pkg:nuget/IR.Infrastructure.Core@2.1.54
 - pkg:nuget/IR.Infrastructure.Core@2.1.6
 - pkg:nuget/IR.Infrastructure.Core@2.1.7
 - pkg:nuget/IR.Infrastructure.Core@2.1.9
