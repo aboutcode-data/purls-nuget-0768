@@ -1,1 +1,2 @@
+- pkg:nuget/CoreGame.SharedMeta.Transport.HttpPolling@0.10.0
 - pkg:nuget/CoreGame.SharedMeta.Transport.HttpPolling@0.5.1
