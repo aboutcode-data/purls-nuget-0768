@@ -16,3 +16,5 @@
 - pkg:nuget/Deedle.Excel@2.4.3
 - pkg:nuget/Deedle.Excel@2.5.0
 - pkg:nuget/Deedle.Excel@3.0.0
+- pkg:nuget/Deedle.Excel@6.0.0
+- pkg:nuget/Deedle.Excel@6.0.1
