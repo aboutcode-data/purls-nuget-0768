@@ -191,6 +191,7 @@
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@45.0.6
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@47.0.1
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@47.0.2
+- pkg:nuget/Zafiro.FileSystem.SeaweedFS@47.0.3
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@5.0.0
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@5.0.1
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS@5.0.10
