@@ -20,3 +20,4 @@
 - pkg:nuget/GoesSoftware.SuperSDK.Core@6.6.0
 - pkg:nuget/GoesSoftware.SuperSDK.Core@6.6.2
 - pkg:nuget/GoesSoftware.SuperSDK.Core@7.0.0
+- pkg:nuget/GoesSoftware.SuperSDK.Core@7.16.0
