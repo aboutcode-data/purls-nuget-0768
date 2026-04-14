@@ -21,6 +21,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@10.0.3
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@3.0.0-preview-18579-0056
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@3.0.0-preview-19075-0444
