@@ -56,4 +56,5 @@
 - pkg:nuget/Odin.Messaging.RabbitMq@0.2.1
 - pkg:nuget/Odin.Messaging.RabbitMq@0.2.10
 - pkg:nuget/Odin.Messaging.RabbitMq@0.9.1
+- pkg:nuget/Odin.Messaging.RabbitMq@0.9.53
 - pkg:nuget/Odin.Messaging.RabbitMq@1.0.0
