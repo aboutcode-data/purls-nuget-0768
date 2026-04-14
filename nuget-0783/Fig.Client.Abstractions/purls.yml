@@ -1,1 +1,2 @@
 - pkg:nuget/Fig.Client.Abstractions@3.4.0
+- pkg:nuget/Fig.Client.Abstractions@3.4.2
