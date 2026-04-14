@@ -1,1 +1,2 @@
 - pkg:nuget/Tyto.Transports.Kafka@0.0.1-alpha.48
+- pkg:nuget/Tyto.Transports.Kafka@0.0.1-alpha.65
