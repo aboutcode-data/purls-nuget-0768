@@ -53,6 +53,8 @@
 - pkg:nuget/ModPlus.Revit.Module.2022@31.0.0
 - pkg:nuget/ModPlus.Revit.Module.2022@32.0.0
 - pkg:nuget/ModPlus.Revit.Module.2022@33.0.0
+- pkg:nuget/ModPlus.Revit.Module.2022@36.0.0
+- pkg:nuget/ModPlus.Revit.Module.2022@37.0.0
 - pkg:nuget/ModPlus.Revit.Module.2022@6.5.0
 - pkg:nuget/ModPlus.Revit.Module.2022@6.5.1
 - pkg:nuget/ModPlus.Revit.Module.2022@6.5.2
