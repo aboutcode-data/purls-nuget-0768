@@ -5,6 +5,7 @@
 - pkg:nuget/Aiursoft.InMemoryKvDb@1.0.5
 - pkg:nuget/Aiursoft.InMemoryKvDb@1.0.6
 - pkg:nuget/Aiursoft.InMemoryKvDb@1.0.7
+- pkg:nuget/Aiursoft.InMemoryKvDb@10.0.6
 - pkg:nuget/Aiursoft.InMemoryKvDb@9.0.0
 - pkg:nuget/Aiursoft.InMemoryKvDb@9.0.1
 - pkg:nuget/Aiursoft.InMemoryKvDb@9.0.2
