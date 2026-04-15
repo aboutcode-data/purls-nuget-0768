@@ -10,4 +10,5 @@
 - pkg:nuget/Azure.Mcp.linux-arm64@2.0.0-beta.34
 - pkg:nuget/Azure.Mcp.linux-arm64@2.0.0-beta.35
 - pkg:nuget/Azure.Mcp.linux-arm64@2.0.0-beta.36
+- pkg:nuget/Azure.Mcp.linux-arm64@2.0.1
 - pkg:nuget/Azure.Mcp.linux-arm64@3.0.0-beta.1

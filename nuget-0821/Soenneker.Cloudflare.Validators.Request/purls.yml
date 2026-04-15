@@ -32,6 +32,8 @@
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.214
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.215
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.216
+- pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.218
+- pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.220
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.35
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.71
 - pkg:nuget/Soenneker.Cloudflare.Validators.Request@4.0.72
