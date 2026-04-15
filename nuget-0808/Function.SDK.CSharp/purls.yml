@@ -28,6 +28,7 @@
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.42
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.5
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.51
+- pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.54
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.6
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.7
 - pkg:nuget/Function.SDK.CSharp@1.0.0-alpha.8
