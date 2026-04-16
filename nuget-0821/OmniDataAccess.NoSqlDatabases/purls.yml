@@ -6,4 +6,5 @@
 - pkg:nuget/OmniDataAccess.NoSqlDatabases@1.0.5
 - pkg:nuget/OmniDataAccess.NoSqlDatabases@1.0.6
 - pkg:nuget/OmniDataAccess.NoSqlDatabases@1.0.7-rc.1.250921
+- pkg:nuget/OmniDataAccess.NoSqlDatabases@1.2.0-rc1.260415
 - pkg:nuget/OmniDataAccess.NoSqlDatabases@2025.7.1
