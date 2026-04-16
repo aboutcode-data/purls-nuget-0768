@@ -1,1 +1,2 @@
 - pkg:nuget/MX.Observability.ApplicationInsights@1.0.1
+- pkg:nuget/MX.Observability.ApplicationInsights@1.0.3
