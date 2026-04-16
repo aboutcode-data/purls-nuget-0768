@@ -27,6 +27,7 @@
 - pkg:nuget/Foundatio.RabbitMQ@11.0.8
 - pkg:nuget/Foundatio.RabbitMQ@11.1.0
 - pkg:nuget/Foundatio.RabbitMQ@12.0.0
+- pkg:nuget/Foundatio.RabbitMQ@13.0.0-beta6
 - pkg:nuget/Foundatio.RabbitMQ@4.2.1107-pre
 - pkg:nuget/Foundatio.RabbitMQ@4.2.1108-pre
 - pkg:nuget/Foundatio.RabbitMQ@4.2.1113-pre
