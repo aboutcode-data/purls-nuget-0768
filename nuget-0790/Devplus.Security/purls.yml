@@ -2,3 +2,6 @@
 - pkg:nuget/Devplus.Security@1.2.0
 - pkg:nuget/Devplus.Security@1.4.0
 - pkg:nuget/Devplus.Security@1.6.1
+- pkg:nuget/Devplus.Security@1.7.3
+- pkg:nuget/Devplus.Security@1.7.5
+- pkg:nuget/Devplus.Security@1.7.6
