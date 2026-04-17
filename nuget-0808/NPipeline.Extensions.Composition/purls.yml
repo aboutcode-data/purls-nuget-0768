@@ -5,4 +5,5 @@
 - pkg:nuget/NPipeline.Extensions.Composition@0.38.0
 - pkg:nuget/NPipeline.Extensions.Composition@0.38.2
 - pkg:nuget/NPipeline.Extensions.Composition@0.40.0
+- pkg:nuget/NPipeline.Extensions.Composition@0.40.1
 - pkg:nuget/NPipeline.Extensions.Composition@0.7.1

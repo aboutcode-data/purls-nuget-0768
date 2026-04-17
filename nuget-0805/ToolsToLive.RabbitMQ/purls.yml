@@ -10,3 +10,4 @@
 - pkg:nuget/ToolsToLive.RabbitMQ@2.2.0
 - pkg:nuget/ToolsToLive.RabbitMQ@2.2.1
 - pkg:nuget/ToolsToLive.RabbitMQ@2.3.0
+- pkg:nuget/ToolsToLive.RabbitMQ@4.0.0-alpha.66
