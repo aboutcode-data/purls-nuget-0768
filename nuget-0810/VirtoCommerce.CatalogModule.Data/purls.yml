@@ -110,6 +110,7 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.1014.0-alpha.2496-vcst-4729-terms-sorting
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.1015.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.1017.0-alpha.2497-vcst-4516
+- pkg:nuget/VirtoCommerce.CatalogModule.Data@3.1019.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.11.0-alpha.1555
 - pkg:nuget/VirtoCommerce.CatalogModule.Data@3.11.0-alpha.1556
