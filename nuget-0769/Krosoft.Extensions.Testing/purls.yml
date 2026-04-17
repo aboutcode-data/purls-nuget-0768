@@ -142,6 +142,9 @@
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.16.6650
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.16.6651
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.16.6652
+- pkg:nuget/Krosoft.Extensions.Testing@2026.4.17.6668
+- pkg:nuget/Krosoft.Extensions.Testing@2026.4.17.6669
+- pkg:nuget/Krosoft.Extensions.Testing@2026.4.17.6670
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.2.6337
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.2.6338
 - pkg:nuget/Krosoft.Extensions.Testing@2026.4.2.6339
