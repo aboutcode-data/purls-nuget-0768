@@ -177,6 +177,7 @@
 - pkg:nuget/CocApi.Cache@2.12.1-debug8
 - pkg:nuget/CocApi.Cache@2.12.1-debug9
 - pkg:nuget/CocApi.Cache@2.13.0-rc1
+- pkg:nuget/CocApi.Cache@2.16.0-alpha11
 - pkg:nuget/CocApi.Cache@2.2.0
 - pkg:nuget/CocApi.Cache@2.3.0
 - pkg:nuget/CocApi.Cache@2.4.0
