@@ -39,3 +39,4 @@
 - pkg:nuget/CosmosDB.InMemoryEmulator@2.0.80
 - pkg:nuget/CosmosDB.InMemoryEmulator@2.0.9
 - pkg:nuget/CosmosDB.InMemoryEmulator@2.0.98
+- pkg:nuget/CosmosDB.InMemoryEmulator@4.0.1
