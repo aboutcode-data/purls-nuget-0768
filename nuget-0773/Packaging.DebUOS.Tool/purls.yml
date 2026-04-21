@@ -33,3 +33,4 @@
 - pkg:nuget/Packaging.DebUOS.Tool@3.17.6
 - pkg:nuget/Packaging.DebUOS.Tool@3.17.6-alpha01
 - pkg:nuget/Packaging.DebUOS.Tool@3.17.7
+- pkg:nuget/Packaging.DebUOS.Tool@3.19.2
