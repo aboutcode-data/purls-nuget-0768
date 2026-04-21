@@ -2328,3 +2328,4 @@
 - pkg:nuget/mmx.utils@0.9.99
 - pkg:nuget/mmx.utils@1.0.2
 - pkg:nuget/mmx.utils@1.0.4-alpha.0.4
+- pkg:nuget/mmx.utils@1.0.6

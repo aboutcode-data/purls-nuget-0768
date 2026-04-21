@@ -154,3 +154,4 @@
 - pkg:nuget/Squidex.Assets.GoogleCloud@7.7.0
 - pkg:nuget/Squidex.Assets.GoogleCloud@7.8.0
 - pkg:nuget/Squidex.Assets.GoogleCloud@7.9.0
+- pkg:nuget/Squidex.Assets.GoogleCloud@8.0.1

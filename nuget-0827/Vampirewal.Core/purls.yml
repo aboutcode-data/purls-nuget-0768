@@ -156,6 +156,7 @@
 - pkg:nuget/Vampirewal.Core@3.2.8
 - pkg:nuget/Vampirewal.Core@3.2.9
 - pkg:nuget/Vampirewal.Core@3.3.1
+- pkg:nuget/Vampirewal.Core@3.3.11
 - pkg:nuget/Vampirewal.Core@3.3.2
 - pkg:nuget/Vampirewal.Core@3.3.3
 - pkg:nuget/Vampirewal.Core@3.3.4
