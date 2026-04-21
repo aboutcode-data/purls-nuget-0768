@@ -10,6 +10,7 @@
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@1.0.20241.362
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@1.0.20242.369
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@1.0.20251.379
+- pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@1.0.20252.418
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@3.0.20203.297
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@3.0.20211.308
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@3.0.20212.319
@@ -22,3 +23,4 @@
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@6.0.20241.362
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@6.0.20242.369
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@6.0.20251.379
+- pkg:nuget/C1.AspNetCore.Mvc.TransposedGrid.ja@6.0.20252.418
