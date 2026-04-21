@@ -728,3 +728,4 @@
 - pkg:nuget/StrawberryShake.Blazor@16.0.0-rc.1.9
 - pkg:nuget/StrawberryShake.Blazor@16.1.0-p.1.1
 - pkg:nuget/StrawberryShake.Blazor@16.1.0-p.1.2
+- pkg:nuget/StrawberryShake.Blazor@16.1.0-p.1.9
