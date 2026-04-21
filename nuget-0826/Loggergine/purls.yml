@@ -11,3 +11,5 @@
 - pkg:nuget/Loggergine@1.6.0
 - pkg:nuget/Loggergine@2.0.0
 - pkg:nuget/Loggergine@2.0.0-rc1
+- pkg:nuget/Loggergine@3.0.0
+- pkg:nuget/Loggergine@3.0.0-rc1
