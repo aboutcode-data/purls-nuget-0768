@@ -172,3 +172,4 @@
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@4.0.335
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@4.0.336
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@4.0.337
+- pkg:nuget/Soenneker.Middlewares.TrafficLogging@4.0.346
