@@ -25,3 +25,4 @@
 - pkg:nuget/Microsoft.DiaSymReader@1.4.0-beta2-21528-02
 - pkg:nuget/Microsoft.DiaSymReader@2.0.0
 - pkg:nuget/Microsoft.DiaSymReader@2.2.1-beta.25569.105
+- pkg:nuget/Microsoft.DiaSymReader@2.2.7
