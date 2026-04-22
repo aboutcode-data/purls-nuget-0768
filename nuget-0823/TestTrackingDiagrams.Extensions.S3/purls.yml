@@ -3,3 +3,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.S3@2.13.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.S3@2.14.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.S3@2.15.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.S3@2.19.0
