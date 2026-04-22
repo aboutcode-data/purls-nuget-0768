@@ -240,3 +240,4 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Audience@5.6.2
 - pkg:nuget/JTigerNova.Web.Lib.Service.Audience@5.6.4
 - pkg:nuget/JTigerNova.Web.Lib.Service.Audience@5.7.2
+- pkg:nuget/JTigerNova.Web.Lib.Service.Audience@6.5.1
