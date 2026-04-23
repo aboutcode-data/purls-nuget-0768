@@ -14,3 +14,4 @@
 - pkg:nuget/ValueCollections@5.1.0
 - pkg:nuget/ValueCollections@5.2.0
 - pkg:nuget/ValueCollections@5.3.0
+- pkg:nuget/ValueCollections@6.0.0
