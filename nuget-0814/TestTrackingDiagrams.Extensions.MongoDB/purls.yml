@@ -4,3 +4,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.MongoDB@2.14.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.MongoDB@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.MongoDB@2.19.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.MongoDB@2.22.19
