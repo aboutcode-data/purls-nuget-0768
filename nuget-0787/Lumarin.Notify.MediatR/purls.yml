@@ -1,4 +1,5 @@
 - pkg:nuget/Lumarin.Notify.MediatR@0.8.0-preview.110
+- pkg:nuget/Lumarin.Notify.MediatR@0.8.0-preview.150
 - pkg:nuget/Lumarin.Notify.MediatR@0.8.0-preview.79
 - pkg:nuget/Lumarin.Notify.MediatR@0.8.0-preview.84
 - pkg:nuget/Lumarin.Notify.MediatR@0.8.0-preview.85
