@@ -6,3 +6,4 @@
 - pkg:nuget/ReactiveUI.SourceGenerators.Analyzers.CodeFixes@2.2.4
 - pkg:nuget/ReactiveUI.SourceGenerators.Analyzers.CodeFixes@2.3.1
 - pkg:nuget/ReactiveUI.SourceGenerators.Analyzers.CodeFixes@2.4.1
+- pkg:nuget/ReactiveUI.SourceGenerators.Analyzers.CodeFixes@2.6.30
