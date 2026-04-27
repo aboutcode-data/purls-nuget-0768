@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.MailKit@1.0.0
+- pkg:nuget/Yoyo.Abp.MailKit@10.3.0
 - pkg:nuget/Yoyo.Abp.MailKit@6.4.0
 - pkg:nuget/Yoyo.Abp.MailKit@7.3.0
 - pkg:nuget/Yoyo.Abp.MailKit@7.3.0.10

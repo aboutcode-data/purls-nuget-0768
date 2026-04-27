@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.ZeroCore.EntityFrameworkCore@1.0.0
+- pkg:nuget/Yoyo.Abp.ZeroCore.EntityFrameworkCore@10.3.0
 - pkg:nuget/Yoyo.Abp.ZeroCore.EntityFrameworkCore@6.4.0
 - pkg:nuget/Yoyo.Abp.ZeroCore.EntityFrameworkCore@7.3.0
 - pkg:nuget/Yoyo.Abp.ZeroCore.EntityFrameworkCore@7.3.0.10
