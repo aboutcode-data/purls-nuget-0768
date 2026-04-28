@@ -33,3 +33,4 @@
 - pkg:nuget/Orc.FeatureToggles.Xaml@5.0.0-alpha0390
 - pkg:nuget/Orc.FeatureToggles.Xaml@5.0.0-alpha0430
 - pkg:nuget/Orc.FeatureToggles.Xaml@5.0.0-alpha0431
+- pkg:nuget/Orc.FeatureToggles.Xaml@6.0.0-alpha0096
