@@ -20,6 +20,7 @@
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@1.0.39
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@1.0.40
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@1.0.41
+- pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@10.0.3
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@5.0.0
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@5.0.1
 - pkg:nuget/Ccf.Ck.SysPlugins.Recorders.Postman@5.0.2

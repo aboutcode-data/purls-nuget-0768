@@ -5,6 +5,7 @@
 - pkg:nuget/KubeOps.KubernetesClient@10.3.1-prerelease.1
 - pkg:nuget/KubeOps.KubernetesClient@10.3.3-prerelease.1
 - pkg:nuget/KubeOps.KubernetesClient@10.3.5-prerelease.2
+- pkg:nuget/KubeOps.KubernetesClient@10.4.0
 - pkg:nuget/KubeOps.KubernetesClient@7.0.0
 - pkg:nuget/KubeOps.KubernetesClient@7.0.1
 - pkg:nuget/KubeOps.KubernetesClient@7.0.10
