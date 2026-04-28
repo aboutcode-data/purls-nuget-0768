@@ -1,1 +1,3 @@
 - pkg:nuget/Nullean.Argh.Hosting@0.6.0
+- pkg:nuget/Nullean.Argh.Hosting@0.8.1
+- pkg:nuget/Nullean.Argh.Hosting@0.8.2
