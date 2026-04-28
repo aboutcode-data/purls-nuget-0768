@@ -183,9 +183,11 @@
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.20.15
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.21.2-PreRelease
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.22.8
+- pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.23.12
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.23.8
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.24.7
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.25.2-PreRelease
+- pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.26.0-PreRelease
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.3.0
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.3.1
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.3.10
