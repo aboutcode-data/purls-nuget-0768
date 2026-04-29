@@ -1,5 +1,6 @@
 - pkg:nuget/DynamicQueryable.Extensions@1.0.0
 - pkg:nuget/DynamicQueryable.Extensions@1.0.0-dev.4
+- pkg:nuget/DynamicQueryable.Extensions@1.3.0
 - pkg:nuget/DynamicQueryable.Extensions@2.0.0-preview.1
 - pkg:nuget/DynamicQueryable.Extensions@2.0.0-preview.2
 - pkg:nuget/DynamicQueryable.Extensions@2.0.0-preview.3

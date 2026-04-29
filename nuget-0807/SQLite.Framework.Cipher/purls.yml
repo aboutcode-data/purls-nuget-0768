@@ -3,3 +3,4 @@
 - pkg:nuget/SQLite.Framework.Cipher@4.1.1
 - pkg:nuget/SQLite.Framework.Cipher@4.1.2
 - pkg:nuget/SQLite.Framework.Cipher@4.1.3
+- pkg:nuget/SQLite.Framework.Cipher@5.0.1
