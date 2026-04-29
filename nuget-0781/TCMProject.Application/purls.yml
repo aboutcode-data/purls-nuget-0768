@@ -1,3 +1,6 @@
+- pkg:nuget/TCMProject.Application@26.4.28.1
+- pkg:nuget/TCMProject.Application@26.4.28.2
+- pkg:nuget/TCMProject.Application@26.4.28.3
 - pkg:nuget/TCMProject.Application@4.10.10.1
 - pkg:nuget/TCMProject.Application@4.10.23.1
 - pkg:nuget/TCMProject.Application@4.6.17.1
