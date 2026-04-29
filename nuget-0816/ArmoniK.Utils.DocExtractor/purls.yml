@@ -15,3 +15,5 @@
 - pkg:nuget/ArmoniK.Utils.DocExtractor@0.6.3-SNAPSHOT.4.sha.f969bd3
 - pkg:nuget/ArmoniK.Utils.DocExtractor@0.7.1-SNAPSHOT.4.sha.ea5f82c
 - pkg:nuget/ArmoniK.Utils.DocExtractor@0.7.1-renovategithubactions.1.sha.447ff0e
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.7.4-renovategithubactions.1.sha.fc38aa4
+- pkg:nuget/ArmoniK.Utils.DocExtractor@0.7.4-renovatemajorgithubactions.1.sha.f747245
