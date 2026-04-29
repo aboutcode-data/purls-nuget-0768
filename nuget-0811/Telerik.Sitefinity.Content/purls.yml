@@ -360,6 +360,7 @@
 - pkg:nuget/Telerik.Sitefinity.Content@15.3.8528
 - pkg:nuget/Telerik.Sitefinity.Content@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.Content@15.4.8628
+- pkg:nuget/Telerik.Sitefinity.Content@15.4.8629
 - pkg:nuget/Telerik.Sitefinity.Content@6.3.5000
 - pkg:nuget/Telerik.Sitefinity.Content@6.3.5040
 - pkg:nuget/Telerik.Sitefinity.Content@6.3.5041
