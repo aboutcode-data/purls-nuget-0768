@@ -111,3 +111,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Common.WeatherHelper@1.2.865
 - pkg:nuget/nanoFramework.Iot.Device.Common.WeatherHelper@1.2.891
 - pkg:nuget/nanoFramework.Iot.Device.Common.WeatherHelper@1.2.9
+- pkg:nuget/nanoFramework.Iot.Device.Common.WeatherHelper@2.0.0-preview.42
