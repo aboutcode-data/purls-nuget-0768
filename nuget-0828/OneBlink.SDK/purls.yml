@@ -107,6 +107,7 @@
 - pkg:nuget/OneBlink.SDK@11.3.0
 - pkg:nuget/OneBlink.SDK@11.3.1
 - pkg:nuget/OneBlink.SDK@11.3.2-beta.2
+- pkg:nuget/OneBlink.SDK@11.3.2-beta.3
 - pkg:nuget/OneBlink.SDK@2.0.0
 - pkg:nuget/OneBlink.SDK@2.0.0-beta.1
 - pkg:nuget/OneBlink.SDK@2.1.0
