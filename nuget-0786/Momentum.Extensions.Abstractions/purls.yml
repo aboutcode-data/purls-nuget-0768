@@ -16,6 +16,8 @@
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.1-preview.1
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.10-preview.3
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.10-preview.6
+- pkg:nuget/Momentum.Extensions.Abstractions@0.0.10-preview.7
+- pkg:nuget/Momentum.Extensions.Abstractions@0.0.10-preview.8
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.2
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.2-preview.1
 - pkg:nuget/Momentum.Extensions.Abstractions@0.0.2-preview.2
