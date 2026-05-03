@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Plaid.HttpClients@4.0.1
 - pkg:nuget/Soenneker.Plaid.HttpClients@4.0.12
 - pkg:nuget/Soenneker.Plaid.HttpClients@4.0.15
+- pkg:nuget/Soenneker.Plaid.HttpClients@4.0.17
 - pkg:nuget/Soenneker.Plaid.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Plaid.HttpClients@4.0.3
