@@ -48,3 +48,5 @@
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.1
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.2
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@5.5.0-feature-addMaven.3
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.0.0-feature-realvolume-unit-change.2
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.0.0-feature-realvolume-unit-change.3
