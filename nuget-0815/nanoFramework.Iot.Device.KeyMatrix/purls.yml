@@ -47,3 +47,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.KeyMatrix@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.KeyMatrix@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.KeyMatrix@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.KeyMatrix@2.0.0-preview.49
