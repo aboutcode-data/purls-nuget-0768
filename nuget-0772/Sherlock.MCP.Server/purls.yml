@@ -8,3 +8,4 @@
 - pkg:nuget/Sherlock.MCP.Server@2.1.1
 - pkg:nuget/Sherlock.MCP.Server@2.2.0
 - pkg:nuget/Sherlock.MCP.Server@2.3.0
+- pkg:nuget/Sherlock.MCP.Server@2.9.1
