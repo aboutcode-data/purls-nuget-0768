@@ -172,4 +172,5 @@
 - pkg:nuget/WolverineFx.RDBMS@5.27.0
 - pkg:nuget/WolverineFx.RDBMS@5.31.0
 - pkg:nuget/WolverineFx.RDBMS@5.36.2
+- pkg:nuget/WolverineFx.RDBMS@5.37.2
 - pkg:nuget/WolverineFx.RDBMS@5.4.3
