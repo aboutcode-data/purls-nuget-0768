@@ -79,3 +79,4 @@
 - pkg:nuget/Orc.Squirrel@5.1.0-beta0002
 - pkg:nuget/Orc.Squirrel@5.1.1
 - pkg:nuget/Orc.Squirrel@5.1.2
+- pkg:nuget/Orc.Squirrel@6.0.0-alpha0116
