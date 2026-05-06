@@ -1,1 +1,2 @@
 - pkg:nuget/FGenerator.Cli@1.2.0
+- pkg:nuget/FGenerator.Cli@3.1.0
