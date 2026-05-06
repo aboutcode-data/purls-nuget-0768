@@ -2,4 +2,5 @@
 - pkg:nuget/MazyPlatform.Contracts.Core@0.3.1-preview
 - pkg:nuget/MazyPlatform.Contracts.Core@0.3.2-preview
 - pkg:nuget/MazyPlatform.Contracts.Core@0.3.3-preview
+- pkg:nuget/MazyPlatform.Contracts.Core@0.6.16-preview
 - pkg:nuget/MazyPlatform.Contracts.Core@0.6.7-preview
