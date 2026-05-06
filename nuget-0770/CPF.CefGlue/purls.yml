@@ -3,6 +3,7 @@
 - pkg:nuget/CPF.CefGlue@10.134.3.12
 - pkg:nuget/CPF.CefGlue@2.120.1.8
 - pkg:nuget/CPF.CefGlue@2.133.4.2
+- pkg:nuget/CPF.CefGlue@24.144.0.22
 - pkg:nuget/CPF.CefGlue@3.133.4.9
 - pkg:nuget/CPF.CefGlue@3.134.3.11
 - pkg:nuget/CPF.CefGlue@3.134.3.12
