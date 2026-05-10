@@ -10,3 +10,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.AtlasDataApi@2.29.12-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.AtlasDataApi@2.29.7-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.AtlasDataApi@2.30.12
+- pkg:nuget/TestTrackingDiagrams.Extensions.AtlasDataApi@2.33.14
