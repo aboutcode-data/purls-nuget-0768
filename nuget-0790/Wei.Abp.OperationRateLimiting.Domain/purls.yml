@@ -1,1 +1,3 @@
 - pkg:nuget/Wei.Abp.OperationRateLimiting.Domain@4.2.0
+- pkg:nuget/Wei.Abp.OperationRateLimiting.Domain@4.3.0-beta.5
+- pkg:nuget/Wei.Abp.OperationRateLimiting.Domain@4.3.0-beta.6
