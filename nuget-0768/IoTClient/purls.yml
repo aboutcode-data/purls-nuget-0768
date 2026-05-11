@@ -130,6 +130,7 @@
 - pkg:nuget/IoTClient@1.0.40
 - pkg:nuget/IoTClient@1.0.41
 - pkg:nuget/IoTClient@1.0.42
+- pkg:nuget/IoTClient@1.0.45
 - pkg:nuget/IoTClient@1.0.5
 - pkg:nuget/IoTClient@1.0.6
 - pkg:nuget/IoTClient@1.0.7
