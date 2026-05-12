@@ -91,6 +91,7 @@
 - pkg:nuget/BusAppCore.EfCoreFx@1.57.0-preview.8
 - pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.1
 - pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.11
+- pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.126
 - pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.13
 - pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.14
 - pkg:nuget/BusAppCore.EfCoreFx@1.58.0-preview.15
