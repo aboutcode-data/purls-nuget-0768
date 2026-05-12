@@ -1,1 +1,2 @@
 - pkg:nuget/OCI.DotNetSDK.Containerregistry@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Containerregistry@135.0.0
