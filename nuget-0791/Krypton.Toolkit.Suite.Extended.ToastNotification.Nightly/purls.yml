@@ -15,6 +15,7 @@
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@100.25.7.209-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@100.25.8.230-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@100.25.9.244-alpha
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@110.26.5.132-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@90.24.10.295-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@90.24.7.200-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Nightly@90.24.7.209-alpha
