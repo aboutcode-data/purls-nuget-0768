@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Autoscaling@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Autoscaling@14.2.0

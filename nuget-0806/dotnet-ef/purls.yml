@@ -9,7 +9,9 @@
 - pkg:nuget/dotnet-ef@10.0.0-rc.1.25451.107
 - pkg:nuget/dotnet-ef@10.0.1
 - pkg:nuget/dotnet-ef@10.0.7
+- pkg:nuget/dotnet-ef@10.0.8
 - pkg:nuget/dotnet-ef@11.0.0-preview.2.26159.112
+- pkg:nuget/dotnet-ef@11.0.0-preview.4.26230.115
 - pkg:nuget/dotnet-ef@2.1.0
 - pkg:nuget/dotnet-ef@2.1.1
 - pkg:nuget/dotnet-ef@2.1.11
@@ -221,6 +223,7 @@
 - pkg:nuget/dotnet-ef@9.0.0-rc.1.24451.1
 - pkg:nuget/dotnet-ef@9.0.0-rc.2.24474.1
 - pkg:nuget/dotnet-ef@9.0.1
+- pkg:nuget/dotnet-ef@9.0.16
 - pkg:nuget/dotnet-ef@9.0.2
 - pkg:nuget/dotnet-ef@9.0.3
 - pkg:nuget/dotnet-ef@9.0.4

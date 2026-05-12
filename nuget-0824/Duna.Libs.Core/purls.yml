@@ -39,3 +39,5 @@
 - pkg:nuget/Duna.Libs.Core@0.0.7
 - pkg:nuget/Duna.Libs.Core@0.0.8
 - pkg:nuget/Duna.Libs.Core@0.0.9
+- pkg:nuget/Duna.Libs.Core@0.1.6
+- pkg:nuget/Duna.Libs.Core@1.0.0

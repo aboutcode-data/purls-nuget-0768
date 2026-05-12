@@ -37,6 +37,7 @@
 - pkg:nuget/System.Text.Json@10.0.1
 - pkg:nuget/System.Text.Json@10.0.7
 - pkg:nuget/System.Text.Json@11.0.0-preview.1.26104.118
+- pkg:nuget/System.Text.Json@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Text.Json@2.0.0
 - pkg:nuget/System.Text.Json@2.0.0.1
 - pkg:nuget/System.Text.Json@2.0.0.10
