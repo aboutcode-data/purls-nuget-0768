@@ -4,3 +4,5 @@
 - pkg:nuget/wcom-pr-validation@2026.4.13.3
 - pkg:nuget/wcom-pr-validation@2026.4.17.2
 - pkg:nuget/wcom-pr-validation@2026.4.6.7
+- pkg:nuget/wcom-pr-validation@2026.5.12.2
+- pkg:nuget/wcom-pr-validation@2026.5.12.4
