@@ -46,3 +46,4 @@
 - pkg:nuget/ETLBox.AnalysisServices@3.6.1
 - pkg:nuget/ETLBox.AnalysisServices@3.7.0
 - pkg:nuget/ETLBox.AnalysisServices@3.7.1
+- pkg:nuget/ETLBox.AnalysisServices@3.9.0

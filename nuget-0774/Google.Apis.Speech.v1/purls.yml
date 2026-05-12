@@ -215,3 +215,4 @@
 - pkg:nuget/Google.Apis.Speech.v1@1.68.0.3556
 - pkg:nuget/Google.Apis.Speech.v1@1.68.0.3584
 - pkg:nuget/Google.Apis.Speech.v1@1.68.0.3602
+- pkg:nuget/Google.Apis.Speech.v1@1.74.0.3987
