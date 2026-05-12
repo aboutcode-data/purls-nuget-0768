@@ -40,3 +40,4 @@
 - pkg:nuget/EdgePDF.Editor.AspNet.Core@12.6.0
 - pkg:nuget/EdgePDF.Editor.AspNet.Core@12.6.0.2
 - pkg:nuget/EdgePDF.Editor.AspNet.Core@12.6.0.3
+- pkg:nuget/EdgePDF.Editor.AspNet.Core@12.6.1.1
