@@ -14,3 +14,4 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.27.23631-beta
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@17.0.29.44223-beta
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@17.0.34.45391
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@18.0.36.33307-beta
