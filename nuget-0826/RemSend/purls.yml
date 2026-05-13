@@ -13,6 +13,7 @@
 - pkg:nuget/RemSend@7.9.0
 - pkg:nuget/RemSend@8.0.0
 - pkg:nuget/RemSend@8.1.0
+- pkg:nuget/RemSend@8.13.0
 - pkg:nuget/RemSend@8.2.0
 - pkg:nuget/RemSend@8.3.0
 - pkg:nuget/RemSend@8.4.0
