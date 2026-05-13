@@ -1,2 +1,3 @@
 - pkg:nuget/ANcpLua.Agents@0.4.0
 - pkg:nuget/ANcpLua.Agents@0.6.1
+- pkg:nuget/ANcpLua.Agents@1.4.10
