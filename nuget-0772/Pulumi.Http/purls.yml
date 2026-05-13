@@ -325,3 +325,4 @@
 - pkg:nuget/Pulumi.Http@0.2.0-alpha.1777962617
 - pkg:nuget/Pulumi.Http@0.2.0-alpha.1778049612
 - pkg:nuget/Pulumi.Http@0.2.0-alpha.1778568174
+- pkg:nuget/Pulumi.Http@0.2.0-alpha.1778654824
