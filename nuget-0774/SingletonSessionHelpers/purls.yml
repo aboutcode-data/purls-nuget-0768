@@ -243,6 +243,8 @@
 - pkg:nuget/SingletonSessionHelpers@2.0.359%2Bbuild.20260505142436.5d4a7b6
 - pkg:nuget/SingletonSessionHelpers@2.0.36%2Bbuild.65
 - pkg:nuget/SingletonSessionHelpers@2.0.360%2Bbuild.20260505143230.ddb845c
+- pkg:nuget/SingletonSessionHelpers@2.0.366%2Bbuild.20260513144914.bdd3884
+- pkg:nuget/SingletonSessionHelpers@2.0.367%2Bbuild.20260513145509.67e65ca
 - pkg:nuget/SingletonSessionHelpers@2.0.37%2Bbuild.66
 - pkg:nuget/SingletonSessionHelpers@2.0.38%2Bbuild.67
 - pkg:nuget/SingletonSessionHelpers@2.0.39%2Bbuild.68
