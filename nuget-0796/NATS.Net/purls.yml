@@ -82,3 +82,4 @@
 - pkg:nuget/NATS.Net@2.7.0-preview.5
 - pkg:nuget/NATS.Net@2.8.0
 - pkg:nuget/NATS.Net@3.0.0-preview.5
+- pkg:nuget/NATS.Net@3.0.0-preview.6
