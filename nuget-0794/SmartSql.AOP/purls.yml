@@ -122,3 +122,4 @@
 - pkg:nuget/SmartSql.AOP@4.1.7
 - pkg:nuget/SmartSql.AOP@4.1.8
 - pkg:nuget/SmartSql.AOP@4.1.9
+- pkg:nuget/SmartSql.AOP@4.2.0
