@@ -246,6 +246,7 @@
 - pkg:nuget/RestfulHelpers@1.8.25%2Bbuild.235
 - pkg:nuget/RestfulHelpers@1.8.258%2Bbuild.20260506192833.d86f294
 - pkg:nuget/RestfulHelpers@1.8.26%2Bbuild.236
+- pkg:nuget/RestfulHelpers@1.8.269%2Bbuild.20260514192807.2304a3d
 - pkg:nuget/RestfulHelpers@1.8.27%2Bbuild.237
 - pkg:nuget/RestfulHelpers@1.8.28%2Bbuild.238
 - pkg:nuget/RestfulHelpers@1.8.29%2Bbuild.239

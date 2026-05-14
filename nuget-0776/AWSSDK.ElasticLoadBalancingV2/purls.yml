@@ -1217,6 +1217,7 @@
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@3.7.505.44
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@3.7.505.45
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@3.7.505.46
+- pkg:nuget/AWSSDK.ElasticLoadBalancingV2@3.7.505.48
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@4.0.0
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@4.0.0-preview
 - pkg:nuget/AWSSDK.ElasticLoadBalancingV2@4.0.0-preview.10
