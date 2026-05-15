@@ -810,6 +810,7 @@
 - pkg:nuget/Ahsoka.CommandLine@5.16.1-zzz-develop.17
 - pkg:nuget/Ahsoka.CommandLine@5.16.1-zzz-develop.22
 - pkg:nuget/Ahsoka.CommandLine@5.16.1-zzz-develop.29
+- pkg:nuget/Ahsoka.CommandLine@5.17.0
 - pkg:nuget/Ahsoka.CommandLine@5.2.0
 - pkg:nuget/Ahsoka.CommandLine@5.2.1-zzz-develop.1
 - pkg:nuget/Ahsoka.CommandLine@5.2.1-zzz-develop.10
