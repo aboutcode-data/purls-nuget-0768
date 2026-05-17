@@ -68,3 +68,4 @@
 - pkg:nuget/NETool.Pack@4.7.4
 - pkg:nuget/NETool.Pack@4.8.1
 - pkg:nuget/NETool.Pack@4.8.4
+- pkg:nuget/NETool.Pack@4.9.2
