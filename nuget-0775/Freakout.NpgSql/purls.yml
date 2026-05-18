@@ -15,5 +15,6 @@
 - pkg:nuget/Freakout.NpgSql@0.0.24
 - pkg:nuget/Freakout.NpgSql@0.0.30
 - pkg:nuget/Freakout.NpgSql@0.0.31
+- pkg:nuget/Freakout.NpgSql@0.0.34
 - pkg:nuget/Freakout.NpgSql@0.0.8
 - pkg:nuget/Freakout.NpgSql@0.0.9
