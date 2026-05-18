@@ -1,5 +1,6 @@
 - pkg:nuget/LLDev.TI.CC2531@10.0.5
 - pkg:nuget/LLDev.TI.CC2531@10.0.7
+- pkg:nuget/LLDev.TI.CC2531@10.0.8
 - pkg:nuget/LLDev.TI.CC2531@8.0.0
 - pkg:nuget/LLDev.TI.CC2531@8.0.1-rc
 - pkg:nuget/LLDev.TI.CC2531@8.0.2
