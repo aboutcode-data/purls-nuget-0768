@@ -284,6 +284,7 @@
 - pkg:nuget/TencentCloudSDK.Teo@3.0.1351
 - pkg:nuget/TencentCloudSDK.Teo@3.0.1361
 - pkg:nuget/TencentCloudSDK.Teo@3.0.1406
+- pkg:nuget/TencentCloudSDK.Teo@3.0.1429
 - pkg:nuget/TencentCloudSDK.Teo@3.0.507
 - pkg:nuget/TencentCloudSDK.Teo@3.0.508
 - pkg:nuget/TencentCloudSDK.Teo@3.0.509
