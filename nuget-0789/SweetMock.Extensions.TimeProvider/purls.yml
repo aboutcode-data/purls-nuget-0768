@@ -1,3 +1,4 @@
 - pkg:nuget/SweetMock.Extensions.TimeProvider@0.9.38
 - pkg:nuget/SweetMock.Extensions.TimeProvider@0.9.39-RC1
+- pkg:nuget/SweetMock.Extensions.TimeProvider@0.9.40
 - pkg:nuget/SweetMock.Extensions.TimeProvider@0.9.40-RC2
