@@ -163,3 +163,4 @@
 - pkg:nuget/Oryx.Cognite@5.2.2
 - pkg:nuget/Oryx.Cognite@5.3.0
 - pkg:nuget/Oryx.Cognite@5.4.0
+- pkg:nuget/Oryx.Cognite@5.9.0
