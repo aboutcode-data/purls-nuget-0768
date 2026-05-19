@@ -226,3 +226,4 @@
 - pkg:nuget/Marten.NodaTime@8.9.0
 - pkg:nuget/Marten.NodaTime@8.9.0-channels-alpha-1
 - pkg:nuget/Marten.NodaTime@8.9.0-channels-alpha-2
+- pkg:nuget/Marten.NodaTime@9.0.0-alpha.4
