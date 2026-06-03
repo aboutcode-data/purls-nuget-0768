@@ -113,6 +113,7 @@
 - pkg:nuget/fsdgencsharp@2.33.0
 - pkg:nuget/fsdgencsharp@2.34.0
 - pkg:nuget/fsdgencsharp@2.34.1
+- pkg:nuget/fsdgencsharp@2.38.2
 - pkg:nuget/fsdgencsharp@2.4.0
 - pkg:nuget/fsdgencsharp@2.4.1
 - pkg:nuget/fsdgencsharp@2.5.0
