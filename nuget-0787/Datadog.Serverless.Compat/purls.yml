@@ -8,3 +8,4 @@
 - pkg:nuget/Datadog.Serverless.Compat@1.0.0
 - pkg:nuget/Datadog.Serverless.Compat@1.1.0
 - pkg:nuget/Datadog.Serverless.Compat@1.1.1
+- pkg:nuget/Datadog.Serverless.Compat@1.7.0
