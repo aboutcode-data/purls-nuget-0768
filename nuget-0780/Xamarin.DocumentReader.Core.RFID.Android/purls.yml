@@ -31,3 +31,5 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.RFID.Android@9.4.2245-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.RFID.Android@9.4.2373-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.RFID.Android@9.5.2497-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.RFID.Android@9.5.2636-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.RFID.Android@9.5.2666-rc
