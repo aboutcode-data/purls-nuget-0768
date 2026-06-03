@@ -128,4 +128,6 @@
 - pkg:nuget/SFA.DAS.Payments.Messages.Common@2.4.1-prerelease-33
 - pkg:nuget/SFA.DAS.Payments.Messages.Common@2.4.1-prerelease-34
 - pkg:nuget/SFA.DAS.Payments.Messages.Common@2.4.1-prerelease-42
+- pkg:nuget/SFA.DAS.Payments.Messages.Common@2.5.0-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.Messages.Common@2.5.0-prerelease-73
 - pkg:nuget/SFA.DAS.Payments.Messages.Common@3.1.2-CI-20240110-100814
