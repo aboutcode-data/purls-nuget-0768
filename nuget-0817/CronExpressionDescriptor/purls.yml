@@ -83,6 +83,9 @@
 - pkg:nuget/CronExpressionDescriptor@2.42.0
 - pkg:nuget/CronExpressionDescriptor@2.43.0
 - pkg:nuget/CronExpressionDescriptor@2.44.0
+- pkg:nuget/CronExpressionDescriptor@2.46.0
+- pkg:nuget/CronExpressionDescriptor@2.47.0
+- pkg:nuget/CronExpressionDescriptor@2.48.0
 - pkg:nuget/CronExpressionDescriptor@2.5.0
 - pkg:nuget/CronExpressionDescriptor@2.6.0
 - pkg:nuget/CronExpressionDescriptor@2.6.7
