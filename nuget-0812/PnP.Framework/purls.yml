@@ -1284,8 +1284,10 @@
 - pkg:nuget/PnP.Framework@1.18.369-nightly
 - pkg:nuget/PnP.Framework@1.18.37-nightly
 - pkg:nuget/PnP.Framework@1.18.375-nightly
+- pkg:nuget/PnP.Framework@1.18.376-nightly
 - pkg:nuget/PnP.Framework@1.18.38-nightly
 - pkg:nuget/PnP.Framework@1.18.380-nightly
+- pkg:nuget/PnP.Framework@1.18.381-nightly
 - pkg:nuget/PnP.Framework@1.18.39-nightly
 - pkg:nuget/PnP.Framework@1.18.4-nightly
 - pkg:nuget/PnP.Framework@1.18.40-nightly
@@ -1353,6 +1355,11 @@
 - pkg:nuget/PnP.Framework@1.18.97-nightly
 - pkg:nuget/PnP.Framework@1.18.98-nightly
 - pkg:nuget/PnP.Framework@1.18.99-nightly
+- pkg:nuget/PnP.Framework@1.19.12-nightly
+- pkg:nuget/PnP.Framework@1.19.13-nightly
+- pkg:nuget/PnP.Framework@1.19.5-nightly
+- pkg:nuget/PnP.Framework@1.19.7-nightly
+- pkg:nuget/PnP.Framework@1.19.8-nightly
 - pkg:nuget/PnP.Framework@1.2.0
 - pkg:nuget/PnP.Framework@1.2.1-nightly
 - pkg:nuget/PnP.Framework@1.2.10-nightly
