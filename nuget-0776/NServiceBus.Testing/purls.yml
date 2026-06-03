@@ -1,4 +1,5 @@
 - pkg:nuget/NServiceBus.Testing@10.0.1
+- pkg:nuget/NServiceBus.Testing@10.1.0
 - pkg:nuget/NServiceBus.Testing@2.5.0.1446
 - pkg:nuget/NServiceBus.Testing@2.5.0.1469
 - pkg:nuget/NServiceBus.Testing@2.5.0.1476
