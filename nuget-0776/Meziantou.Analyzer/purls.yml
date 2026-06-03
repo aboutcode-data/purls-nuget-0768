@@ -534,3 +534,6 @@
 - pkg:nuget/Meziantou.Analyzer@3.0.81
 - pkg:nuget/Meziantou.Analyzer@3.0.82
 - pkg:nuget/Meziantou.Analyzer@3.0.86
+- pkg:nuget/Meziantou.Analyzer@3.0.90
+- pkg:nuget/Meziantou.Analyzer@3.0.96
+- pkg:nuget/Meziantou.Analyzer@3.0.97
