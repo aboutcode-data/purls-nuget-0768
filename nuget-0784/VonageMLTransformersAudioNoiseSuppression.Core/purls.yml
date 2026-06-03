@@ -53,4 +53,8 @@
 - pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.0-alpha.1
 - pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.10
 - pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.11
+- pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.13
+- pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.14
+- pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.15
+- pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.16
 - pkg:nuget/VonageMLTransformersAudioNoiseSuppression.Core@1.1.9
