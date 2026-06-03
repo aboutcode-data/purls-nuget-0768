@@ -329,3 +329,6 @@
 - pkg:nuget/Pulumi.External@0.1.0-alpha.1777962134
 - pkg:nuget/Pulumi.External@0.1.0-alpha.1778567673
 - pkg:nuget/Pulumi.External@0.1.0-alpha.1778654323
+- pkg:nuget/Pulumi.External@0.2.0-alpha.1779346425
+- pkg:nuget/Pulumi.External@0.2.0-alpha.1779432799
+- pkg:nuget/Pulumi.External@0.3.0-alpha.1780470351
