@@ -238,3 +238,6 @@
 - pkg:nuget/Xinghe.Utility@6.25.417
 - pkg:nuget/Xinghe.Utility@6.26.112-pre0
 - pkg:nuget/Xinghe.Utility@6.26.113
+- pkg:nuget/Xinghe.Utility@6.26.116
+- pkg:nuget/Xinghe.Utility@6.26.119
+- pkg:nuget/Xinghe.Utility@6.26.121
