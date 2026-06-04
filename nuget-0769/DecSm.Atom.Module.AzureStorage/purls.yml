@@ -126,7 +126,9 @@
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@2.3.0-rc.26
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@2.4.0-rc.25
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@2.4.0-rc.27
+- pkg:nuget/DecSm.Atom.Module.AzureStorage@2.5.0-rc.2
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@3.0.0-beta.feature-v-next.155
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@3.0.0-beta.feature-v-next.166
+- pkg:nuget/DecSm.Atom.Module.AzureStorage@3.0.0-beta.feature-v-next.176
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@3.0.0-beta.feature-v-next.96
 - pkg:nuget/DecSm.Atom.Module.AzureStorage@3.0.0-beta.feature-v-next.98
