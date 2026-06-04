@@ -24,3 +24,5 @@
 - pkg:nuget/LitRedis.Core@4.2.4
 - pkg:nuget/LitRedis.Core@4.2.5
 - pkg:nuget/LitRedis.Core@4.2.6
+- pkg:nuget/LitRedis.Core@4.3.0
+- pkg:nuget/LitRedis.Core@5.0.0
