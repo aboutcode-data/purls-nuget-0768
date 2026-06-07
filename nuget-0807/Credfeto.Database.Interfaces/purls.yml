@@ -937,6 +937,7 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.210.2191-sqlserver-unit
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.210.2202-sqlserver-unit
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.210.2203-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.210.2207-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.575-sdk-dotnet-9-pr
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.576-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.577-main
