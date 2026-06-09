@@ -40,6 +40,7 @@
 - pkg:nuget/Text.Analyzers@3.11.0-beta1.25123.3
 - pkg:nuget/Text.Analyzers@3.11.0-beta1.25173.1
 - pkg:nuget/Text.Analyzers@3.11.0-beta1.25173.3
+- pkg:nuget/Text.Analyzers@3.11.0-beta1.26226.5
 - pkg:nuget/Text.Analyzers@3.12.0-beta1.25076.4
 - pkg:nuget/Text.Analyzers@3.12.0-beta1.25081.1
 - pkg:nuget/Text.Analyzers@3.12.0-beta1.25155.1

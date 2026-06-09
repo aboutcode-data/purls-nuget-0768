@@ -15,6 +15,7 @@
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@11.0.0-preview.2.26159.112
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@11.0.0-preview.3.26207.106
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@11.0.0-preview.4.26230.115
+- pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@11.0.0-preview.5.26302.115
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@4.6.0-preview3.19128.7
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@4.6.0-preview4.19212.13
 - pkg:nuget/runtime.linux-arm.runtime.native.System.IO.Ports@4.6.0-preview5.19224.8
