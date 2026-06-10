@@ -44,6 +44,7 @@
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.0
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.1
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.17
+- pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.18
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.2
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.3
 - pkg:nuget/Intent.Modules.Metadata.RDBMS@3.7.4
