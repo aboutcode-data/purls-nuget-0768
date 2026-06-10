@@ -42,3 +42,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.EventLogger@22.0.6997
 - pkg:nuget/Beckhoff.TwinCAT.HMI.EventLogger@22.0.7008
 - pkg:nuget/Beckhoff.TwinCAT.HMI.EventLogger@22.0.7066
+- pkg:nuget/Beckhoff.TwinCAT.HMI.EventLogger@23.0.198
