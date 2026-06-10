@@ -33,6 +33,7 @@
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.17.0.1
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.17.1
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.17.2
+- pkg:nuget/NetVips.Native.linux-musl-x64@8.18.3
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.7.4
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.7.4-beta1
 - pkg:nuget/NetVips.Native.linux-musl-x64@8.8.0
