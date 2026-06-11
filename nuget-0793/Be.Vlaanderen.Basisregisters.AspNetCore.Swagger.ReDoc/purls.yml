@@ -54,3 +54,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Swagger.ReDoc@5.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Swagger.ReDoc@5.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Swagger.ReDoc@6.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Swagger.ReDoc@7.0.0
