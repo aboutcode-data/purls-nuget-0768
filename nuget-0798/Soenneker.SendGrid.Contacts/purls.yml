@@ -2910,3 +2910,5 @@
 - pkg:nuget/Soenneker.SendGrid.Contacts@4.0.3252
 - pkg:nuget/Soenneker.SendGrid.Contacts@4.0.3256
 - pkg:nuget/Soenneker.SendGrid.Contacts@4.0.3257
+- pkg:nuget/Soenneker.SendGrid.Contacts@4.0.3260
+- pkg:nuget/Soenneker.SendGrid.Contacts@4.0.3262
