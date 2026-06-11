@@ -39,3 +39,5 @@
 - pkg:nuget/Microsoft.Reactive.Testing@6.0.2
 - pkg:nuget/Microsoft.Reactive.Testing@6.1.0
 - pkg:nuget/Microsoft.Reactive.Testing@7.0.0-preview.1
+- pkg:nuget/Microsoft.Reactive.Testing@7.0.0-preview.15
+- pkg:nuget/Microsoft.Reactive.Testing@7.0.0-preview.16
