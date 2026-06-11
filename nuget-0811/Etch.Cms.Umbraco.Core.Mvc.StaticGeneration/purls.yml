@@ -1,4 +1,5 @@
 - pkg:nuget/Etch.Cms.Umbraco.Core.Mvc.StaticGeneration@1.0.0
+- pkg:nuget/Etch.Cms.Umbraco.Core.Mvc.StaticGeneration@17.0.8
 - pkg:nuget/Etch.Cms.Umbraco.Core.Mvc.StaticGeneration@2.0.0
 - pkg:nuget/Etch.Cms.Umbraco.Core.Mvc.StaticGeneration@2.0.1
 - pkg:nuget/Etch.Cms.Umbraco.Core.Mvc.StaticGeneration@2.0.10
