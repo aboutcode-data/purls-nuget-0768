@@ -1,4 +1,10 @@
 - pkg:nuget/TestStack.BDDfy@0.0.0
+- pkg:nuget/TestStack.BDDfy@10.0.13
+- pkg:nuget/TestStack.BDDfy@10.0.8
+- pkg:nuget/TestStack.BDDfy@10.1.0-beta
+- pkg:nuget/TestStack.BDDfy@10.22.2.1-beta
+- pkg:nuget/TestStack.BDDfy@10.22.2.25-beta
+- pkg:nuget/TestStack.BDDfy@10.22.2.3-beta
 - pkg:nuget/TestStack.BDDfy@3.0.0
 - pkg:nuget/TestStack.BDDfy@3.10.0
 - pkg:nuget/TestStack.BDDfy@3.11.0
@@ -30,3 +36,4 @@
 - pkg:nuget/TestStack.BDDfy@4.3.0
 - pkg:nuget/TestStack.BDDfy@4.3.1
 - pkg:nuget/TestStack.BDDfy@4.3.2
+- pkg:nuget/TestStack.BDDfy@8.0.11
