@@ -179,6 +179,7 @@
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.1
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.1.1
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.1.2
+- pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.10.5
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.2
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.2.1
 - pkg:nuget/AWSSDK.BedrockDataAutomation@4.0.2.10
