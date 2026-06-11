@@ -36,6 +36,7 @@
 - pkg:nuget/Chameleon.Database@1.0.5
 - pkg:nuget/Chameleon.Database@1.0.52
 - pkg:nuget/Chameleon.Database@1.0.6
+- pkg:nuget/Chameleon.Database@1.0.61
 - pkg:nuget/Chameleon.Database@1.0.7
 - pkg:nuget/Chameleon.Database@1.0.8
 - pkg:nuget/Chameleon.Database@1.0.9
