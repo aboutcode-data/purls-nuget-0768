@@ -31,3 +31,6 @@
 - pkg:nuget/ProcessCube.Engine.Client@4.0.0-alpha.7
 - pkg:nuget/ProcessCube.Engine.Client@4.0.0-alpha.8
 - pkg:nuget/ProcessCube.Engine.Client@4.0.0-alpha.9
+- pkg:nuget/ProcessCube.Engine.Client@5.0.0
+- pkg:nuget/ProcessCube.Engine.Client@5.1.0
+- pkg:nuget/ProcessCube.Engine.Client@5.2.0
