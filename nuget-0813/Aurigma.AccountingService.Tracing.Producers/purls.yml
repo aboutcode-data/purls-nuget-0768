@@ -2,6 +2,7 @@
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.1.9.14510
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.10.1.26984%2Bb7244817bd82d9e8071247f1027d121f45b957b6
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.11.1.29566%2B298c6554f9f34d36d9af1ca2221f8081a013c4fd
+- pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.16.1.33052%2Ba424f35e4f62302ffc0519cb7f3f6fcee1b42eb6
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.3.1.18102
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.4.1.19677
 - pkg:nuget/Aurigma.AccountingService.Tracing.Producers@1.4.4.19847
