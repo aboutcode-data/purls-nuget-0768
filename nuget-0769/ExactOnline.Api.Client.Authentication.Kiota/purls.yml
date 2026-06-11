@@ -8,3 +8,4 @@
 - pkg:nuget/ExactOnline.Api.Client.Authentication.Kiota@0.0.1-preview-08
 - pkg:nuget/ExactOnline.Api.Client.Authentication.Kiota@0.0.1-preview-09
 - pkg:nuget/ExactOnline.Api.Client.Authentication.Kiota@0.0.1-preview-10
+- pkg:nuget/ExactOnline.Api.Client.Authentication.Kiota@0.0.3-preview-01
