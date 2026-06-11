@@ -1,3 +1,4 @@
 - pkg:nuget/NativeCompressions.Zstandard.Runtime@0.2.1
 - pkg:nuget/NativeCompressions.Zstandard.Runtime@0.3.0
 - pkg:nuget/NativeCompressions.Zstandard.Runtime@0.4.0
+- pkg:nuget/NativeCompressions.Zstandard.Runtime@0.6.1
