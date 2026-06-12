@@ -2305,3 +2305,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release@1.5.2.3095-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release@1.5.2.3097-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release@1.5.2.3102-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release@1.5.2.3104-packages-interf
