@@ -51,3 +51,5 @@
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.0.0-feature-realvolume-unit-change.2
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.0.0-feature-realvolume-unit-change.3
 - pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.1.0
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.3.0
+- pkg:nuget/Ch.Post.App.Atg.Mailpiece.Sorting.StreamApi@6.3.0-feature-PZS-12121-unknown-discharge-reason.2
