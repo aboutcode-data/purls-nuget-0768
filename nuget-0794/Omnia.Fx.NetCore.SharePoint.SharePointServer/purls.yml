@@ -142,3 +142,4 @@
 - pkg:nuget/Omnia.Fx.NetCore.SharePoint.SharePointServer@7.8.1-preview
 - pkg:nuget/Omnia.Fx.NetCore.SharePoint.SharePointServer@7.8.2
 - pkg:nuget/Omnia.Fx.NetCore.SharePoint.SharePointServer@7.8.8
+- pkg:nuget/Omnia.Fx.NetCore.SharePoint.SharePointServer@7.9.5
