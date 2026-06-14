@@ -16,4 +16,5 @@
 - pkg:nuget/SpCraft.Blazor.Common.List@1.2.50
 - pkg:nuget/SpCraft.Blazor.Common.List@1.2.51
 - pkg:nuget/SpCraft.Blazor.Common.List@2.0.24
+- pkg:nuget/SpCraft.Blazor.Common.List@2.0.29
 - pkg:nuget/SpCraft.Blazor.Common.List@2.0.8
