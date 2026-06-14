@@ -7,3 +7,5 @@
 - pkg:nuget/SimpleModule.FeatureFlags@0.0.28
 - pkg:nuget/SimpleModule.FeatureFlags@0.0.29
 - pkg:nuget/SimpleModule.FeatureFlags@0.0.30
+- pkg:nuget/SimpleModule.FeatureFlags@0.0.37
+- pkg:nuget/SimpleModule.FeatureFlags@0.0.38
