@@ -29,3 +29,5 @@
 - pkg:nuget/VitalRouter.Extensions.DependencyInjection@1.7.0
 - pkg:nuget/VitalRouter.Extensions.DependencyInjection@2.1.0
 - pkg:nuget/VitalRouter.Extensions.DependencyInjection@2.4.0
+- pkg:nuget/VitalRouter.Extensions.DependencyInjection@2.5.0
+- pkg:nuget/VitalRouter.Extensions.DependencyInjection@2.6.1
