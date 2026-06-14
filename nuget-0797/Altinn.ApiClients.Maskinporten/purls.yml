@@ -11,6 +11,7 @@
 - pkg:nuget/Altinn.ApiClients.Maskinporten@0.9.9
 - pkg:nuget/Altinn.ApiClients.Maskinporten@1.0.0
 - pkg:nuget/Altinn.ApiClients.Maskinporten@1.1.0
+- pkg:nuget/Altinn.ApiClients.Maskinporten@10.0.2-alpha
 - pkg:nuget/Altinn.ApiClients.Maskinporten@2.0.0
 - pkg:nuget/Altinn.ApiClients.Maskinporten@2.1.0
 - pkg:nuget/Altinn.ApiClients.Maskinporten@2.2.1
