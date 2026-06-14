@@ -1,3 +1,8 @@
 - pkg:nuget/ANcpLua.Agents.Foundry@1.4.10-rc1
 - pkg:nuget/ANcpLua.Agents.Foundry@1.4.13-rc1
 - pkg:nuget/ANcpLua.Agents.Foundry@1.6.4-rc1
+- pkg:nuget/ANcpLua.Agents.Foundry@1.8.1-rc1
+- pkg:nuget/ANcpLua.Agents.Foundry@1.8.2-rc1
+- pkg:nuget/ANcpLua.Agents.Foundry@1.8.3-rc1
+- pkg:nuget/ANcpLua.Agents.Foundry@1.8.5-rc1
+- pkg:nuget/ANcpLua.Agents.Foundry@1.8.8-rc1
