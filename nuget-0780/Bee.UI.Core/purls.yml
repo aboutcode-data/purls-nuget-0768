@@ -35,4 +35,5 @@
 - pkg:nuget/Bee.UI.Core@3.4.5
 - pkg:nuget/Bee.UI.Core@3.4.8
 - pkg:nuget/Bee.UI.Core@4.0.1
+- pkg:nuget/Bee.UI.Core@4.10.0
 - pkg:nuget/Bee.UI.Core@4.7.0
