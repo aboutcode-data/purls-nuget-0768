@@ -88,3 +88,4 @@
 - pkg:nuget/Fsdk@0.6.1--date20240905-0811.git-6158a3a
 - pkg:nuget/Fsdk@0.6.1--date20241209-1054.git-02429b1
 - pkg:nuget/Fsdk@0.6.1--date20250902-0201.git-78b90ac
+- pkg:nuget/Fsdk@0.9.99--date20260615-1007.git-0e932e5
