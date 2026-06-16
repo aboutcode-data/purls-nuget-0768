@@ -1,5 +1,6 @@
 - pkg:nuget/Nextended.Blazor@10.0.0
 - pkg:nuget/Nextended.Blazor@10.0.0-prev-1
+- pkg:nuget/Nextended.Blazor@10.1.10
 - pkg:nuget/Nextended.Blazor@10.1.4
 - pkg:nuget/Nextended.Blazor@6.0.14
 - pkg:nuget/Nextended.Blazor@6.0.15
