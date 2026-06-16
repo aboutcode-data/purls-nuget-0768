@@ -48,3 +48,4 @@
 - pkg:nuget/Ev.ServiceBus.HealthChecks@5.4.0-preview1
 - pkg:nuget/Ev.ServiceBus.HealthChecks@5.5.0-preview1
 - pkg:nuget/Ev.ServiceBus.HealthChecks@5.7.4
+- pkg:nuget/Ev.ServiceBus.HealthChecks@5.7.5-preview2
