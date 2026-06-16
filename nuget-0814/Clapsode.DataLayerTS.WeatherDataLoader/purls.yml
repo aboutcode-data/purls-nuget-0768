@@ -121,3 +121,4 @@
 - pkg:nuget/Clapsode.DataLayerTS.WeatherDataLoader@1.0.8
 - pkg:nuget/Clapsode.DataLayerTS.WeatherDataLoader@1.0.9
 - pkg:nuget/Clapsode.DataLayerTS.WeatherDataLoader@1.1.13
+- pkg:nuget/Clapsode.DataLayerTS.WeatherDataLoader@1.1.14
