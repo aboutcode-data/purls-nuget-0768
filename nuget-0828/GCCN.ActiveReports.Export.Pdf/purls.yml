@@ -1,3 +1,4 @@
 - pkg:nuget/GCCN.ActiveReports.Export.Pdf@18.0.0
 - pkg:nuget/GCCN.ActiveReports.Export.Pdf@18.2.0
 - pkg:nuget/GCCN.ActiveReports.Export.Pdf@19.0.1
+- pkg:nuget/GCCN.ActiveReports.Export.Pdf@20.1.3
