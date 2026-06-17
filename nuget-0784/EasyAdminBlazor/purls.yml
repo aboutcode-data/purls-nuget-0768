@@ -13,3 +13,6 @@
 - pkg:nuget/EasyAdminBlazor@1.4.9
 - pkg:nuget/EasyAdminBlazor@2.0.10
 - pkg:nuget/EasyAdminBlazor@2.0.14
+- pkg:nuget/EasyAdminBlazor@2.2.0
+- pkg:nuget/EasyAdminBlazor@2.2.1
+- pkg:nuget/EasyAdminBlazor@2.2.2
