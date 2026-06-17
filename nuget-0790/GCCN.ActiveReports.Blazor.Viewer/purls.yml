@@ -1,3 +1,4 @@
 - pkg:nuget/GCCN.ActiveReports.Blazor.Viewer@18.0.0
 - pkg:nuget/GCCN.ActiveReports.Blazor.Viewer@18.2.0
 - pkg:nuget/GCCN.ActiveReports.Blazor.Viewer@19.0.1
+- pkg:nuget/GCCN.ActiveReports.Blazor.Viewer@20.1.3
