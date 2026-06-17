@@ -1,2 +1,5 @@
 - pkg:nuget/H.Necessaire.Runtime.UI.Razor@3.0.19
 - pkg:nuget/H.Necessaire.Runtime.UI.Razor@3.0.7
+- pkg:nuget/H.Necessaire.Runtime.UI.Razor@3.3.0
+- pkg:nuget/H.Necessaire.Runtime.UI.Razor@3.3.3
+- pkg:nuget/H.Necessaire.Runtime.UI.Razor@3.4.2
