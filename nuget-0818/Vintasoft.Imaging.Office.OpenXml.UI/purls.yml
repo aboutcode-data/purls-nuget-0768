@@ -121,4 +121,6 @@
 - pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@6.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@6.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@6.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@7.0.12.1
+- pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@7.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Office.OpenXml.UI@7.0.8.1
