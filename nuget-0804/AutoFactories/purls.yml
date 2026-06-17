@@ -16,6 +16,7 @@
 - pkg:nuget/AutoFactories@1.1.17
 - pkg:nuget/AutoFactories@1.1.18
 - pkg:nuget/AutoFactories@1.1.19
+- pkg:nuget/AutoFactories@1.1.21
 - pkg:nuget/AutoFactories@1.1.7
 - pkg:nuget/AutoFactories@1.1.8
 - pkg:nuget/AutoFactories@1.1.8-PullRequest39.26
