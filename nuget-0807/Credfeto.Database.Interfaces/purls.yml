@@ -951,6 +951,11 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.212.2268-increase-code-c
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.212.2269-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2286-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2287-example-test-co
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2288-interfaces-test
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2289-example-test-co
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2300-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2301-non-scalar-func
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.575-sdk-dotnet-9-pr
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.576-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.577-main
