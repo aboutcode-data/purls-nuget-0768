@@ -68,6 +68,8 @@
 - pkg:nuget/DerinKampanyaMotoru@7.6.3
 - pkg:nuget/DerinKampanyaMotoru@7.6.4
 - pkg:nuget/DerinKampanyaMotoru@7.6.5
+- pkg:nuget/DerinKampanyaMotoru@7.7.12
+- pkg:nuget/DerinKampanyaMotoru@7.7.13
 - pkg:nuget/DerinKampanyaMotoru@7.7.3
 - pkg:nuget/DerinKampanyaMotoru@7.7.6
 - pkg:nuget/DerinKampanyaMotoru@7.7.7
