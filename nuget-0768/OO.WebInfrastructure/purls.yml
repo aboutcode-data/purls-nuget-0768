@@ -143,3 +143,4 @@
 - pkg:nuget/OO.WebInfrastructure@2.1.6
 - pkg:nuget/OO.WebInfrastructure@2.1.9
 - pkg:nuget/OO.WebInfrastructure@2.10.5
+- pkg:nuget/OO.WebInfrastructure@2.10.9
