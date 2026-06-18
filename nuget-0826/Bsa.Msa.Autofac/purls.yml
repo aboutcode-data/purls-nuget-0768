@@ -76,6 +76,7 @@
 - pkg:nuget/Bsa.Msa.Autofac@6.0.5
 - pkg:nuget/Bsa.Msa.Autofac@6.0.6
 - pkg:nuget/Bsa.Msa.Autofac@6.0.66
+- pkg:nuget/Bsa.Msa.Autofac@6.0.69
 - pkg:nuget/Bsa.Msa.Autofac@6.0.8
 - pkg:nuget/Bsa.Msa.Autofac@6.0.9
 - pkg:nuget/Bsa.Msa.Autofac@7.0.0
