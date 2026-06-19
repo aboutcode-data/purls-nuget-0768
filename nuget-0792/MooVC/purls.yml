@@ -149,6 +149,8 @@
 - pkg:nuget/MooVC@9.3.0-beta.26
 - pkg:nuget/MooVC@9.3.0-beta.28
 - pkg:nuget/MooVC@9.3.0-beta.29
+- pkg:nuget/MooVC@9.3.0-beta.30
+- pkg:nuget/MooVC@9.3.0-beta.31
 - pkg:nuget/MooVC@9.3.0-beta.6
 - pkg:nuget/MooVC@9.3.0-beta.7
 - pkg:nuget/MooVC@9.3.0-beta.8
