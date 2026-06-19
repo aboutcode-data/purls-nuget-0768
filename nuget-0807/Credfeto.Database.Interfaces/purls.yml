@@ -958,6 +958,8 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.213.2301-non-scalar-func
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.214.2309-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.214.2310-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.214.2313-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.214.2315-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.575-sdk-dotnet-9-pr
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.576-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.22.577-main
