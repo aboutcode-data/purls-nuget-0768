@@ -40,3 +40,4 @@
 - pkg:nuget/Microi.HDFS@5.5.1
 - pkg:nuget/Microi.HDFS@5.5.4
 - pkg:nuget/Microi.HDFS@5.7.0
+- pkg:nuget/Microi.HDFS@5.7.6
