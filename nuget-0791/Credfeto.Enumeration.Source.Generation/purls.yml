@@ -982,6 +982,11 @@
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.148.2012
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2011-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2013-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2020-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2022-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2023-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2026-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.149.2027-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.28.714
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.29.715-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.29.716
