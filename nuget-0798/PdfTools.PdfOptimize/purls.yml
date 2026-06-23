@@ -47,6 +47,8 @@
 - pkg:nuget/PdfTools.PdfOptimize@6.27.11
 - pkg:nuget/PdfTools.PdfOptimize@6.27.12
 - pkg:nuget/PdfTools.PdfOptimize@6.27.13
+- pkg:nuget/PdfTools.PdfOptimize@6.27.14
+- pkg:nuget/PdfTools.PdfOptimize@6.27.16
 - pkg:nuget/PdfTools.PdfOptimize@6.27.2
 - pkg:nuget/PdfTools.PdfOptimize@6.27.3
 - pkg:nuget/PdfTools.PdfOptimize@6.27.4
