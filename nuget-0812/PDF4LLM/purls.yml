@@ -1,3 +1,5 @@
+- pkg:nuget/PDF4LLM@1.27.2.11
+- pkg:nuget/PDF4LLM@1.27.2.17
 - pkg:nuget/PDF4LLM@1.27.2.6
 - pkg:nuget/PDF4LLM@1.27.2.7
 - pkg:nuget/PDF4LLM@3.27.2.2-rc.1
