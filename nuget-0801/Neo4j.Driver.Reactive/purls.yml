@@ -54,3 +54,4 @@
 - pkg:nuget/Neo4j.Driver.Reactive@5.7.0
 - pkg:nuget/Neo4j.Driver.Reactive@5.8.0
 - pkg:nuget/Neo4j.Driver.Reactive@5.9.0
+- pkg:nuget/Neo4j.Driver.Reactive@6.2.1
