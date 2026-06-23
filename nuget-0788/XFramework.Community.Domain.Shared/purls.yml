@@ -14,6 +14,7 @@
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.14
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.140
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.143
+- pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.146
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.6
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.7
 - pkg:nuget/XFramework.Community.Domain.Shared@1.0.1-dev.78
