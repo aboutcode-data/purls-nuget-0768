@@ -45,6 +45,7 @@
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@135.0.0
+- pkg:nuget/OCI.DotNetSDK.Cloudbridge@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@45.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@45.1.0
 - pkg:nuget/OCI.DotNetSDK.Cloudbridge@46.0.0
