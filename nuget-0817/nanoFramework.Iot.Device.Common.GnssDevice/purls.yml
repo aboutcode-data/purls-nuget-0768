@@ -20,6 +20,7 @@
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.272
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.281
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.31
+- pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.386
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.43
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.48
 - pkg:nuget/nanoFramework.Iot.Device.Common.GnssDevice@1.0.5
