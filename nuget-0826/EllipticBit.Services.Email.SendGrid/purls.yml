@@ -11,3 +11,5 @@
 - pkg:nuget/EllipticBit.Services.Email.SendGrid@1.0.27
 - pkg:nuget/EllipticBit.Services.Email.SendGrid@1.0.6
 - pkg:nuget/EllipticBit.Services.Email.SendGrid@1.1.1
+- pkg:nuget/EllipticBit.Services.Email.SendGrid@1.1.6
+- pkg:nuget/EllipticBit.Services.Email.SendGrid@1.1.7
