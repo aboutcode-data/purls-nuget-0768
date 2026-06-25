@@ -1,4 +1,5 @@
 - pkg:nuget/Juice.AspNetCore@10.1.1
+- pkg:nuget/Juice.AspNetCore@10.2.3
 - pkg:nuget/Juice.AspNetCore@6.0.0-local.20221009.1
 - pkg:nuget/Juice.AspNetCore@7.0.0-beta.1
 - pkg:nuget/Juice.AspNetCore@7.0.0-beta.2
