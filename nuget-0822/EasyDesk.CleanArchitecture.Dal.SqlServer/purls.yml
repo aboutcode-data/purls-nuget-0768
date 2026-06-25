@@ -175,6 +175,7 @@
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.169.0
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.169.2
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.169.7
+- pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.169.8
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.41.1
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.42.0
 - pkg:nuget/EasyDesk.CleanArchitecture.Dal.SqlServer@0.43.0
