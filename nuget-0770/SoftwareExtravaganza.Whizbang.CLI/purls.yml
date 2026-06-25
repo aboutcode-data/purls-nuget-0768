@@ -18,6 +18,8 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.660.1-alpha.17
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.674.1-alpha.32
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.687.1-alpha.11
+- pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.732.1-alpha.26
+- pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.740.1-alpha.17
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.9.10-alpha.47
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.9.4
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.9.6-alpha.46
