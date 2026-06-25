@@ -20,6 +20,7 @@
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.16
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.17
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.19
+- pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.20
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.4
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.6
 - pkg:nuget/OnBarcode.Barcode.Reader@10.3.1.8
