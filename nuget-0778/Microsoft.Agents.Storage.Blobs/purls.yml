@@ -94,3 +94,4 @@
 - pkg:nuget/Microsoft.Agents.Storage.Blobs@1.5.90-beta
 - pkg:nuget/Microsoft.Agents.Storage.Blobs@1.5.92-beta
 - pkg:nuget/Microsoft.Agents.Storage.Blobs@1.6.9-beta
+- pkg:nuget/Microsoft.Agents.Storage.Blobs@1.7.12-beta
