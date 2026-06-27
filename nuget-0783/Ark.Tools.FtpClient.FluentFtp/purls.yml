@@ -184,3 +184,4 @@
 - pkg:nuget/Ark.Tools.FtpClient.FluentFtp@5.4.0
 - pkg:nuget/Ark.Tools.FtpClient.FluentFtp@5.5.0
 - pkg:nuget/Ark.Tools.FtpClient.FluentFtp@6.0.0
+- pkg:nuget/Ark.Tools.FtpClient.FluentFtp@6.0.4
