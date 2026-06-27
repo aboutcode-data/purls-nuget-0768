@@ -21,6 +21,7 @@
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@0.5.3
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@0.5.30
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@0.5.31
+- pkg:nuget/AlphaAppTools.UsefulBuildImpl@10.4.1
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@8.0.0
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@8.0.1
 - pkg:nuget/AlphaAppTools.UsefulBuildImpl@8.1.0
