@@ -56,3 +56,6 @@
 - pkg:nuget/SimpleEfCoreRepository@3.1.6
 - pkg:nuget/SimpleEfCoreRepository@3.1.7
 - pkg:nuget/SimpleEfCoreRepository@3.1.8
+- pkg:nuget/SimpleEfCoreRepository@3.7.0
+- pkg:nuget/SimpleEfCoreRepository@3.8.0
+- pkg:nuget/SimpleEfCoreRepository@3.9.0
