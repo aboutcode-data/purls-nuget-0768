@@ -2,3 +2,4 @@
 - pkg:nuget/AppPipe.Hosting@1.3.9
 - pkg:nuget/AppPipe.Hosting@1.4.0
 - pkg:nuget/AppPipe.Hosting@1.4.13
+- pkg:nuget/AppPipe.Hosting@1.6.7
