@@ -47,3 +47,4 @@
 - pkg:nuget/Xamarin.Grpc.OkHttp@1.74.0
 - pkg:nuget/Xamarin.Grpc.OkHttp@1.74.0.1
 - pkg:nuget/Xamarin.Grpc.OkHttp@1.75.0
+- pkg:nuget/Xamarin.Grpc.OkHttp@1.82.0.1
