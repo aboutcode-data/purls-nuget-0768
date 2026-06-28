@@ -44,5 +44,6 @@
 - pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.41.0
 - pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.41.0.1
 - pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.5.1
+- pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.50.0.1
 - pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.6.0
 - pkg:nuget/Xamarin.Google.ErrorProne.Annotations@2.9.0
