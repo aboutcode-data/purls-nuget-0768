@@ -1,4 +1,5 @@
 - pkg:nuget/PolyfillLib@10.10.0
+- pkg:nuget/PolyfillLib@10.11.1
 - pkg:nuget/PolyfillLib@10.8.0
 - pkg:nuget/PolyfillLib@8.0.0
 - pkg:nuget/PolyfillLib@8.0.0-beta.4
