@@ -877,3 +877,4 @@
 - pkg:nuget/FastEndpoints.Swagger@8.2.0-beta.9
 - pkg:nuget/FastEndpoints.Swagger@8.3.0-beta.1
 - pkg:nuget/FastEndpoints.Swagger@8.3.0-beta.5
+- pkg:nuget/FastEndpoints.Swagger@8.3.0-beta.8
