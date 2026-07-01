@@ -19,3 +19,4 @@
 - pkg:nuget/AisIotCentricFramework.Logging@1.4.2
 - pkg:nuget/AisIotCentricFramework.Logging@1.4.7
 - pkg:nuget/AisIotCentricFramework.Logging@1.5.3
+- pkg:nuget/AisIotCentricFramework.Logging@1.5.7
