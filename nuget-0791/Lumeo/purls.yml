@@ -31,3 +31,5 @@
 - pkg:nuget/Lumeo@3.5.2
 - pkg:nuget/Lumeo@3.5.3
 - pkg:nuget/Lumeo@3.7.1
+- pkg:nuget/Lumeo@4.0.1
+- pkg:nuget/Lumeo@4.0.2
