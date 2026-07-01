@@ -33,6 +33,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@118.2.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@118.2.0.4
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@118.2.0.5
+- pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@118.2.0.8
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@30.0.1-alpha1
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@30.0.1-alpha2
 - pkg:nuget/Xamarin.GooglePlayServices.Analytics.Impl@30.0.1-alpha3
