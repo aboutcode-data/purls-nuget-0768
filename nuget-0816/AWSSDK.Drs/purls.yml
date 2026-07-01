@@ -737,6 +737,7 @@
 - pkg:nuget/AWSSDK.Drs@4.0.1.2
 - pkg:nuget/AWSSDK.Drs@4.0.1.4
 - pkg:nuget/AWSSDK.Drs@4.0.1.8
+- pkg:nuget/AWSSDK.Drs@4.0.100.1
 - pkg:nuget/AWSSDK.Drs@4.0.2.17
 - pkg:nuget/AWSSDK.Drs@4.0.2.19
 - pkg:nuget/AWSSDK.Drs@4.0.2.20
