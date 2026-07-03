@@ -44,6 +44,7 @@
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.0.0-Beta1
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.0.0-Beta2
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.1.0
+- pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.10.0
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.2.0.1
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.2.1.3
 - pkg:nuget/Fluxor.Blazor.Web.ReduxDevTools@6.2.1.4
