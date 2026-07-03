@@ -114,3 +114,4 @@
 - pkg:nuget/Jeebs.Logging.Serilog.MySql@8.5.4
 - pkg:nuget/Jeebs.Logging.Serilog.MySql@8.5.5
 - pkg:nuget/Jeebs.Logging.Serilog.MySql@8.5.6
+- pkg:nuget/Jeebs.Logging.Serilog.MySql@9.3.4
