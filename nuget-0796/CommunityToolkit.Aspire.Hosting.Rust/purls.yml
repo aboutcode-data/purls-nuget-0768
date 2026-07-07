@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@9.0.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@9.0.0-beta.76
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Rust@9.0.1-beta.102
