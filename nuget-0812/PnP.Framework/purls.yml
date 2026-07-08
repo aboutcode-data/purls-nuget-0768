@@ -1370,6 +1370,7 @@
 - pkg:nuget/PnP.Framework@1.19.40-nightly
 - pkg:nuget/PnP.Framework@1.19.41-nightly
 - pkg:nuget/PnP.Framework@1.19.42-nightly
+- pkg:nuget/PnP.Framework@1.19.49-nightly
 - pkg:nuget/PnP.Framework@1.19.5-nightly
 - pkg:nuget/PnP.Framework@1.19.7-nightly
 - pkg:nuget/PnP.Framework@1.19.8-nightly
