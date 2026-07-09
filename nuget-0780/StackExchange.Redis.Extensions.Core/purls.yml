@@ -27,6 +27,7 @@
 - pkg:nuget/StackExchange.Redis.Extensions.Core@10.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Core@10.2.0
 - pkg:nuget/StackExchange.Redis.Extensions.Core@11.0.0
+- pkg:nuget/StackExchange.Redis.Extensions.Core@12.6.0
 - pkg:nuget/StackExchange.Redis.Extensions.Core@2.0.0
 - pkg:nuget/StackExchange.Redis.Extensions.Core@2.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Core@2.2.0

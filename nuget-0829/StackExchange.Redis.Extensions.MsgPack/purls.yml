@@ -20,6 +20,7 @@
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@10.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@10.2.0
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@11.0.0
+- pkg:nuget/StackExchange.Redis.Extensions.MsgPack@12.6.0
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@2.0.0
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@2.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.MsgPack@2.2.0

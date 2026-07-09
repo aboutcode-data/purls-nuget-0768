@@ -24,6 +24,7 @@
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@10.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@10.2.0
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@11.0.0
+- pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@12.6.0
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@2.0.0
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@2.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Newtonsoft@2.2.0
