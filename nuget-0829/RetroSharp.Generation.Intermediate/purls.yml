@@ -18,6 +18,7 @@
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.241
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.250
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.252
+- pkg:nuget/RetroSharp.Generation.Intermediate@0.0.283
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.67
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.68
 - pkg:nuget/RetroSharp.Generation.Intermediate@0.0.69
