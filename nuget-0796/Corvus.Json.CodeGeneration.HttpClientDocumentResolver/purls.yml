@@ -68,3 +68,4 @@
 - pkg:nuget/Corvus.Json.CodeGeneration.HttpClientDocumentResolver@4.6.3
 - pkg:nuget/Corvus.Json.CodeGeneration.HttpClientDocumentResolver@4.6.5
 - pkg:nuget/Corvus.Json.CodeGeneration.HttpClientDocumentResolver@5.1.14
+- pkg:nuget/Corvus.Json.CodeGeneration.HttpClientDocumentResolver@5.2.6
