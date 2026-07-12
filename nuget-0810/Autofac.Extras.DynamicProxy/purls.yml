@@ -14,3 +14,4 @@
 - pkg:nuget/Autofac.Extras.DynamicProxy@6.0.1
 - pkg:nuget/Autofac.Extras.DynamicProxy@7.0.0
 - pkg:nuget/Autofac.Extras.DynamicProxy@7.1.0
+- pkg:nuget/Autofac.Extras.DynamicProxy@8.0.1
