@@ -3,6 +3,7 @@
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.0.27
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.1.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.10.0
+- pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.14.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.2.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.3.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ossdeployment@1.4.0
