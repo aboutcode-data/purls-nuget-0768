@@ -310,3 +310,4 @@
 - pkg:nuget/nanoFramework.System.Net.Http@1.5.97
 - pkg:nuget/nanoFramework.System.Net.Http@1.5.99
 - pkg:nuget/nanoFramework.System.Net.Http@2.0.0-preview.11
+- pkg:nuget/nanoFramework.System.Net.Http@2.0.0-preview.18
