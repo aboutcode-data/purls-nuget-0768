@@ -7,6 +7,7 @@
 - pkg:nuget/System.Drawing.Common@10.0.0-preview.7.25380.108
 - pkg:nuget/System.Drawing.Common@10.0.0-rc.1.25451.107
 - pkg:nuget/System.Drawing.Common@10.0.1
+- pkg:nuget/System.Drawing.Common@10.0.10
 - pkg:nuget/System.Drawing.Common@10.0.7
 - pkg:nuget/System.Drawing.Common@11.0.0-preview.1.26104.118
 - pkg:nuget/System.Drawing.Common@11.0.0-preview.4.26230.115
@@ -101,6 +102,7 @@
 - pkg:nuget/System.Drawing.Common@8.0.20
 - pkg:nuget/System.Drawing.Common@8.0.21
 - pkg:nuget/System.Drawing.Common@8.0.23
+- pkg:nuget/System.Drawing.Common@8.0.29
 - pkg:nuget/System.Drawing.Common@8.0.3
 - pkg:nuget/System.Drawing.Common@8.0.4
 - pkg:nuget/System.Drawing.Common@8.0.5
