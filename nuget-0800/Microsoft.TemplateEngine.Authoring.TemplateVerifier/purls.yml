@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@10.0.107
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@10.0.108
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@10.0.203
+- pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@10.0.302
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@7.0.200
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.TemplateVerifier@7.0.201
