@@ -106,3 +106,7 @@
 - pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0003
 - pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0006
 - pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0010
+- pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0015
+- pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0022
+- pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0023
+- pkg:nuget/SIL.Windows.Forms.Archiving@18.0.0-beta0026
