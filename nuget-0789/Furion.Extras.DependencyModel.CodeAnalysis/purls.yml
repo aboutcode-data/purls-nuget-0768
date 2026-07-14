@@ -1041,6 +1041,7 @@
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.19
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.2
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.20
+- pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.27
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.3
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.4
 - pkg:nuget/Furion.Extras.DependencyModel.CodeAnalysis@4.9.9.5
