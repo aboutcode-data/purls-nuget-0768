@@ -1,0 +1,4 @@
+- pkg:nuget/DomainBlocks.MongoDB.Sequencing@1.0.0-exp.1
+- pkg:nuget/DomainBlocks.MongoDB.Sequencing@1.0.0-exp.2
+- pkg:nuget/DomainBlocks.MongoDB.Sequencing@1.0.0-rc.1
+- pkg:nuget/DomainBlocks.MongoDB.Sequencing@1.0.0-rc.2
