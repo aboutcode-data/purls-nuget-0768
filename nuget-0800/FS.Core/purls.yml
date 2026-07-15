@@ -7,6 +7,7 @@
 - pkg:nuget/FS.Core@1.2.0
 - pkg:nuget/FS.Core@1.2.1
 - pkg:nuget/FS.Core@1.2.3
+- pkg:nuget/FS.Core@10.0.3
 - pkg:nuget/FS.Core@6.0.0
 - pkg:nuget/FS.Core@6.0.1
 - pkg:nuget/FS.Core@6.0.2
