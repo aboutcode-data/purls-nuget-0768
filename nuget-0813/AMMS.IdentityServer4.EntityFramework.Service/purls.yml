@@ -7,3 +7,5 @@
 - pkg:nuget/AMMS.IdentityServer4.EntityFramework.Service@1.6.0
 - pkg:nuget/AMMS.IdentityServer4.EntityFramework.Service@1.7.0
 - pkg:nuget/AMMS.IdentityServer4.EntityFramework.Service@1.7.3%2Bbuild.250918
+- pkg:nuget/AMMS.IdentityServer4.EntityFramework.Service@1.8.1-dev
+- pkg:nuget/AMMS.IdentityServer4.EntityFramework.Service@1.8.2-dev
