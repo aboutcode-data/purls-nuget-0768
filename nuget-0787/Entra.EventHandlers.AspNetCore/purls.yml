@@ -1,0 +1,6 @@
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.0.10
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.0.6
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.0.8
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.1.1
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.2.1
+- pkg:nuget/Entra.EventHandlers.AspNetCore@1.2.2
