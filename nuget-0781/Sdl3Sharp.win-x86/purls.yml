@@ -1,1 +1,4 @@
 - pkg:nuget/Sdl3Sharp.win-x86@0.0.1-test3
+- pkg:nuget/Sdl3Sharp.win-x86@0.0.2-alpha.1
+- pkg:nuget/Sdl3Sharp.win-x86@0.0.2-alpha.2
+- pkg:nuget/Sdl3Sharp.win-x86@0.0.2-alpha.4
