@@ -240,6 +240,7 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@22.9.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@24.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@25.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@25.2.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@3.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@3.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Common@3.1.1
