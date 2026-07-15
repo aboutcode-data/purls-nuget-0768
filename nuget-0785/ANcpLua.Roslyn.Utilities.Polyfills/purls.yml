@@ -3,4 +3,8 @@
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@1.53.2
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@1.56.0
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@1.56.1
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@2.2.25
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@2.2.28
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@2.2.3
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@2.2.30
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Polyfills@2.2.32
