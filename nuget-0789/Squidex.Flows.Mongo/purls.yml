@@ -27,3 +27,4 @@
 - pkg:nuget/Squidex.Flows.Mongo@7.8.0
 - pkg:nuget/Squidex.Flows.Mongo@7.9.0
 - pkg:nuget/Squidex.Flows.Mongo@8.0.1
+- pkg:nuget/Squidex.Flows.Mongo@8.0.2
