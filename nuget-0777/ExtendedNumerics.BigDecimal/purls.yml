@@ -33,3 +33,4 @@
 - pkg:nuget/ExtendedNumerics.BigDecimal@3001.0.0.199
 - pkg:nuget/ExtendedNumerics.BigDecimal@3001.0.1.201
 - pkg:nuget/ExtendedNumerics.BigDecimal@3001.1.0.233
+- pkg:nuget/ExtendedNumerics.BigDecimal@3003.2.0.161
