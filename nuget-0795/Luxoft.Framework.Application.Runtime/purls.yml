@@ -1,0 +1,5 @@
+- pkg:nuget/Luxoft.Framework.Application.Runtime@27.1.2
+- pkg:nuget/Luxoft.Framework.Application.Runtime@27.2.1
+- pkg:nuget/Luxoft.Framework.Application.Runtime@27.3.1
+- pkg:nuget/Luxoft.Framework.Application.Runtime@27.3.5
+- pkg:nuget/Luxoft.Framework.Application.Runtime@27.4.0
