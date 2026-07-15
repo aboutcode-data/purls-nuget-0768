@@ -1,1 +1,2 @@
 - pkg:nuget/Deveel.Messaging.Connector.Telegram@0.3.0
+- pkg:nuget/Deveel.Messaging.Connector.Telegram@1.0.3
