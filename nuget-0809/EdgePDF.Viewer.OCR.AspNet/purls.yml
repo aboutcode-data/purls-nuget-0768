@@ -5,3 +5,5 @@
 - pkg:nuget/EdgePDF.Viewer.OCR.AspNet@12.3.5.20
 - pkg:nuget/EdgePDF.Viewer.OCR.AspNet@12.3.5.27
 - pkg:nuget/EdgePDF.Viewer.OCR.AspNet@12.3.5.31
+- pkg:nuget/EdgePDF.Viewer.OCR.AspNet@12.3.5.38
+- pkg:nuget/EdgePDF.Viewer.OCR.AspNet@12.3.5.40
