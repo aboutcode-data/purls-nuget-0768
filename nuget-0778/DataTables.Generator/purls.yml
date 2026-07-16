@@ -83,3 +83,4 @@
 - pkg:nuget/DataTables.Generator@0.9.7
 - pkg:nuget/DataTables.Generator@0.9.8
 - pkg:nuget/DataTables.Generator@0.9.9
+- pkg:nuget/DataTables.Generator@1.0.9
