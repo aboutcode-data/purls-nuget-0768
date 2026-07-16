@@ -1,2 +1,3 @@
 - pkg:nuget/ConfigContraband.Tool@0.5.2
 - pkg:nuget/ConfigContraband.Tool@0.6.0
+- pkg:nuget/ConfigContraband.Tool@0.7.1
