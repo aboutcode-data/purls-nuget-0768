@@ -125,3 +125,4 @@
 - pkg:nuget/LuciferCore@2.7.0
 - pkg:nuget/LuciferCore@2.7.0-debug
 - pkg:nuget/LuciferCore@4.7.0
+- pkg:nuget/LuciferCore@4.9.0
