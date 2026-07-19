@@ -54,6 +54,7 @@
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.12.5
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.13.2
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.14.4
+- pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.14.5
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.2.21
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.2.23
 - pkg:nuget/ShiftSoftware.ADP.SyncAgent@1.6.4
