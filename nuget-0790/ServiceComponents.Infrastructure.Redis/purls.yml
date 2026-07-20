@@ -68,3 +68,4 @@
 - pkg:nuget/ServiceComponents.Infrastructure.Redis@0.2.0-beta.2
 - pkg:nuget/ServiceComponents.Infrastructure.Redis@0.2.0-beta.3
 - pkg:nuget/ServiceComponents.Infrastructure.Redis@0.2.0-beta.7
+- pkg:nuget/ServiceComponents.Infrastructure.Redis@0.2.0-beta.8
