@@ -38,3 +38,4 @@
 - pkg:nuget/Musoq.DataSources.FlatFile@6.2.7
 - pkg:nuget/Musoq.DataSources.FlatFile@6.2.9
 - pkg:nuget/Musoq.DataSources.FlatFile@6.3.0
+- pkg:nuget/Musoq.DataSources.FlatFile@8.0.3-alpha.1
