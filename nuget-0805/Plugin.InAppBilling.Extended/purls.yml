@@ -1,3 +1,5 @@
+- pkg:nuget/Plugin.InAppBilling.Extended@10.0.2
+- pkg:nuget/Plugin.InAppBilling.Extended@10.0.3
 - pkg:nuget/Plugin.InAppBilling.Extended@7.0.0
 - pkg:nuget/Plugin.InAppBilling.Extended@9.0.0
 - pkg:nuget/Plugin.InAppBilling.Extended@9.0.1
