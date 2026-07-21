@@ -1,5 +1,7 @@
 - pkg:nuget/Benevia.Core.Reports.Blazor@0.10.1-ci.267
 - pkg:nuget/Benevia.Core.Reports.Blazor@0.10.1-ci.288
+- pkg:nuget/Benevia.Core.Reports.Blazor@0.10.1-ci.290
+- pkg:nuget/Benevia.Core.Reports.Blazor@0.10.1-ci.291
 - pkg:nuget/Benevia.Core.Reports.Blazor@0.9.17-ci.115
 - pkg:nuget/Benevia.Core.Reports.Blazor@0.9.17-ci.119
 - pkg:nuget/Benevia.Core.Reports.Blazor@0.9.17-ci.123
