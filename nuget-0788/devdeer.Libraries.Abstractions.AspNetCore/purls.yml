@@ -23,6 +23,7 @@
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@1.6.4
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@11.1.5
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@11.1.6
+- pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@12.0.8
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@2.0.0
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@2.0.1
 - pkg:nuget/devdeer.Libraries.Abstractions.AspNetCore@2.0.2
