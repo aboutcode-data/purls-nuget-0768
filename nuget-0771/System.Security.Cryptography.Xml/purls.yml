@@ -1,3 +1,4 @@
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.0
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.0-preview.1.25080.5
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.0-preview.2.25163.2
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.0-preview.3.25171.5
@@ -8,8 +9,14 @@
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.0-rc.1.25451.107
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.1
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.10
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.2
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.3
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.4
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.5
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.6
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.7
 - pkg:nuget/System.Security.Cryptography.Xml@10.0.8
+- pkg:nuget/System.Security.Cryptography.Xml@10.0.9
 - pkg:nuget/System.Security.Cryptography.Xml@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Security.Cryptography.Xml@4.4.0
 - pkg:nuget/System.Security.Cryptography.Xml@4.4.0-preview1-25305-02
@@ -87,6 +94,8 @@
 - pkg:nuget/System.Security.Cryptography.Xml@8.0.0-rc.2.23479.6
 - pkg:nuget/System.Security.Cryptography.Xml@8.0.1
 - pkg:nuget/System.Security.Cryptography.Xml@8.0.2
+- pkg:nuget/System.Security.Cryptography.Xml@8.0.3
+- pkg:nuget/System.Security.Cryptography.Xml@8.0.4
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.0
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.0-preview.1.24080.9
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.0-preview.2.24128.5
@@ -98,6 +107,14 @@
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.0-rc.1.24431.7
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.0-rc.2.24473.5
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.1
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.10
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.11
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.12
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.13
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.14
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.15
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.16
+- pkg:nuget/System.Security.Cryptography.Xml@9.0.17
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.18
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.2
 - pkg:nuget/System.Security.Cryptography.Xml@9.0.3
