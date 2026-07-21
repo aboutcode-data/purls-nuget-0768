@@ -26,4 +26,5 @@
 - pkg:nuget/Sharp.UI@0.4.5-alpha
 - pkg:nuget/Sharp.UI@0.4.6-alpha
 - pkg:nuget/Sharp.UI@0.7.0-alpha
+- pkg:nuget/Sharp.UI@10.0.0-beta.5
 - pkg:nuget/Sharp.UI@8.0.0-beta.1
