@@ -1,3 +1,5 @@
+- pkg:nuget/Piral.Blazor.Tools@10.0.19-pre.12
+- pkg:nuget/Piral.Blazor.Tools@10.0.19-pre.13
 - pkg:nuget/Piral.Blazor.Tools@3.2.1-pre.20210428.1
 - pkg:nuget/Piral.Blazor.Tools@3.2.1-pre.20210429.1
 - pkg:nuget/Piral.Blazor.Tools@3.2.1-pre.20210430.4
