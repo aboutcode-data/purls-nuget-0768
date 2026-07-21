@@ -17,6 +17,7 @@
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.135
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.139
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.14
+- pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.142
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.15
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.16
 - pkg:nuget/Indigina.Dcm.Deliverer.Client@1.0.17
