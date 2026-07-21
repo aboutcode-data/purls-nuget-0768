@@ -126,6 +126,7 @@
 - pkg:nuget/EfLocalDb@20.2.0
 - pkg:nuget/EfLocalDb@20.2.1
 - pkg:nuget/EfLocalDb@20.3.0
+- pkg:nuget/EfLocalDb@25.0.0
 - pkg:nuget/EfLocalDb@3.0.0
 - pkg:nuget/EfLocalDb@3.0.0-beta.1
 - pkg:nuget/EfLocalDb@3.0.0-beta.10
