@@ -15,6 +15,7 @@
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@10.0.115%2Bsha.c746238
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@10.0.118%2Bsha.916bab2
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@10.0.122%2Bsha.1c44700
+- pkg:nuget/Samsung.NETCore.App.Runtime.tizen@10.0.128%2Bsha.5e13077
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@6.5.100-rc.1.114%2Bsha.0fbeddb
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@6.5.100-rc.1.120%2Bsha.898ea9a
 - pkg:nuget/Samsung.NETCore.App.Runtime.tizen@6.5.100-rc.1.92%2Bsha.c41f855
