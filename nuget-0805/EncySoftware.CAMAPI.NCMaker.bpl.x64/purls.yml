@@ -3,3 +3,4 @@
 - pkg:nuget/EncySoftware.CAMAPI.NCMaker.bpl.x64@1.2.0
 - pkg:nuget/EncySoftware.CAMAPI.NCMaker.bpl.x64@1.2.1%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.CAMAPI.NCMaker.bpl.x64@2.0.0
+- pkg:nuget/EncySoftware.CAMAPI.NCMaker.bpl.x64@3.0.1-rc.1%2B0281ba2a3a1e4c5b9f0f9b24f307e6055eb37478
