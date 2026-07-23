@@ -1,3 +1,6 @@
+- pkg:nuget/JsonEvalRs@0.0.100
+- pkg:nuget/JsonEvalRs@0.0.101
+- pkg:nuget/JsonEvalRs@0.0.109
 - pkg:nuget/JsonEvalRs@0.0.28
 - pkg:nuget/JsonEvalRs@0.0.35
 - pkg:nuget/JsonEvalRs@0.0.38
