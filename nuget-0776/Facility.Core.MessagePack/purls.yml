@@ -42,3 +42,4 @@
 - pkg:nuget/Facility.Core.MessagePack@2.34.0
 - pkg:nuget/Facility.Core.MessagePack@2.34.1
 - pkg:nuget/Facility.Core.MessagePack@2.38.2
+- pkg:nuget/Facility.Core.MessagePack@2.38.4
