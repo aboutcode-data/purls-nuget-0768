@@ -1,1 +1,4 @@
+- pkg:nuget/CanHub.Adapter.Virtual@1.0.0
 - pkg:nuget/CanHub.Adapter.Virtual@1.0.0-preview.2
+- pkg:nuget/CanHub.Adapter.Virtual@1.0.1
+- pkg:nuget/CanHub.Adapter.Virtual@1.1.0-preview.2
