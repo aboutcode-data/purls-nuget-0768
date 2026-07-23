@@ -3,3 +3,4 @@
 - pkg:nuget/AzureFunctionsExtension@1.0.0
 - pkg:nuget/AzureFunctionsExtension@1.0.1
 - pkg:nuget/AzureFunctionsExtension@1.0.2
+- pkg:nuget/AzureFunctionsExtension@2.0.0-beta1
