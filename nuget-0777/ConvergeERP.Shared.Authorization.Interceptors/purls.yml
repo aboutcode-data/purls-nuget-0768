@@ -1,6 +1,15 @@
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.1-beta
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.13-beta
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.15-beta
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.17-beta
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.18-beta
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.2-beta
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.5-beta
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@0.0.9-beta
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@1.0.0
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@1.0.1
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@1.0.2
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@1.0.3
 - pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@1.0.4
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@2.0.0
+- pkg:nuget/ConvergeERP.Shared.Authorization.Interceptors@2.0.1
