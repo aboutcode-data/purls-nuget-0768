@@ -1,1 +1,5 @@
 - pkg:nuget/MediatorLite.Abstractions@1.0.13
+- pkg:nuget/MediatorLite.Abstractions@1.0.14
+- pkg:nuget/MediatorLite.Abstractions@2.0.0
+- pkg:nuget/MediatorLite.Abstractions@2.0.1
+- pkg:nuget/MediatorLite.Abstractions@2.0.3
