@@ -1,6 +1,14 @@
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.14
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.20
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.24
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.3
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.30
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.31
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.32
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.36
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.37
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.40
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.5
+- pkg:nuget/Soenneker.Asana.HttpClients@4.0.60
 - pkg:nuget/Soenneker.Asana.HttpClients@4.0.8
