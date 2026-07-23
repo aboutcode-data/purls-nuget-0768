@@ -1,3 +1,8 @@
 - pkg:nuget/Cove.Core@0.0.12
 - pkg:nuget/Cove.Core@0.0.20
+- pkg:nuget/Cove.Core@0.0.22
+- pkg:nuget/Cove.Core@0.0.24
 - pkg:nuget/Cove.Core@0.0.4
+- pkg:nuget/Cove.Core@0.4.0
+- pkg:nuget/Cove.Core@0.4.3
+- pkg:nuget/Cove.Core@1.0.0
