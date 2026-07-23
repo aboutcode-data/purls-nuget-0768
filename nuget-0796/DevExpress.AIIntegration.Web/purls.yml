@@ -1,3 +1,6 @@
+- pkg:nuget/DevExpress.AIIntegration.Web@25.1.12
 - pkg:nuget/DevExpress.AIIntegration.Web@25.1.6
 - pkg:nuget/DevExpress.AIIntegration.Web@25.1.7
 - pkg:nuget/DevExpress.AIIntegration.Web@25.2.6
+- pkg:nuget/DevExpress.AIIntegration.Web@26.1.2-beta
+- pkg:nuget/DevExpress.AIIntegration.Web@26.1.3

@@ -1,3 +1,5 @@
+- pkg:nuget/DevExpress.Wpf.Themes.Office2013@25.1.12
 - pkg:nuget/DevExpress.Wpf.Themes.Office2013@25.1.6
 - pkg:nuget/DevExpress.Wpf.Themes.Office2013@25.1.7
 - pkg:nuget/DevExpress.Wpf.Themes.Office2013@25.2.6
+- pkg:nuget/DevExpress.Wpf.Themes.Office2013@26.1.3
