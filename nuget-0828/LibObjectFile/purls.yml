@@ -16,3 +16,4 @@
 - pkg:nuget/LibObjectFile@1.1.1
 - pkg:nuget/LibObjectFile@2.0.0
 - pkg:nuget/LibObjectFile@2.1.0
+- pkg:nuget/LibObjectFile@2.2.0
