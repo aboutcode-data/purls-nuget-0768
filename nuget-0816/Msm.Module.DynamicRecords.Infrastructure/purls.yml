@@ -1,3 +1,8 @@
 - pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.12
 - pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.19
+- pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.25
+- pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.31
+- pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.35
+- pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.36
+- pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.42
 - pkg:nuget/Msm.Module.DynamicRecords.Infrastructure@1.0.8
