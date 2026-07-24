@@ -61,3 +61,5 @@
 - pkg:nuget/AlexaVoxCraft.MediatR.Lambda@6.0.2.116
 - pkg:nuget/AlexaVoxCraft.MediatR.Lambda@7.3.6-preview.10
 - pkg:nuget/AlexaVoxCraft.MediatR.Lambda@7.3.7-preview.14
+- pkg:nuget/AlexaVoxCraft.MediatR.Lambda@7.3.7-preview.15
+- pkg:nuget/AlexaVoxCraft.MediatR.Lambda@7.3.7-preview.16
