@@ -622,6 +622,7 @@
 - pkg:nuget/MassTransit.AspNetCore@7.3.1-develop.333
 - pkg:nuget/MassTransit.AspNetCore@7.3.1-develop.334
 - pkg:nuget/MassTransit.AspNetCore@7.3.1-develop.340
+- pkg:nuget/MassTransit.AspNetCore@9.2.0
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.105
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.108
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.109
@@ -632,3 +633,5 @@
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.145
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.147
 - pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.155
+- pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.157
+- pkg:nuget/MassTransit.AspNetCore@9.2.0-develop.158
