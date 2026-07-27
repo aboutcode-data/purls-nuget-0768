@@ -29,6 +29,7 @@
 - pkg:nuget/Codeed.Framework.Domain@1.0.9-beta.7
 - pkg:nuget/Codeed.Framework.Domain@1.0.9-beta.8
 - pkg:nuget/Codeed.Framework.Domain@1.0.9-beta.9
+- pkg:nuget/Codeed.Framework.Domain@10.0.0-beta.1
 - pkg:nuget/Codeed.Framework.Domain@2.0.0
 - pkg:nuget/Codeed.Framework.Domain@2.0.0-beta.1
 - pkg:nuget/Codeed.Framework.Domain@2.0.0-beta.2
