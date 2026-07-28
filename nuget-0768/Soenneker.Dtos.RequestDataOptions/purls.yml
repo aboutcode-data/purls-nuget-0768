@@ -59,6 +59,8 @@
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.129
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.137
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.170
+- pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.173
+- pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.174
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.56
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.90
 - pkg:nuget/Soenneker.Dtos.RequestDataOptions@4.0.95
