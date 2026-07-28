@@ -84,6 +84,7 @@
 - pkg:nuget/MT.LightORM@2026.3.6.1
 - pkg:nuget/MT.LightORM@2026.4.29.1
 - pkg:nuget/MT.LightORM@2026.7.17.1
+- pkg:nuget/MT.LightORM@2026.7.28.1
 - pkg:nuget/MT.LightORM@3.0.0
 - pkg:nuget/MT.LightORM@3.0.1
 - pkg:nuget/MT.LightORM@3.0.2
