@@ -12,6 +12,7 @@
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.1.0-alpha.6b3c256
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.1.0-alpha.982bf1d
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.10.0-alpha.123
+- pkg:nuget/VirtoCommerce.PaymentModule.Data@3.1005.0
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.2.0
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.2.0-alpha.55
 - pkg:nuget/VirtoCommerce.PaymentModule.Data@3.200.0
