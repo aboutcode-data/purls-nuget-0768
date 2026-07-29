@@ -41,6 +41,8 @@
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.61
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.63
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.64
+- pkg:nuget/AutoUpdateViaGitHubRelease@0.1.67
+- pkg:nuget/AutoUpdateViaGitHubRelease@0.1.68
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.7
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.8
 - pkg:nuget/AutoUpdateViaGitHubRelease@0.1.9
