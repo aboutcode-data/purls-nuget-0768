@@ -530,3 +530,4 @@
 - pkg:nuget/Take.Blip.Client.Console@0.7.488
 - pkg:nuget/Take.Blip.Client.Console@0.7.495
 - pkg:nuget/Take.Blip.Client.Console@0.7.562
+- pkg:nuget/Take.Blip.Client.Console@0.7.600
