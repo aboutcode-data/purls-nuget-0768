@@ -15,3 +15,4 @@
 - pkg:nuget/TUnit.Aspire@1.48.6
 - pkg:nuget/TUnit.Aspire@1.57.17
 - pkg:nuget/TUnit.Aspire@1.58.0
+- pkg:nuget/TUnit.Aspire@1.63.0
