@@ -158,3 +158,5 @@
 - pkg:nuget/Weasel.Postgresql@9.1.1
 - pkg:nuget/Weasel.Postgresql@9.17.0
 - pkg:nuget/Weasel.Postgresql@9.2.0
+- pkg:nuget/Weasel.Postgresql@9.20.1
+- pkg:nuget/Weasel.Postgresql@9.20.2
