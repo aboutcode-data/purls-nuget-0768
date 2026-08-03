@@ -52,6 +52,7 @@
 - pkg:nuget/UltronSecurity.AppService.Domain@1.0.71
 - pkg:nuget/UltronSecurity.AppService.Domain@1.0.72
 - pkg:nuget/UltronSecurity.AppService.Domain@1.0.73
+- pkg:nuget/UltronSecurity.AppService.Domain@10.0.8
 - pkg:nuget/UltronSecurity.AppService.Domain@8.0.0
 - pkg:nuget/UltronSecurity.AppService.Domain@8.0.1
 - pkg:nuget/UltronSecurity.AppService.Domain@8.0.10
