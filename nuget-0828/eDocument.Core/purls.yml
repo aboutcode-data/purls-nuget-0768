@@ -13,6 +13,7 @@
 - pkg:nuget/eDocument.Core@10.209.0-beta.8-82-ge749e00e1
 - pkg:nuget/eDocument.Core@10.209.0-beta.8-83-gf358236b5
 - pkg:nuget/eDocument.Core@10.210.0-beta.9-1-gd9dbc7cf3
+- pkg:nuget/eDocument.Core@10.212.0-beta.2
 - pkg:nuget/eDocument.Core@10.92.0
 - pkg:nuget/eDocument.Core@10.95.0
 - pkg:nuget/eDocument.Core@6.1.4
