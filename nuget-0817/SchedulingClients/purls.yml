@@ -52,6 +52,7 @@
 - pkg:nuget/SchedulingClients@17.1.1
 - pkg:nuget/SchedulingClients@17.2.0
 - pkg:nuget/SchedulingClients@17.2.1
+- pkg:nuget/SchedulingClients@17.4.0
 - pkg:nuget/SchedulingClients@2.0.0
 - pkg:nuget/SchedulingClients@2.1.0
 - pkg:nuget/SchedulingClients@3.0.0
