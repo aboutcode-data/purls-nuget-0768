@@ -16,6 +16,7 @@
 - pkg:nuget/Bsa.Msa.Autofac@1.0.8
 - pkg:nuget/Bsa.Msa.Autofac@1.0.9
 - pkg:nuget/Bsa.Msa.Autofac@1.1.0
+- pkg:nuget/Bsa.Msa.Autofac@10.0.76
 - pkg:nuget/Bsa.Msa.Autofac@2.0.0
 - pkg:nuget/Bsa.Msa.Autofac@2.0.1
 - pkg:nuget/Bsa.Msa.Autofac@2.0.2
@@ -77,6 +78,8 @@
 - pkg:nuget/Bsa.Msa.Autofac@6.0.6
 - pkg:nuget/Bsa.Msa.Autofac@6.0.66
 - pkg:nuget/Bsa.Msa.Autofac@6.0.69
+- pkg:nuget/Bsa.Msa.Autofac@6.0.75
+- pkg:nuget/Bsa.Msa.Autofac@6.0.76
 - pkg:nuget/Bsa.Msa.Autofac@6.0.8
 - pkg:nuget/Bsa.Msa.Autofac@6.0.9
 - pkg:nuget/Bsa.Msa.Autofac@7.0.0
@@ -107,6 +110,8 @@
 - pkg:nuget/Bsa.Msa.Autofac@7.0.5
 - pkg:nuget/Bsa.Msa.Autofac@7.0.6
 - pkg:nuget/Bsa.Msa.Autofac@7.0.7
+- pkg:nuget/Bsa.Msa.Autofac@7.0.75
+- pkg:nuget/Bsa.Msa.Autofac@7.0.76
 - pkg:nuget/Bsa.Msa.Autofac@8.0.20
 - pkg:nuget/Bsa.Msa.Autofac@8.0.21
 - pkg:nuget/Bsa.Msa.Autofac@8.0.25
@@ -121,6 +126,7 @@
 - pkg:nuget/Bsa.Msa.Autofac@8.0.45
 - pkg:nuget/Bsa.Msa.Autofac@8.0.46
 - pkg:nuget/Bsa.Msa.Autofac@8.0.47
+- pkg:nuget/Bsa.Msa.Autofac@8.0.75
 - pkg:nuget/Bsa.Msa.Autofac@9.0.20
 - pkg:nuget/Bsa.Msa.Autofac@9.0.21
 - pkg:nuget/Bsa.Msa.Autofac@9.0.25
