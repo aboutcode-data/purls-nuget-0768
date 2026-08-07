@@ -1,3 +1,5 @@
+- pkg:nuget/FmgLib.MauiMarkup@10.1.0
+- pkg:nuget/FmgLib.MauiMarkup@10.1.1
 - pkg:nuget/FmgLib.MauiMarkup@8.0.0
 - pkg:nuget/FmgLib.MauiMarkup@8.0.14
 - pkg:nuget/FmgLib.MauiMarkup@8.0.20-prev1.0.0
