@@ -44,6 +44,7 @@
 - pkg:nuget/UltronEventIntegration.AppService@1.0.71
 - pkg:nuget/UltronEventIntegration.AppService@1.0.72
 - pkg:nuget/UltronEventIntegration.AppService@1.0.73
+- pkg:nuget/UltronEventIntegration.AppService@10.0.8
 - pkg:nuget/UltronEventIntegration.AppService@8.0.0
 - pkg:nuget/UltronEventIntegration.AppService@8.0.1
 - pkg:nuget/UltronEventIntegration.AppService@8.0.10
