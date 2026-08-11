@@ -1,3 +1,4 @@
 - pkg:nuget/Divoom.Client@0.2.0
 - pkg:nuget/Divoom.Client@0.4.0
 - pkg:nuget/Divoom.Client@1.0.0
+- pkg:nuget/Divoom.Client@1.4.0
