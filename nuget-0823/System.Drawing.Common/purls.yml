@@ -121,6 +121,7 @@
 - pkg:nuget/System.Drawing.Common@9.0.0-rc.2.24474.1
 - pkg:nuget/System.Drawing.Common@9.0.1
 - pkg:nuget/System.Drawing.Common@9.0.16
+- pkg:nuget/System.Drawing.Common@9.0.19
 - pkg:nuget/System.Drawing.Common@9.0.2
 - pkg:nuget/System.Drawing.Common@9.0.3
 - pkg:nuget/System.Drawing.Common@9.0.4
