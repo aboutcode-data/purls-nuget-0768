@@ -80,3 +80,4 @@
 - pkg:nuget/ShimSkiaSharp@3.6.0
 - pkg:nuget/ShimSkiaSharp@4.9.1
 - pkg:nuget/ShimSkiaSharp@5.1.1
+- pkg:nuget/ShimSkiaSharp@5.2.1
