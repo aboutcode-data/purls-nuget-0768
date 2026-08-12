@@ -31,3 +31,4 @@
 - pkg:nuget/Microsoft.AspNetCore.CookiePolicy@2.2.8
 - pkg:nuget/Microsoft.AspNetCore.CookiePolicy@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.CookiePolicy@2.3.10
+- pkg:nuget/Microsoft.AspNetCore.CookiePolicy@2.3.12
