@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Saas.Jobs@10.4.0
 - pkg:nuget/LINGYUN.Abp.Saas.Jobs@8.1.1
 - pkg:nuget/LINGYUN.Abp.Saas.Jobs@8.1.2
 - pkg:nuget/LINGYUN.Abp.Saas.Jobs@8.1.3
