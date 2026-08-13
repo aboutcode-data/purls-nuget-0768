@@ -1,2 +1,5 @@
 - pkg:nuget/OO.Workflow.AIAgent@2.1.1
 - pkg:nuget/OO.Workflow.AIAgent@2.1.9
+- pkg:nuget/OO.Workflow.AIAgent@2.10.11
+- pkg:nuget/OO.Workflow.AIAgent@2.10.5
+- pkg:nuget/OO.Workflow.AIAgent@2.10.9
