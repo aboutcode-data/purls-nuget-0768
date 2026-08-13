@@ -1,2 +1,6 @@
 - pkg:nuget/Merchrocket.Client@1.0.0
+- pkg:nuget/Merchrocket.Client@2.0.0
+- pkg:nuget/Merchrocket.Client@2.0.0-ci.10
+- pkg:nuget/Merchrocket.Client@2.0.0-ci.12
+- pkg:nuget/Merchrocket.Client@2.0.0-ci.13
 - pkg:nuget/Merchrocket.Client@2.0.0-ci.8
