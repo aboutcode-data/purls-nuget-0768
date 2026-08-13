@@ -7,3 +7,4 @@
 - pkg:nuget/Hangfire.Console.Extensions@1.2.0
 - pkg:nuget/Hangfire.Console.Extensions@2.0.0
 - pkg:nuget/Hangfire.Console.Extensions@2.1.0
+- pkg:nuget/Hangfire.Console.Extensions@2.1.2
