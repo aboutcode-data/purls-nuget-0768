@@ -1,1 +1,7 @@
 - pkg:nuget/CalloraVoipSdk@1.0.2
+- pkg:nuget/CalloraVoipSdk@3.1.0
+- pkg:nuget/CalloraVoipSdk@4.3.4
+- pkg:nuget/CalloraVoipSdk@4.4.1
+- pkg:nuget/CalloraVoipSdk@4.6.0
+- pkg:nuget/CalloraVoipSdk@4.6.0-preview.3
+- pkg:nuget/CalloraVoipSdk@4.9.0

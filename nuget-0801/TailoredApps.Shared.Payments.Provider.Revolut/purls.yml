@@ -1,1 +1,3 @@
+- pkg:nuget/TailoredApps.Shared.Payments.Provider.Revolut@1.4.10
 - pkg:nuget/TailoredApps.Shared.Payments.Provider.Revolut@1.4.4
+- pkg:nuget/TailoredApps.Shared.Payments.Provider.Revolut@1.4.8
