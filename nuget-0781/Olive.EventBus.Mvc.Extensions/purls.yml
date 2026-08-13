@@ -1,2 +1,3 @@
+- pkg:nuget/Olive.EventBus.Mvc.Extensions@10.0.1
 - pkg:nuget/Olive.EventBus.Mvc.Extensions@8.0.0
 - pkg:nuget/Olive.EventBus.Mvc.Extensions@8.0.1
