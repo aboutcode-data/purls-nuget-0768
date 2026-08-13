@@ -3,3 +3,4 @@
 - pkg:nuget/HotChai.Bindings.IronSource.Android@8.9.1
 - pkg:nuget/HotChai.Bindings.IronSource.Android@8.9.1.1
 - pkg:nuget/HotChai.Bindings.IronSource.Android@9.1.0.1
+- pkg:nuget/HotChai.Bindings.IronSource.Android@9.4.3
