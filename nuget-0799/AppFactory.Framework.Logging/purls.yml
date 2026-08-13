@@ -3,3 +3,5 @@
 - pkg:nuget/AppFactory.Framework.Logging@1.1.10
 - pkg:nuget/AppFactory.Framework.Logging@1.1.11
 - pkg:nuget/AppFactory.Framework.Logging@1.1.8
+- pkg:nuget/AppFactory.Framework.Logging@10.5.7
+- pkg:nuget/AppFactory.Framework.Logging@10.7.0
