@@ -12,3 +12,7 @@
 - pkg:nuget/wcom-pr-validation@2026.6.8.1
 - pkg:nuget/wcom-pr-validation@2026.6.8.3
 - pkg:nuget/wcom-pr-validation@2026.6.8.5
+- pkg:nuget/wcom-pr-validation@2026.8.12.33
+- pkg:nuget/wcom-pr-validation@2026.8.12.35
+- pkg:nuget/wcom-pr-validation@2026.8.12.37
+- pkg:nuget/wcom-pr-validation@2026.8.12.39
