@@ -85,6 +85,7 @@
 - pkg:nuget/Fast.IaaS@3.4.8
 - pkg:nuget/Fast.IaaS@3.5.0
 - pkg:nuget/Fast.IaaS@3.5.1
+- pkg:nuget/Fast.IaaS@3.5.18
 - pkg:nuget/Fast.IaaS@3.5.2
 - pkg:nuget/Fast.IaaS@3.5.3
 - pkg:nuget/Fast.IaaS@3.5.4
