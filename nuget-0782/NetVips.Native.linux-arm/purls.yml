@@ -34,3 +34,4 @@
 - pkg:nuget/NetVips.Native.linux-arm@8.17.1
 - pkg:nuget/NetVips.Native.linux-arm@8.17.2
 - pkg:nuget/NetVips.Native.linux-arm@8.18.3
+- pkg:nuget/NetVips.Native.linux-arm@8.18.5
