@@ -43,3 +43,4 @@
 - pkg:nuget/MG.BuildingBlock.Infra.CrossCutting.FileStorage@0.0.54-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.CrossCutting.FileStorage@0.0.55-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.CrossCutting.FileStorage@0.0.56-alpha
+- pkg:nuget/MG.BuildingBlock.Infra.CrossCutting.FileStorage@0.0.57-alpha
