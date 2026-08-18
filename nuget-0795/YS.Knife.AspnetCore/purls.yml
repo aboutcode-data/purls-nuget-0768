@@ -33,4 +33,5 @@
 - pkg:nuget/YS.Knife.AspnetCore@0.0.7
 - pkg:nuget/YS.Knife.AspnetCore@0.0.75
 - pkg:nuget/YS.Knife.AspnetCore@0.0.77
+- pkg:nuget/YS.Knife.AspnetCore@0.0.86
 - pkg:nuget/YS.Knife.AspnetCore@0.0.9
