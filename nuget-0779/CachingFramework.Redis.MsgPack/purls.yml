@@ -22,6 +22,7 @@
 - pkg:nuget/CachingFramework.Redis.MsgPack@15.0.1
 - pkg:nuget/CachingFramework.Redis.MsgPack@15.0.2
 - pkg:nuget/CachingFramework.Redis.MsgPack@16.0.0
+- pkg:nuget/CachingFramework.Redis.MsgPack@18.0.0
 - pkg:nuget/CachingFramework.Redis.MsgPack@3.4.0
 - pkg:nuget/CachingFramework.Redis.MsgPack@4.0.0
 - pkg:nuget/CachingFramework.Redis.MsgPack@4.1.0
