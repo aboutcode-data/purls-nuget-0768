@@ -12,3 +12,4 @@
 - pkg:nuget/SharperHacks.CoreLibs.ShellExec@0.8.0%2Bbuilt.by.JwD.2379fe5
 - pkg:nuget/SharperHacks.CoreLibs.ShellExec@0.9.0%2Ba2db62a.2025.07.18.built.by.JwD
 - pkg:nuget/SharperHacks.CoreLibs.ShellExec@0.9.1%2Ba93935c.2025.08.21.built.by.JwD
+- pkg:nuget/SharperHacks.CoreLibs.ShellExec@3.0.2%2B2026.08.06.JwD.943cb4c
