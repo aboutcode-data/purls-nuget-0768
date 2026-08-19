@@ -76,6 +76,7 @@
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@15.9.0
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@17.0.0
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@17.0.1
+- pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@17.1.0
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@2.0.0
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@2.0.1
 - pkg:nuget/Energinet.DataHub.Core.App.FunctionApp@2.0.2
