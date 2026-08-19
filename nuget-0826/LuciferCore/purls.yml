@@ -127,6 +127,10 @@
 - pkg:nuget/LuciferCore@4.12.0
 - pkg:nuget/LuciferCore@4.12.1
 - pkg:nuget/LuciferCore@4.12.2
+- pkg:nuget/LuciferCore@4.5.0
+- pkg:nuget/LuciferCore@4.5.0-debug
+- pkg:nuget/LuciferCore@4.6.0
+- pkg:nuget/LuciferCore@4.6.0-debug
 - pkg:nuget/LuciferCore@4.7.0
 - pkg:nuget/LuciferCore@4.9.0
 - pkg:nuget/LuciferCore@5.22.0
