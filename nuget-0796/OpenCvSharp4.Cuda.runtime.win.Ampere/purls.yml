@@ -1,1 +1,2 @@
 - pkg:nuget/OpenCvSharp4.Cuda.runtime.win.Ampere@1.0.0
+- pkg:nuget/OpenCvSharp4.Cuda.runtime.win.Ampere@1.0.8
