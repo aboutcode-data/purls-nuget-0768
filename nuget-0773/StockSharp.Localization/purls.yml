@@ -129,6 +129,7 @@
 - pkg:nuget/StockSharp.Localization@5.0.22
 - pkg:nuget/StockSharp.Localization@5.0.228
 - pkg:nuget/StockSharp.Localization@5.0.23
+- pkg:nuget/StockSharp.Localization@5.0.233
 - pkg:nuget/StockSharp.Localization@5.0.24
 - pkg:nuget/StockSharp.Localization@5.0.25
 - pkg:nuget/StockSharp.Localization@5.0.26
