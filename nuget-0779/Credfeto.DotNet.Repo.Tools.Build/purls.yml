@@ -2371,3 +2371,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build@1.5.8.3490-propertygroup-r
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build@1.5.8.3499-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Build@1.5.9.3502-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build@1.5.9.3513-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Build@1.5.9.3514-main
