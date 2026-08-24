@@ -27,6 +27,7 @@
 - pkg:nuget/Lakona.Game.Server@0.4.1
 - pkg:nuget/Lakona.Game.Server@0.4.5
 - pkg:nuget/Lakona.Game.Server@0.40.19
+- pkg:nuget/Lakona.Game.Server@0.40.37
 - pkg:nuget/Lakona.Game.Server@0.8.0
 - pkg:nuget/Lakona.Game.Server@0.8.35
 - pkg:nuget/Lakona.Game.Server@0.9.1
