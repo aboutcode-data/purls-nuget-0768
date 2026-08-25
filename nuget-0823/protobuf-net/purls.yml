@@ -122,3 +122,4 @@
 - pkg:nuget/protobuf-net@3.2.56
 - pkg:nuget/protobuf-net@3.2.8
 - pkg:nuget/protobuf-net@3.3.0-g6785ecbb35
+- pkg:nuget/protobuf-net@3.4.19
