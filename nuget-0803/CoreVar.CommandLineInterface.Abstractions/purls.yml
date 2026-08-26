@@ -16,3 +16,4 @@
 - pkg:nuget/CoreVar.CommandLineInterface.Abstractions@1.0.0-prerelease-30
 - pkg:nuget/CoreVar.CommandLineInterface.Abstractions@1.0.0-prerelease-9
 - pkg:nuget/CoreVar.CommandLineInterface.Abstractions@1.0.1-prerelease-13
+- pkg:nuget/CoreVar.CommandLineInterface.Abstractions@1.0.1-prerelease-16
