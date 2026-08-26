@@ -38,3 +38,4 @@
 - pkg:nuget/IndependentReserve.Grpc.Tools@4.2.219
 - pkg:nuget/IndependentReserve.Grpc.Tools@4.2.221
 - pkg:nuget/IndependentReserve.Grpc.Tools@4.3.253
+- pkg:nuget/IndependentReserve.Grpc.Tools@4.3.257
