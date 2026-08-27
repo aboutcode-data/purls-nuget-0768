@@ -160,3 +160,4 @@
 - pkg:nuget/Kentico.Xperience.Core@31.4.3
 - pkg:nuget/Kentico.Xperience.Core@31.7.0
 - pkg:nuget/Kentico.Xperience.Core@31.7.2
+- pkg:nuget/Kentico.Xperience.Core@31.8.2
