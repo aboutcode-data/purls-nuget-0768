@@ -138,6 +138,7 @@
 - pkg:nuget/AleXr64.BotFramework@2.0.12-gae66e70f1a
 - pkg:nuget/AleXr64.BotFramework@2.0.13-g99d444b13e
 - pkg:nuget/AleXr64.BotFramework@2.0.2-gae72fdf0a6
+- pkg:nuget/AleXr64.BotFramework@2.0.21-g15ab2d9e36
 - pkg:nuget/AleXr64.BotFramework@2.0.3-gdfc0066eb4
 - pkg:nuget/AleXr64.BotFramework@2.0.4-g9e14fb7bfc
 - pkg:nuget/AleXr64.BotFramework@2.0.5-gcbf45891bd
