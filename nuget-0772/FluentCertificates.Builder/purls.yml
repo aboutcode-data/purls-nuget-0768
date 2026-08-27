@@ -17,6 +17,7 @@
 - pkg:nuget/FluentCertificates.Builder@0.15.1-ci.18
 - pkg:nuget/FluentCertificates.Builder@0.16.1-ci.13
 - pkg:nuget/FluentCertificates.Builder@0.18.0
+- pkg:nuget/FluentCertificates.Builder@0.20.1
 - pkg:nuget/FluentCertificates.Builder@0.3.0
 - pkg:nuget/FluentCertificates.Builder@0.3.1
 - pkg:nuget/FluentCertificates.Builder@0.3.2
