@@ -93,3 +93,4 @@
 - pkg:nuget/XiHan.Framework.Bot@2.3.5
 - pkg:nuget/XiHan.Framework.Bot@3.10.0
 - pkg:nuget/XiHan.Framework.Bot@3.11.1
+- pkg:nuget/XiHan.Framework.Bot@4.0.0
