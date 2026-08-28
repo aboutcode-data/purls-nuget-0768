@@ -1,1 +1,3 @@
 - pkg:nuget/KeyInteractive.Common.Api.Users@2.4.0
+- pkg:nuget/KeyInteractive.Common.Api.Users@2.5.0
+- pkg:nuget/KeyInteractive.Common.Api.Users@2.6.0
