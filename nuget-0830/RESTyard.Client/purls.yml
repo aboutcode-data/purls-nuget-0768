@@ -6,3 +6,5 @@
 - pkg:nuget/RESTyard.Client@3.0.1-client-back-to-netstandard2.0-20230831.1
 - pkg:nuget/RESTyard.Client@3.0.2
 - pkg:nuget/RESTyard.Client@3.0.2-client-back-to-netstandard2.0-20230901.1
+- pkg:nuget/RESTyard.Client@3.1.0-develop-20260827.1
+- pkg:nuget/RESTyard.Client@3.1.0-develop-20260827.2

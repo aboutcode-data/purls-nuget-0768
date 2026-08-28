@@ -156,6 +156,7 @@
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.31
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.32
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.33
+- pkg:nuget/Vostok.Applications.AspNetCore@0.3.34
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.4
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.5
 - pkg:nuget/Vostok.Applications.AspNetCore@0.3.5-pre000109
