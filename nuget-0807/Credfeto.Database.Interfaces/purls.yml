@@ -1085,6 +1085,12 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.220.2542-eof-newlines
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.220.2545-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2548-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2578-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2579-update-funfair
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2580-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2581-update-mezianto
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2582-update-mezianto
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2583-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.688-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.689-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.690-main
