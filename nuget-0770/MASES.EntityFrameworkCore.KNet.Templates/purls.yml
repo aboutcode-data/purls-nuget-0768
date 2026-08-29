@@ -25,3 +25,5 @@
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Templates@2.6.4
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Templates@3.0.0-rc
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Templates@3.0.0-rc4
+- pkg:nuget/MASES.EntityFrameworkCore.KNet.Templates@3.1.0
+- pkg:nuget/MASES.EntityFrameworkCore.KNet.Templates@4.1.0
