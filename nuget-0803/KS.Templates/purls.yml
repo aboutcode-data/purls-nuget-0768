@@ -60,6 +60,7 @@
 - pkg:nuget/KS.Templates@0.1.0.79
 - pkg:nuget/KS.Templates@0.1.0.8
 - pkg:nuget/KS.Templates@0.1.0.85
+- pkg:nuget/KS.Templates@0.1.0.86
 - pkg:nuget/KS.Templates@0.1.0.9
 - pkg:nuget/KS.Templates@0.1.1
 - pkg:nuget/KS.Templates@0.1.1.1
@@ -125,4 +126,5 @@
 - pkg:nuget/KS.Templates@0.1.2.9
 - pkg:nuget/KS.Templates@0.2.0-beta
 - pkg:nuget/KS.Templates@0.2.0.12
+- pkg:nuget/KS.Templates@0.2.0.18
 - pkg:nuget/KS.Templates@0.2.0.7
