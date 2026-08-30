@@ -10,6 +10,7 @@
 - pkg:nuget/PJHToolkit@10.0.10
 - pkg:nuget/PJHToolkit@10.0.11
 - pkg:nuget/PJHToolkit@10.0.13
+- pkg:nuget/PJHToolkit@10.0.17
 - pkg:nuget/PJHToolkit@10.0.2
 - pkg:nuget/PJHToolkit@10.0.6
 - pkg:nuget/PJHToolkit@2.0.0
