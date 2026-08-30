@@ -2,3 +2,4 @@
 - pkg:nuget/Rystem.PlayFramework.Adapters.FoundryLocal@10.0.11-beta.13
 - pkg:nuget/Rystem.PlayFramework.Adapters.FoundryLocal@10.0.11-beta.25
 - pkg:nuget/Rystem.PlayFramework.Adapters.FoundryLocal@10.0.11-beta.4
+- pkg:nuget/Rystem.PlayFramework.Adapters.FoundryLocal@10.1.1
