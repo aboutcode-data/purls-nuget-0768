@@ -1,2 +1,3 @@
 - pkg:nuget/InferHub.Client@0.1.0
 - pkg:nuget/InferHub.Client@0.6.0
+- pkg:nuget/InferHub.Client@1.1.0
