@@ -59,4 +59,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr501@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr501@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr501@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Hcsr501@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr501@2.0.0-preview.49
