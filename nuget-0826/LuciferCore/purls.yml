@@ -136,4 +136,5 @@
 - pkg:nuget/LuciferCore@5.22.0
 - pkg:nuget/LuciferCore@5.23.0
 - pkg:nuget/LuciferCore@5.25.0
+- pkg:nuget/LuciferCore@5.31.0
 - pkg:nuget/LuciferCore@5.8.0
