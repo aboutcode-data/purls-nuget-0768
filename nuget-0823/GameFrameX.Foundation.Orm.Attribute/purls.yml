@@ -20,3 +20,5 @@
 - pkg:nuget/GameFrameX.Foundation.Orm.Attribute@2.4.3
 - pkg:nuget/GameFrameX.Foundation.Orm.Attribute@3.1.0
 - pkg:nuget/GameFrameX.Foundation.Orm.Attribute@3.1.1
+- pkg:nuget/GameFrameX.Foundation.Orm.Attribute@4.0.1
+- pkg:nuget/GameFrameX.Foundation.Orm.Attribute@4.0.2
