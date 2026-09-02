@@ -2,6 +2,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.1.0-PullRequest1.762988
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.10.0-PullRequest567.2
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.10.0-PullRequest569.4
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.10.0-PullRequest587.3
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.2.0-PullRequest2.262992
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.2.0-alpha.163238
@@ -93,6 +94,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.8.0-beta.18
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.8.0-beta.19
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.8.0-beta.21
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.9.0
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.9.0-PullRequest245.61
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.9.0-PullRequest468.78
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2023@26.9.0-PullRequest474.62
