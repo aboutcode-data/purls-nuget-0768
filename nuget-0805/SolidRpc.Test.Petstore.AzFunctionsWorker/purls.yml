@@ -7,3 +7,4 @@
 - pkg:nuget/SolidRpc.Test.Petstore.AzFunctionsWorker@1.0.1-rc007
 - pkg:nuget/SolidRpc.Test.Petstore.AzFunctionsWorker@1.0.1-rc008
 - pkg:nuget/SolidRpc.Test.Petstore.AzFunctionsWorker@1.0.1-rc009
+- pkg:nuget/SolidRpc.Test.Petstore.AzFunctionsWorker@1.0.1-rc018
