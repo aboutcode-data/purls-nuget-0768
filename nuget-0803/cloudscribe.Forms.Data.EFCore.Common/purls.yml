@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@1.0.0
 - pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@1.0.1
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@10.1.0
 - pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@3.0.0
 - pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@3.1.0
 - pkg:nuget/cloudscribe.Forms.Data.EFCore.Common@5.0.0
