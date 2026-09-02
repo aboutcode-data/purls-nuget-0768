@@ -67,6 +67,11 @@
 - pkg:nuget/Burcin.Templates.CSharp@1.2.48
 - pkg:nuget/Burcin.Templates.CSharp@1.2.49
 - pkg:nuget/Burcin.Templates.CSharp@1.2.9
+- pkg:nuget/Burcin.Templates.CSharp@10.0.22
+- pkg:nuget/Burcin.Templates.CSharp@10.0.23
+- pkg:nuget/Burcin.Templates.CSharp@10.0.24
+- pkg:nuget/Burcin.Templates.CSharp@10.0.25
+- pkg:nuget/Burcin.Templates.CSharp@10.0.26
 - pkg:nuget/Burcin.Templates.CSharp@7.0.2
 - pkg:nuget/Burcin.Templates.CSharp@7.0.3
 - pkg:nuget/Burcin.Templates.CSharp@8.0.4
