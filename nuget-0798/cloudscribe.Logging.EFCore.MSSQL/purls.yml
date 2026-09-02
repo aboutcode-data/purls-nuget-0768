@@ -3,6 +3,7 @@
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@1.1.0-rc20161129
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@1.1.0-rc20170401
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@1.1.1
+- pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@10.1.0
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@2.0.0
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Logging.EFCore.MSSQL@2.0.0-preview20170727
