@@ -71,3 +71,4 @@
 - pkg:nuget/Audit.Lib.Mip.Core@1.0.70
 - pkg:nuget/Audit.Lib.Mip.Core@1.0.8
 - pkg:nuget/Audit.Lib.Mip.Core@1.0.9
+- pkg:nuget/Audit.Lib.Mip.Core@2.0.0
