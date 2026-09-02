@@ -14,3 +14,4 @@
 - pkg:nuget/AspectCore.Extensions.Windsor@2.2.0
 - pkg:nuget/AspectCore.Extensions.Windsor@2.3.0
 - pkg:nuget/AspectCore.Extensions.Windsor@2.4.0
+- pkg:nuget/AspectCore.Extensions.Windsor@2.6.3
