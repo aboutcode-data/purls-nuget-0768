@@ -1,4 +1,5 @@
 - pkg:nuget/Proteus.Text@12.0.14
+- pkg:nuget/Proteus.Text@13.0.5
 - pkg:nuget/Proteus.Text@2.0.1
 - pkg:nuget/Proteus.Text@2.0.10
 - pkg:nuget/Proteus.Text@2.0.11
