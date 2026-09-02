@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.Forms.Bootstrap4@1.0.0
 - pkg:nuget/cloudscribe.Forms.Bootstrap4@1.0.1
+- pkg:nuget/cloudscribe.Forms.Bootstrap4@10.1.0
 - pkg:nuget/cloudscribe.Forms.Bootstrap4@3.0.0
 - pkg:nuget/cloudscribe.Forms.Bootstrap4@3.1.0
 - pkg:nuget/cloudscribe.Forms.Bootstrap4@5.0.0
