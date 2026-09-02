@@ -376,3 +376,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AddressRegistry.Api.BackOffice.Abstractions@5.9.12
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AddressRegistry.Api.BackOffice.Abstractions@6.0.3
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AddressRegistry.Api.BackOffice.Abstractions@6.2.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.AddressRegistry.Api.BackOffice.Abstractions@6.4.4
