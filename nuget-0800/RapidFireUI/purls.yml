@@ -61,6 +61,8 @@
 - pkg:nuget/RapidFireUI@8.0.1.8
 - pkg:nuget/RapidFireUI@8.0.1.9
 - pkg:nuget/RapidFireUI@8.0.13.4
+- pkg:nuget/RapidFireUI@8.0.14.11
+- pkg:nuget/RapidFireUI@8.0.14.12
 - pkg:nuget/RapidFireUI@8.0.14.6
 - pkg:nuget/RapidFireUI@8.0.2
 - pkg:nuget/RapidFireUI@8.0.2.1
