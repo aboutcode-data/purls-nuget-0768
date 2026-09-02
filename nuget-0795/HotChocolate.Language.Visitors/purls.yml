@@ -1380,3 +1380,4 @@
 - pkg:nuget/HotChocolate.Language.Visitors@16.6.2-p.1
 - pkg:nuget/HotChocolate.Language.Visitors@16.6.2-p.4
 - pkg:nuget/HotChocolate.Language.Visitors@16.6.2-p.8
+- pkg:nuget/HotChocolate.Language.Visitors@16.6.3
