@@ -1,3 +1,7 @@
 - pkg:nuget/Hexalith.Tenants.Client@3.1.0
+- pkg:nuget/Hexalith.Tenants.Client@3.2.12
+- pkg:nuget/Hexalith.Tenants.Client@3.2.14
 - pkg:nuget/Hexalith.Tenants.Client@3.2.2
 - pkg:nuget/Hexalith.Tenants.Client@3.2.8
+- pkg:nuget/Hexalith.Tenants.Client@4.0.0
+- pkg:nuget/Hexalith.Tenants.Client@5.1.0
