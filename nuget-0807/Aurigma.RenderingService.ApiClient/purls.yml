@@ -60,6 +60,7 @@
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.79.1.33054%2B1d378c55256b40a9eed6afb93d6cf625b7bbeefa
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.8.2.9410
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.8.5.9444
+- pkg:nuget/Aurigma.RenderingService.ApiClient@2.82.1.34182%2B8ea6169a33ee2367137b2d57a41bc34506a0e73d
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.9.1.9632
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.9.15.9799
 - pkg:nuget/Aurigma.RenderingService.ApiClient@2.9.8.9680
