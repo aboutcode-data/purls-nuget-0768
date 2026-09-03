@@ -44,3 +44,7 @@
 - pkg:nuget/CShocker@3.0.1
 - pkg:nuget/CShocker@3.0.2
 - pkg:nuget/CShocker@3.1.0
+- pkg:nuget/CShocker@4.0.0
+- pkg:nuget/CShocker@4.0.1
+- pkg:nuget/CShocker@4.1.0
+- pkg:nuget/CShocker@4.1.1
