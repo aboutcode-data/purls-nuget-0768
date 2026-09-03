@@ -1,4 +1,5 @@
 - pkg:nuget/BookHouse.Identity.Contracts.AspNetCore@1.0.3
+- pkg:nuget/BookHouse.Identity.Contracts.AspNetCore@10.1.2
 - pkg:nuget/BookHouse.Identity.Contracts.AspNetCore@6.0.0
 - pkg:nuget/BookHouse.Identity.Contracts.AspNetCore@6.0.1
 - pkg:nuget/BookHouse.Identity.Contracts.AspNetCore@6.0.11
