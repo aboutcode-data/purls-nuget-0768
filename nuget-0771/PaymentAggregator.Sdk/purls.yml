@@ -1,0 +1,5 @@
+- pkg:nuget/PaymentAggregator.Sdk@1.0.0
+- pkg:nuget/PaymentAggregator.Sdk@1.0.1
+- pkg:nuget/PaymentAggregator.Sdk@1.0.2
+- pkg:nuget/PaymentAggregator.Sdk@2.0.0
+- pkg:nuget/PaymentAggregator.Sdk@2.0.1
