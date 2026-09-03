@@ -34,3 +34,4 @@
 - pkg:nuget/GroupDocs.Viewer-CLI@25.11.0
 - pkg:nuget/GroupDocs.Viewer-CLI@25.3.0
 - pkg:nuget/GroupDocs.Viewer-CLI@25.4.0
+- pkg:nuget/GroupDocs.Viewer-CLI@26.8.0
