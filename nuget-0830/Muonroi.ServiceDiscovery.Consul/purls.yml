@@ -2,3 +2,5 @@
 - pkg:nuget/Muonroi.ServiceDiscovery.Consul@1.0.0-alpha.12
 - pkg:nuget/Muonroi.ServiceDiscovery.Consul@1.0.0-alpha.13
 - pkg:nuget/Muonroi.ServiceDiscovery.Consul@1.0.0-alpha.8
+- pkg:nuget/Muonroi.ServiceDiscovery.Consul@2.0.0
+- pkg:nuget/Muonroi.ServiceDiscovery.Consul@2.0.1
