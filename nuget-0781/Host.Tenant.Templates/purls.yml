@@ -1,3 +1,7 @@
 - pkg:nuget/Host.Tenant.Templates@1.0.0-alpha.11
 - pkg:nuget/Host.Tenant.Templates@1.0.0-alpha.12
+- pkg:nuget/Host.Tenant.Templates@1.0.0-alpha.15
+- pkg:nuget/Host.Tenant.Templates@1.0.0-alpha.18
 - pkg:nuget/Host.Tenant.Templates@1.0.0-alpha.8
+- pkg:nuget/Host.Tenant.Templates@2.0.0
+- pkg:nuget/Host.Tenant.Templates@2.0.1
