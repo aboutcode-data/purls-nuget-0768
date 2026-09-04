@@ -42,3 +42,4 @@
 - pkg:nuget/Ark.oAuth.Oidc@1.0.5.8
 - pkg:nuget/Ark.oAuth.Oidc@1.0.5.9
 - pkg:nuget/Ark.oAuth.Oidc@2.0.5
+- pkg:nuget/Ark.oAuth.Oidc@2.0.9
