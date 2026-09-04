@@ -102,4 +102,5 @@
 - pkg:nuget/DeepInfra@1.0.1-dev.7
 - pkg:nuget/DeepInfra@1.0.1-dev.8
 - pkg:nuget/DeepInfra@1.0.1-dev.9
+- pkg:nuget/DeepInfra@1.0.2-dev.13
 - pkg:nuget/DeepInfra@1.0.2-dev.8
