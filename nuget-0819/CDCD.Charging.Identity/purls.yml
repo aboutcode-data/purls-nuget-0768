@@ -53,6 +53,8 @@
 - pkg:nuget/CDCD.Charging.Identity@0.12.98
 - pkg:nuget/CDCD.Charging.Identity@0.13.0
 - pkg:nuget/CDCD.Charging.Identity@0.13.1
+- pkg:nuget/CDCD.Charging.Identity@0.13.17
+- pkg:nuget/CDCD.Charging.Identity@0.13.18
 - pkg:nuget/CDCD.Charging.Identity@1.0.1
 - pkg:nuget/CDCD.Charging.Identity@1.0.2
 - pkg:nuget/CDCD.Charging.Identity@2.0.0
