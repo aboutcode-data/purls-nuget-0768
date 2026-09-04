@@ -16,6 +16,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.13.0-e20Type.2
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.13.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.14.0-e20Type.1
+- pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.16.0-audioFixOnly.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.1-essentials-mc-updates.2
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.3.2
