@@ -1,4 +1,5 @@
 - pkg:nuget/BlazorDatasheet.DataStructures@0.11.0
+- pkg:nuget/BlazorDatasheet.DataStructures@0.13.1
 - pkg:nuget/BlazorDatasheet.DataStructures@0.2.0
 - pkg:nuget/BlazorDatasheet.DataStructures@0.2.1
 - pkg:nuget/BlazorDatasheet.DataStructures@0.3.0
