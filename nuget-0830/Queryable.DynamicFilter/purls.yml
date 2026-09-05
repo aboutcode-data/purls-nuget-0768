@@ -1,5 +1,7 @@
 - pkg:nuget/Queryable.DynamicFilter@1.0.0
 - pkg:nuget/Queryable.DynamicFilter@1.1.0
+- pkg:nuget/Queryable.DynamicFilter@10.0.0
+- pkg:nuget/Queryable.DynamicFilter@10.8.1
 - pkg:nuget/Queryable.DynamicFilter@2.0.0
 - pkg:nuget/Queryable.DynamicFilter@2.1.0
 - pkg:nuget/Queryable.DynamicFilter@2.2.0
