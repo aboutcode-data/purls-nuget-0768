@@ -38,5 +38,6 @@
 - pkg:nuget/Stride.CommunityToolkit@1.0.0-preview.59
 - pkg:nuget/Stride.CommunityToolkit@1.0.0-preview.6
 - pkg:nuget/Stride.CommunityToolkit@1.0.0-preview.60
+- pkg:nuget/Stride.CommunityToolkit@1.0.0-preview.63
 - pkg:nuget/Stride.CommunityToolkit@1.0.0-preview.7
 - pkg:nuget/Stride.CommunityToolkit@1.0.2
