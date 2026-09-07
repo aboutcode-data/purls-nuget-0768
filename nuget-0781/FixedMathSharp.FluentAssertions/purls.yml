@@ -1,1 +1,3 @@
 - pkg:nuget/FixedMathSharp.FluentAssertions@2.1.1
+- pkg:nuget/FixedMathSharp.FluentAssertions@5.0.1
+- pkg:nuget/FixedMathSharp.FluentAssertions@7.0.0
