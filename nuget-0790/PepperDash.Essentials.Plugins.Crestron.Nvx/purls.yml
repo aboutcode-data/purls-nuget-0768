@@ -54,4 +54,5 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.9.0-update-mock-device.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.9.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@3.9.1-nvxrouter-fix.1
+- pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@4.0.0-feat-matrix-routing-videosync-status.3
 - pkg:nuget/PepperDash.Essentials.Plugins.Crestron.Nvx@4.0.0-v4-refactor.3
