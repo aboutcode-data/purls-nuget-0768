@@ -1191,6 +1191,8 @@
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.18.57.8
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.18.57.9
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.19.0.162
+- pkg:nuget/Hopex.ApplicationServer.Tool@62.19.0.164
+- pkg:nuget/Hopex.ApplicationServer.Tool@62.19.58.1
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.2.11.6
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.3.0.123
 - pkg:nuget/Hopex.ApplicationServer.Tool@62.3.15.13
