@@ -175,3 +175,6 @@
 - pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.487
 - pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.492
 - pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.500
+- pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.501
+- pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.502
+- pkg:nuget/Soenneker.Cloudflare.WebAnalytics@4.0.503
