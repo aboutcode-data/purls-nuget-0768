@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Redis@10.0.0
+- pkg:nuget/ServiceStack.Redis@10.2.0
 - pkg:nuget/ServiceStack.Redis@2.20.0
 - pkg:nuget/ServiceStack.Redis@2.28.0
 - pkg:nuget/ServiceStack.Redis@2.29.0
