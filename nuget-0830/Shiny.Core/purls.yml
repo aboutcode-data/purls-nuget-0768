@@ -405,3 +405,5 @@
 - pkg:nuget/Shiny.Core@5.5.0-beta-0079
 - pkg:nuget/Shiny.Core@5.5.0-beta-0085
 - pkg:nuget/Shiny.Core@5.5.0-beta-0087
+- pkg:nuget/Shiny.Core@5.6.0-beta-0086
+- pkg:nuget/Shiny.Core@5.6.0-beta-0087
