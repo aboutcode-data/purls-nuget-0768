@@ -48,6 +48,7 @@
 - pkg:nuget/Microsoft.Net.Http.Headers@2.3.0
 - pkg:nuget/Microsoft.Net.Http.Headers@2.3.10
 - pkg:nuget/Microsoft.Net.Http.Headers@2.3.12
+- pkg:nuget/Microsoft.Net.Http.Headers@2.3.13
 - pkg:nuget/Microsoft.Net.Http.Headers@2.3.4
 - pkg:nuget/Microsoft.Net.Http.Headers@8.0.0
 - pkg:nuget/Microsoft.Net.Http.Headers@8.0.0-preview.5.23302.2
