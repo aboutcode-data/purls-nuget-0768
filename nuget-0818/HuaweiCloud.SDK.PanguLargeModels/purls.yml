@@ -70,6 +70,7 @@
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.201
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.207
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.208
+- pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.210
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.89
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.90
 - pkg:nuget/HuaweiCloud.SDK.PanguLargeModels@3.1.91
