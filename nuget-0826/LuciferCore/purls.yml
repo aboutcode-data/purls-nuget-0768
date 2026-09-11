@@ -140,3 +140,4 @@
 - pkg:nuget/LuciferCore@5.34.0
 - pkg:nuget/LuciferCore@5.37.0
 - pkg:nuget/LuciferCore@5.8.0
+- pkg:nuget/LuciferCore@6.1.2-debug
