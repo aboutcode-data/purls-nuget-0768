@@ -16,6 +16,7 @@
 - pkg:nuget/AudibleApi@10.3.0.1
 - pkg:nuget/AudibleApi@11.0.3.1
 - pkg:nuget/AudibleApi@13.1.0.1
+- pkg:nuget/AudibleApi@14.1.2
 - pkg:nuget/AudibleApi@2.0.0.1
 - pkg:nuget/AudibleApi@2.0.1.1
 - pkg:nuget/AudibleApi@2.1.1.1
