@@ -46,6 +46,7 @@
 - pkg:nuget/SageFs@0.6.27
 - pkg:nuget/SageFs@0.6.270
 - pkg:nuget/SageFs@0.6.48
+- pkg:nuget/SageFs@0.6.488
 - pkg:nuget/SageFs@0.6.49
 - pkg:nuget/SageFs@0.6.50
 - pkg:nuget/SageFs@0.6.55
