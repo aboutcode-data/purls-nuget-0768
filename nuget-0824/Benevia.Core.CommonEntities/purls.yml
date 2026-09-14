@@ -32,6 +32,8 @@
 - pkg:nuget/Benevia.Core.CommonEntities@0.10.1-ci.420
 - pkg:nuget/Benevia.Core.CommonEntities@0.10.1-ci.433
 - pkg:nuget/Benevia.Core.CommonEntities@0.10.1-ci.439
+- pkg:nuget/Benevia.Core.CommonEntities@0.10.1-ci.448
+- pkg:nuget/Benevia.Core.CommonEntities@0.10.1-ci.449
 - pkg:nuget/Benevia.Core.CommonEntities@0.9.17-ci.115
 - pkg:nuget/Benevia.Core.CommonEntities@0.9.17-ci.123
 - pkg:nuget/Benevia.Core.CommonEntities@0.9.17-ci.131
