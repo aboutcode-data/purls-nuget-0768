@@ -7,3 +7,4 @@
 - pkg:nuget/TestPrune.Falco@0.1.0-beta.1
 - pkg:nuget/TestPrune.Falco@2.0.2
 - pkg:nuget/TestPrune.Falco@3.1.3
+- pkg:nuget/TestPrune.Falco@3.1.4
