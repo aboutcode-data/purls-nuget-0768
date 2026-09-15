@@ -25,3 +25,4 @@
 - pkg:nuget/RxBim.Tests.Nuke@1.2.6-dev003
 - pkg:nuget/RxBim.Tests.Nuke@1.2.6-rc001
 - pkg:nuget/RxBim.Tests.Nuke@1.2.7-dev003
+- pkg:nuget/RxBim.Tests.Nuke@1.2.7-dev005
