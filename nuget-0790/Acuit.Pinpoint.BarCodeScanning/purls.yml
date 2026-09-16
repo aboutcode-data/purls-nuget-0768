@@ -15,6 +15,7 @@
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.14.0
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.15.0
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.16.0
+- pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.16.1
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.4.0-alpha
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.4.19-alpha
 - pkg:nuget/Acuit.Pinpoint.BarCodeScanning@7.4.43
