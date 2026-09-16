@@ -81,6 +81,7 @@
 - pkg:nuget/LaunchDarkly.ServerSdk@8.10.1
 - pkg:nuget/LaunchDarkly.ServerSdk@8.10.3
 - pkg:nuget/LaunchDarkly.ServerSdk@8.13.0
+- pkg:nuget/LaunchDarkly.ServerSdk@8.16.3
 - pkg:nuget/LaunchDarkly.ServerSdk@8.2.0
 - pkg:nuget/LaunchDarkly.ServerSdk@8.3.0
 - pkg:nuget/LaunchDarkly.ServerSdk@8.4.0
