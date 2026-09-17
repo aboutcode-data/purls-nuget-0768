@@ -2,3 +2,5 @@
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF@1.0.18
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF@1.0.3
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF@2.4.31
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF@5.0.48
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF@5.0.49
