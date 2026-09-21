@@ -126,3 +126,4 @@
 - pkg:nuget/Slackbot.Net.Endpoints@8.1.4
 - pkg:nuget/Slackbot.Net.Endpoints@8.1.4-ci0005-1902179
 - pkg:nuget/Slackbot.Net.Endpoints@8.1.4-ci0010-83080f3
+- pkg:nuget/Slackbot.Net.Endpoints@9.0.3
