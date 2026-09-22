@@ -1,1 +1,4 @@
 - pkg:nuget/triaxis.CommandLine@2.1.0
+- pkg:nuget/triaxis.CommandLine@2.5.0
+- pkg:nuget/triaxis.CommandLine@2.5.0-beta.1
+- pkg:nuget/triaxis.CommandLine@2.5.0-rc.3
