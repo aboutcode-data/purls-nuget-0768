@@ -297,5 +297,7 @@
 - pkg:nuget/BgFramework.Seekers@26.7.22.1
 - pkg:nuget/BgFramework.Seekers@26.8.24.1
 - pkg:nuget/BgFramework.Seekers@26.9.14.1
+- pkg:nuget/BgFramework.Seekers@26.9.22.1
+- pkg:nuget/BgFramework.Seekers@26.9.22.2
 - pkg:nuget/BgFramework.Seekers@26.9.8.2
 - pkg:nuget/BgFramework.Seekers@26.9.9.1
