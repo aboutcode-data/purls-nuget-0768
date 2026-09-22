@@ -8,3 +8,4 @@
 - pkg:nuget/TypeDB.Driver.Pinvoke.win-x64@2.29.0
 - pkg:nuget/TypeDB.Driver.Pinvoke.win-x64@2.29.2
 - pkg:nuget/TypeDB.Driver.Pinvoke.win-x64@2.29.2-rc0
+- pkg:nuget/TypeDB.Driver.Pinvoke.win-x64@3.11.3
