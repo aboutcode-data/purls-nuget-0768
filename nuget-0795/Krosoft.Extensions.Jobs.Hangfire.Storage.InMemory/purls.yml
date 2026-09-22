@@ -1,1 +1,4 @@
 - pkg:nuget/Krosoft.Extensions.Jobs.Hangfire.Storage.InMemory@2026.4.13.6550
+- pkg:nuget/Krosoft.Extensions.Jobs.Hangfire.Storage.InMemory@2026.8.22.9571
+- pkg:nuget/Krosoft.Extensions.Jobs.Hangfire.Storage.InMemory@2026.8.27.9667
+- pkg:nuget/Krosoft.Extensions.Jobs.Hangfire.Storage.InMemory@2026.8.28.9807
