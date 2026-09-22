@@ -24,6 +24,7 @@
 - pkg:nuget/Chatter.MessageBrokers@0.3.5
 - pkg:nuget/Chatter.MessageBrokers@0.3.6
 - pkg:nuget/Chatter.MessageBrokers@0.3.7
+- pkg:nuget/Chatter.MessageBrokers@0.32.1
 - pkg:nuget/Chatter.MessageBrokers@0.4.0
 - pkg:nuget/Chatter.MessageBrokers@0.4.1
 - pkg:nuget/Chatter.MessageBrokers@0.4.3
