@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Client@10.0.0
+- pkg:nuget/ServiceStack.Client@10.2.0
 - pkg:nuget/ServiceStack.Client@4.0.10
 - pkg:nuget/ServiceStack.Client@4.0.11
 - pkg:nuget/ServiceStack.Client@4.0.12
