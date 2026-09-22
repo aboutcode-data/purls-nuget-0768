@@ -1,3 +1,5 @@
 - pkg:nuget/Identity.Base.AspNet@0.2.7
 - pkg:nuget/Identity.Base.AspNet@0.6.1
 - pkg:nuget/Identity.Base.AspNet@0.8.8
+- pkg:nuget/Identity.Base.AspNet@0.9.3
+- pkg:nuget/Identity.Base.AspNet@0.9.5
