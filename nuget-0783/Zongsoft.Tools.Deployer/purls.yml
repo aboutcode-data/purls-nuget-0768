@@ -20,6 +20,7 @@
 - pkg:nuget/Zongsoft.Tools.Deployer@6.6.0
 - pkg:nuget/Zongsoft.Tools.Deployer@7.0.0
 - pkg:nuget/Zongsoft.Tools.Deployer@7.1.0
+- pkg:nuget/Zongsoft.Tools.Deployer@7.10.1
 - pkg:nuget/Zongsoft.Tools.Deployer@7.2.0
 - pkg:nuget/Zongsoft.Tools.Deployer@7.3.0
 - pkg:nuget/Zongsoft.Tools.Deployer@7.4.0
