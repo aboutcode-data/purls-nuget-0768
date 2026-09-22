@@ -38,3 +38,4 @@
 - pkg:nuget/NAudio@2.2.1
 - pkg:nuget/NAudio@3.0.0-preview.14
 - pkg:nuget/NAudio@3.0.0-preview.7
+- pkg:nuget/NAudio@3.0.2-preview.2
