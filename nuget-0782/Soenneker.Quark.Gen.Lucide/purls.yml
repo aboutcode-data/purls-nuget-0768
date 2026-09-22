@@ -12,7 +12,10 @@
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.19
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.204
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.212
+- pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.222
+- pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.227
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.23
+- pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.254
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.29
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.37
 - pkg:nuget/Soenneker.Quark.Gen.Lucide@4.0.40
