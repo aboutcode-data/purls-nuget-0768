@@ -13,4 +13,5 @@
 - pkg:nuget/WireMock.Net.GraphQL@1.9.1
 - pkg:nuget/WireMock.Net.GraphQL@2.1.0
 - pkg:nuget/WireMock.Net.GraphQL@2.11.0
+- pkg:nuget/WireMock.Net.GraphQL@2.15.0
 - pkg:nuget/WireMock.Net.GraphQL@2.2.0
