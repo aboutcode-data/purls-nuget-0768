@@ -1,1 +1,3 @@
 - pkg:nuget/ReactiveUI.Binding.Wpf@3.2.1
+- pkg:nuget/ReactiveUI.Binding.Wpf@7.0.0
+- pkg:nuget/ReactiveUI.Binding.Wpf@7.4.0
