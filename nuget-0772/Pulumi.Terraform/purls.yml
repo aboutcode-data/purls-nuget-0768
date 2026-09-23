@@ -178,3 +178,4 @@
 - pkg:nuget/Pulumi.Terraform@6.2.0-alpha.1787821391
 - pkg:nuget/Pulumi.Terraform@6.2.0-alpha.1787830652
 - pkg:nuget/Pulumi.Terraform@6.2.0-alpha.1787932229
+- pkg:nuget/Pulumi.Terraform@6.2.0-alpha.1790162882
