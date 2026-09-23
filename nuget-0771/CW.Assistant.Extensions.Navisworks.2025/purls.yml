@@ -58,6 +58,8 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-claude-stack-comment-clarity.1.65998
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-fix-create-every-chat-session-over-the-pipe.1.65931
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest803.2.66007
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest806.3.66023
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest809.3.66024
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-PullRequest2.262992
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-alpha.163238
