@@ -6,3 +6,4 @@
 - pkg:nuget/Galosys.Foundation.Actuator.EntityFrameworkCore@26.7.20.1
 - pkg:nuget/Galosys.Foundation.Actuator.EntityFrameworkCore@26.7.20.2
 - pkg:nuget/Galosys.Foundation.Actuator.EntityFrameworkCore@26.7.7.1
+- pkg:nuget/Galosys.Foundation.Actuator.EntityFrameworkCore@26.9.23.1
