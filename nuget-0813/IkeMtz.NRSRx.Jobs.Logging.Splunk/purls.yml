@@ -1,3 +1,4 @@
+- pkg:nuget/IkeMtz.NRSRx.Jobs.Logging.Splunk@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Logging.Splunk@6.0.307.9
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Logging.Splunk@6.0.313.2
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Logging.Splunk@6.0.314.2
