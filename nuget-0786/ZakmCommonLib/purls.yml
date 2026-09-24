@@ -288,3 +288,4 @@
 - pkg:nuget/ZakmCommonLib@2.3.58
 - pkg:nuget/ZakmCommonLib@2.3.71
 - pkg:nuget/ZakmCommonLib@2.4.0
+- pkg:nuget/ZakmCommonLib@2.4.5
