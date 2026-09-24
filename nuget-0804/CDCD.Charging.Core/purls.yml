@@ -56,4 +56,5 @@
 - pkg:nuget/CDCD.Charging.Core@0.13.1
 - pkg:nuget/CDCD.Charging.Core@0.13.17
 - pkg:nuget/CDCD.Charging.Core@0.13.18
+- pkg:nuget/CDCD.Charging.Core@0.13.29
 - pkg:nuget/CDCD.Charging.Core@1.0.1
