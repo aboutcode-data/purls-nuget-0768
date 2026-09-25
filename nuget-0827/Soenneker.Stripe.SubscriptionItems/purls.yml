@@ -57,6 +57,7 @@
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.293
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.303
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.305
+- pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.309
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.42
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.50
 - pkg:nuget/Soenneker.Stripe.SubscriptionItems@4.0.68
