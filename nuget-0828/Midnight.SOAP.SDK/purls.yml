@@ -7,6 +7,9 @@
 - pkg:nuget/Midnight.SOAP.SDK@2.1.0
 - pkg:nuget/Midnight.SOAP.SDK@2.1.1
 - pkg:nuget/Midnight.SOAP.SDK@2.1.11
+- pkg:nuget/Midnight.SOAP.SDK@2.1.12
 - pkg:nuget/Midnight.SOAP.SDK@2.1.2
 - pkg:nuget/Midnight.SOAP.SDK@2.1.5
 - pkg:nuget/Midnight.SOAP.SDK@2.1.9
+- pkg:nuget/Midnight.SOAP.SDK@2.2.1
+- pkg:nuget/Midnight.SOAP.SDK@2.2.6
