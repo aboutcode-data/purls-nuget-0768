@@ -98,3 +98,4 @@
 - pkg:nuget/DNTPersianUtils.Core@6.6.1
 - pkg:nuget/DNTPersianUtils.Core@6.6.2
 - pkg:nuget/DNTPersianUtils.Core@6.7.0
+- pkg:nuget/DNTPersianUtils.Core@7.0.2
