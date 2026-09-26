@@ -33,4 +33,5 @@
 - pkg:nuget/Gemini.Modules.Output@1.0.69-beta
 - pkg:nuget/Gemini.Modules.Output@1.0.70-beta
 - pkg:nuget/Gemini.Modules.Output@1.0.76-beta
+- pkg:nuget/Gemini.Modules.Output@1.0.80-beta
 - pkg:nuget/Gemini.Modules.Output@1.0.9-beta
