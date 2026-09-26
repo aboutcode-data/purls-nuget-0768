@@ -70,3 +70,4 @@
 - pkg:nuget/CK.Cris.AspNet.Engine@0.8.0-r09
 - pkg:nuget/CK.Cris.AspNet.Engine@0.8.0-r10
 - pkg:nuget/CK.Cris.AspNet.Engine@0.9.0
+- pkg:nuget/CK.Cris.AspNet.Engine@1.0.0
