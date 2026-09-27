@@ -5,4 +5,5 @@
 - pkg:nuget/Air.Cloud.Modules.IIS@1.2.0.1
 - pkg:nuget/Air.Cloud.Modules.IIS@1.2.1
 - pkg:nuget/Air.Cloud.Modules.IIS@1.2.3
+- pkg:nuget/Air.Cloud.Modules.IIS@10.26.9.1
 - pkg:nuget/Air.Cloud.Modules.IIS@2.0.0
