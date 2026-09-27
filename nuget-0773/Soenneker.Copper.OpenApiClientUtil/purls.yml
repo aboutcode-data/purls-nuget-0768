@@ -11,3 +11,5 @@
 - pkg:nuget/Soenneker.Copper.OpenApiClientUtil@4.0.43
 - pkg:nuget/Soenneker.Copper.OpenApiClientUtil@4.0.50
 - pkg:nuget/Soenneker.Copper.OpenApiClientUtil@4.0.62
+- pkg:nuget/Soenneker.Copper.OpenApiClientUtil@4.0.68
+- pkg:nuget/Soenneker.Copper.OpenApiClientUtil@4.0.69

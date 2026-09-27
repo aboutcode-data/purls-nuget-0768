@@ -1,0 +1,5 @@
+- pkg:nuget/Soenneker.Docker.Hub.HttpClients@4.0.15
+- pkg:nuget/Soenneker.Docker.Hub.HttpClients@4.0.17
+- pkg:nuget/Soenneker.Docker.Hub.HttpClients@4.0.26
+- pkg:nuget/Soenneker.Docker.Hub.HttpClients@4.0.39
+- pkg:nuget/Soenneker.Docker.Hub.HttpClients@4.0.42
