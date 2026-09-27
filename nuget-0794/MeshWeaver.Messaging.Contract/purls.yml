@@ -10,3 +10,4 @@
 - pkg:nuget/MeshWeaver.Messaging.Contract@2.1.0
 - pkg:nuget/MeshWeaver.Messaging.Contract@2.2.0
 - pkg:nuget/MeshWeaver.Messaging.Contract@2.3.0
+- pkg:nuget/MeshWeaver.Messaging.Contract@3.0.0-rc12
