@@ -4,6 +4,7 @@
 - pkg:nuget/Olive.Aws.EventBus@1.0.25
 - pkg:nuget/Olive.Aws.EventBus@1.0.26
 - pkg:nuget/Olive.Aws.EventBus@1.0.27
+- pkg:nuget/Olive.Aws.EventBus@10.2.1
 - pkg:nuget/Olive.Aws.EventBus@2.1.102
 - pkg:nuget/Olive.Aws.EventBus@2.1.103
 - pkg:nuget/Olive.Aws.EventBus@2.1.104
