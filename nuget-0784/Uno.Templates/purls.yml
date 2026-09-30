@@ -969,3 +969,5 @@
 - pkg:nuget/Uno.Templates@6.8.0-dev.21
 - pkg:nuget/Uno.Templates@6.8.0-dev.30
 - pkg:nuget/Uno.Templates@7.0.0-dev.21
+- pkg:nuget/Uno.Templates@7.0.0-dev.23
+- pkg:nuget/Uno.Templates@7.0.0-dev.25
