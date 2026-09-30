@@ -3,6 +3,7 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@1.0.0-preview
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@1.0.0-preview-final
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Session@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Session@3.0.0
