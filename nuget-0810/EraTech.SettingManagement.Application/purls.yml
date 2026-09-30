@@ -23,3 +23,5 @@
 - pkg:nuget/EraTech.SettingManagement.Application@2.1.72
 - pkg:nuget/EraTech.SettingManagement.Application@2.1.74
 - pkg:nuget/EraTech.SettingManagement.Application@2.1.81
+- pkg:nuget/EraTech.SettingManagement.Application@2.2.23
+- pkg:nuget/EraTech.SettingManagement.Application@2.2.27
