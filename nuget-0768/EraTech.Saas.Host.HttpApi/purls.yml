@@ -61,4 +61,5 @@
 - pkg:nuget/EraTech.Saas.Host.HttpApi@2.1.83
 - pkg:nuget/EraTech.Saas.Host.HttpApi@2.2.23
 - pkg:nuget/EraTech.Saas.Host.HttpApi@2.2.27
+- pkg:nuget/EraTech.Saas.Host.HttpApi@2.2.30
 - pkg:nuget/EraTech.Saas.Host.HttpApi@2.2.6
