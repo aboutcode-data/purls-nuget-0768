@@ -60,6 +60,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest912.165.66224
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest916.170.66222
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest944.187.66301
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest986.193.66339
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-alpha.2.65438
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-alpha.23.65591
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-alpha.3.65441
@@ -78,6 +79,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.166.66214
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.166.66215
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.176.66258
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.190.66319
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.97.66008
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.98.66010
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-claude-stack-comment-clarity.1.65998
