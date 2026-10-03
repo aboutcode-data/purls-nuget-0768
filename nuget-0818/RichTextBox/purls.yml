@@ -1,2 +1,5 @@
 - pkg:nuget/RichTextBox@1.0.0
 - pkg:nuget/RichTextBox@1.0.0-preview.2
+- pkg:nuget/RichTextBox@1.0.10
+- pkg:nuget/RichTextBox@1.0.21
+- pkg:nuget/RichTextBox@1.0.3
