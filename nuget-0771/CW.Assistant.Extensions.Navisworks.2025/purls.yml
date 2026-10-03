@@ -1,5 +1,8 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.1.0
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.1.0-PullRequest1.762988
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest1001.193.66357
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest1006.205.66391
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest1008.200.66376
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest567.2
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest569.4
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-PullRequest592.4.65434
@@ -80,10 +83,15 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.166.66215
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.176.66258
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.190.66319
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.195.66366
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.196.66367
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.97.66008
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-beta.98.66010
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-claude-stack-comment-clarity.1.65998
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.0-fix-create-every-chat-session-over-the-pipe.1.65931
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.10.1
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest1007.8.66375
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest1025.1.66401
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest803.2.66007
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest806.3.66023
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest806.4.66048
@@ -94,7 +102,9 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest858.6.66158
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest872.8.66175
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest913.15.66240
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-PullRequest971.7.66369
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-alpha.1.66060
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.11.0-alpha.110.66402
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-PullRequest2.262992
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2025@26.2.0-alpha.163238
