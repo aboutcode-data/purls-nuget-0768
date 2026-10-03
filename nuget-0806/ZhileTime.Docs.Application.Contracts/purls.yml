@@ -137,3 +137,4 @@
 - pkg:nuget/ZhileTime.Docs.Application.Contracts@6.1.23
 - pkg:nuget/ZhileTime.Docs.Application.Contracts@6.1.3
 - pkg:nuget/ZhileTime.Docs.Application.Contracts@7.0.0
+- pkg:nuget/ZhileTime.Docs.Application.Contracts@8.0.0
