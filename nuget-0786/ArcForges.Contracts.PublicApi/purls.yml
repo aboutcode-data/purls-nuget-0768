@@ -8,6 +8,7 @@
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.287.1
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.293.1
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.31.1
+- pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.311.1
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.46.1
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.69.1
 - pkg:nuget/ArcForges.Contracts.PublicApi@1.0.0-ci.78.1
