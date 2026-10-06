@@ -53,5 +53,6 @@
 - pkg:nuget/Cratis.Metrics.Roslyn@7.2.7
 - pkg:nuget/Cratis.Metrics.Roslyn@7.2.8
 - pkg:nuget/Cratis.Metrics.Roslyn@7.20.2
+- pkg:nuget/Cratis.Metrics.Roslyn@7.22.5
 - pkg:nuget/Cratis.Metrics.Roslyn@7.9.5
 - pkg:nuget/Cratis.Metrics.Roslyn@7.9.6
