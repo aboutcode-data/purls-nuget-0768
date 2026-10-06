@@ -1093,6 +1093,8 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2583-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2663-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.221.2664-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.222.2669-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.222.2670-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.688-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.689-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.23.690-main
