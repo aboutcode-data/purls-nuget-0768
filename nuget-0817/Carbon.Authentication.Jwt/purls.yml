@@ -58,3 +58,4 @@
 - pkg:nuget/Carbon.Authentication.Jwt@2.8.2
 - pkg:nuget/Carbon.Authentication.Jwt@2.9.0
 - pkg:nuget/Carbon.Authentication.Jwt@3.0.0
+- pkg:nuget/Carbon.Authentication.Jwt@3.3.0
