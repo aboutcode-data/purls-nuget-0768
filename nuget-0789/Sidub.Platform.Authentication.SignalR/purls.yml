@@ -1,2 +1,4 @@
 - pkg:nuget/Sidub.Platform.Authentication.SignalR@1.0.10
 - pkg:nuget/Sidub.Platform.Authentication.SignalR@1.0.11
+- pkg:nuget/Sidub.Platform.Authentication.SignalR@1.10.47
+- pkg:nuget/Sidub.Platform.Authentication.SignalR@1.11.4
