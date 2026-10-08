@@ -54,10 +54,14 @@
 - pkg:nuget/Rask.Dashboard@0.22.1-alpha.0.7
 - pkg:nuget/Rask.Dashboard@0.23.0
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.10
+- pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.123
+- pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.132
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.18
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.20
+- pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.206
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.23
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.3
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.34
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.79
 - pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.9
+- pkg:nuget/Rask.Dashboard@0.23.1-alpha.0.92
