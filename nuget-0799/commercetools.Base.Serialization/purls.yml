@@ -49,6 +49,7 @@
 - pkg:nuget/commercetools.Base.Serialization@13.0.0
 - pkg:nuget/commercetools.Base.Serialization@13.1.0
 - pkg:nuget/commercetools.Base.Serialization@14.0.0
+- pkg:nuget/commercetools.Base.Serialization@15.6.0
 - pkg:nuget/commercetools.Base.Serialization@2.0.0
 - pkg:nuget/commercetools.Base.Serialization@2.1.0
 - pkg:nuget/commercetools.Base.Serialization@2.1.1
