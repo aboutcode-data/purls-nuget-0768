@@ -7,3 +7,5 @@
 - pkg:nuget/ElectronNET.Core.AspNet@0.5.1
 - pkg:nuget/ElectronNET.Core.AspNet@0.5.2-pre.139
 - pkg:nuget/ElectronNET.Core.AspNet@0.5.2-pre.140
+- pkg:nuget/ElectronNET.Core.AspNet@0.6.0-pre.160
+- pkg:nuget/ElectronNET.Core.AspNet@0.6.0-pre.162
