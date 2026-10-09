@@ -208,6 +208,7 @@
 - pkg:nuget/Olive.Microservices.Hub@10.4.7
 - pkg:nuget/Olive.Microservices.Hub@10.5.1
 - pkg:nuget/Olive.Microservices.Hub@10.5.8
+- pkg:nuget/Olive.Microservices.Hub@10.7.0
 - pkg:nuget/Olive.Microservices.Hub@8.0.0
 - pkg:nuget/Olive.Microservices.Hub@8.0.1
 - pkg:nuget/Olive.Microservices.Hub@8.0.2
