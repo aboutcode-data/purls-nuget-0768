@@ -40,3 +40,4 @@
 - pkg:nuget/SSF.Logging.Serilog@2.48.0
 - pkg:nuget/SSF.Logging.Serilog@2.50.0
 - pkg:nuget/SSF.Logging.Serilog@2.58.0
+- pkg:nuget/SSF.Logging.Serilog@2.62.0
