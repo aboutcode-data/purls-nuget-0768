@@ -68,6 +68,7 @@
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@1.0.77
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@1.0.78
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@1.0.8
+- pkg:nuget/AgentHub.Service.Oss.Application.Contracts@1.0.86
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@1.0.9
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@6.0.0
 - pkg:nuget/AgentHub.Service.Oss.Application.Contracts@6.0.1
