@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.1000.0
+- pkg:nuget/VirtoCommerce.ImportModule.Data@3.1004.0
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0-alpha.12-dev
 - pkg:nuget/VirtoCommerce.ImportModule.Data@3.200.0-alpha.13
