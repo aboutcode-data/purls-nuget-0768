@@ -89,3 +89,4 @@
 - pkg:nuget/CoreEx@3.8.0
 - pkg:nuget/CoreEx@3.8.1
 - pkg:nuget/CoreEx@3.9.0
+- pkg:nuget/CoreEx@4.1.0
