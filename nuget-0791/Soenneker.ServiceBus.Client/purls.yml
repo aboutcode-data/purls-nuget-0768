@@ -1607,3 +1607,4 @@
 - pkg:nuget/Soenneker.ServiceBus.Client@4.0.1679
 - pkg:nuget/Soenneker.ServiceBus.Client@4.0.1681
 - pkg:nuget/Soenneker.ServiceBus.Client@4.0.1690
+- pkg:nuget/Soenneker.ServiceBus.Client@4.0.1692
