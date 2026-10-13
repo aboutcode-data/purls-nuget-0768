@@ -417,3 +417,4 @@
 - pkg:nuget/Pulumi.Tailscale@1.0.0-alpha.1787821351
 - pkg:nuget/Pulumi.Tailscale@1.0.0-alpha.1788503640
 - pkg:nuget/Pulumi.Tailscale@1.0.0-alpha.1790318892
+- pkg:nuget/Pulumi.Tailscale@1.0.0-alpha.1791909292
