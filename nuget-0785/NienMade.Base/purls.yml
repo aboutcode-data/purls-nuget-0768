@@ -185,6 +185,7 @@
 - pkg:nuget/NienMade.Base@1.0.3
 - pkg:nuget/NienMade.Base@1.0.300
 - pkg:nuget/NienMade.Base@1.0.301
+- pkg:nuget/NienMade.Base@1.0.311
 - pkg:nuget/NienMade.Base@1.0.6
 - pkg:nuget/NienMade.Base@1.0.61
 - pkg:nuget/NienMade.Base@1.0.62
