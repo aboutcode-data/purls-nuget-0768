@@ -76,6 +76,7 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@8.4.913-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@8.4.927-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@8.4.988-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@9.10.3658-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@9.2.1867-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@9.3.1962-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.OcrAndMRZ.iOS@9.3.2117
