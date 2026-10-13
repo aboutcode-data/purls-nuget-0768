@@ -25,3 +25,5 @@
 - pkg:nuget/Shiny.BluetoothLE.Linux@5.9.0-beta-0013
 - pkg:nuget/Shiny.BluetoothLE.Linux@5.9.0-beta-0016
 - pkg:nuget/Shiny.BluetoothLE.Linux@6.1.0
+- pkg:nuget/Shiny.BluetoothLE.Linux@6.2.0
+- pkg:nuget/Shiny.BluetoothLE.Linux@6.2.1-beta-0004
