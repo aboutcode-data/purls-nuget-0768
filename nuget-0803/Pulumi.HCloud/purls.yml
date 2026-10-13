@@ -493,6 +493,8 @@
 - pkg:nuget/Pulumi.HCloud@1.42.0-alpha.1787724183
 - pkg:nuget/Pulumi.HCloud@1.42.0-alpha.1787818694
 - pkg:nuget/Pulumi.HCloud@1.42.0-alpha.1788846698
+- pkg:nuget/Pulumi.HCloud@1.43.1
+- pkg:nuget/Pulumi.HCloud@1.43.1-alpha.1791908365
 - pkg:nuget/Pulumi.HCloud@1.5.0
 - pkg:nuget/Pulumi.HCloud@1.5.0-alpha.1631186430%2Bd29ceaea
 - pkg:nuget/Pulumi.HCloud@1.6.0
