@@ -67,6 +67,7 @@
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.0.0-preview.6.169
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.0.0-preview.7.229
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.0.0-rc.1.285
+- pkg:nuget/Microsoft.Android.Sdk.Linux@36.1.118
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.1.43
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.1.69
 - pkg:nuget/Microsoft.Android.Sdk.Linux@36.99.0-preview.5.308
