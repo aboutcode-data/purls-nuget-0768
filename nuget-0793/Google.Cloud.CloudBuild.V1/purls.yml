@@ -14,6 +14,7 @@
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.15.0
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.16.0
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.2.0
+- pkg:nuget/Google.Cloud.CloudBuild.V1@2.21.0
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.3.0
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.4.0
 - pkg:nuget/Google.Cloud.CloudBuild.V1@2.5.0
