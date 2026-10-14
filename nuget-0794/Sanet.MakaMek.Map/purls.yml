@@ -46,3 +46,5 @@
 - pkg:nuget/Sanet.MakaMek.Map@0.63.3-preview
 - pkg:nuget/Sanet.MakaMek.Map@0.63.39-preview
 - pkg:nuget/Sanet.MakaMek.Map@0.63.5-preview
+- pkg:nuget/Sanet.MakaMek.Map@0.64.18-preview
+- pkg:nuget/Sanet.MakaMek.Map@0.64.26-preview
