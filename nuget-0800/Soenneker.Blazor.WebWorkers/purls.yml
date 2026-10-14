@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.171
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.172
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.176
+- pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.185
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.27
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.34
 - pkg:nuget/Soenneker.Blazor.WebWorkers@4.0.42
