@@ -1,5 +1,7 @@
 - pkg:nuget/Sa.Outbox.PostgreSql@0.0.2
 - pkg:nuget/Sa.Outbox.PostgreSql@0.0.3
 - pkg:nuget/Sa.Outbox.PostgreSql@0.1.0
+- pkg:nuget/Sa.Outbox.PostgreSql@0.11.0
+- pkg:nuget/Sa.Outbox.PostgreSql@0.16.0
 - pkg:nuget/Sa.Outbox.PostgreSql@0.2.0
 - pkg:nuget/Sa.Outbox.PostgreSql@0.7.0
