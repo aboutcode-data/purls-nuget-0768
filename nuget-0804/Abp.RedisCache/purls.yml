@@ -53,6 +53,7 @@
 - pkg:nuget/Abp.RedisCache@10.1.0
 - pkg:nuget/Abp.RedisCache@10.2.0
 - pkg:nuget/Abp.RedisCache@10.3.0
+- pkg:nuget/Abp.RedisCache@10.5.1
 - pkg:nuget/Abp.RedisCache@2.0.0
 - pkg:nuget/Abp.RedisCache@2.0.0-preview1
 - pkg:nuget/Abp.RedisCache@2.0.0-preview2
