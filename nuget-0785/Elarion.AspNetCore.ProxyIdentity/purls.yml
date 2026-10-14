@@ -1,0 +1,5 @@
+- pkg:nuget/Elarion.AspNetCore.ProxyIdentity@0.2.12
+- pkg:nuget/Elarion.AspNetCore.ProxyIdentity@0.2.13
+- pkg:nuget/Elarion.AspNetCore.ProxyIdentity@0.2.17
+- pkg:nuget/Elarion.AspNetCore.ProxyIdentity@0.2.18
+- pkg:nuget/Elarion.AspNetCore.ProxyIdentity@0.2.18-preview.179.1
