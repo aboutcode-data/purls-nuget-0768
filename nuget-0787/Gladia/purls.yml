@@ -1,4 +1,5 @@
 - pkg:nuget/Gladia@0.0.0-dev.1
+- pkg:nuget/Gladia@0.0.0-dev.110
 - pkg:nuget/Gladia@0.0.0-dev.28
 - pkg:nuget/Gladia@0.0.0-dev.29
 - pkg:nuget/Gladia@0.0.0-dev.36
@@ -10,3 +11,19 @@
 - pkg:nuget/Gladia@0.0.0-dev.47
 - pkg:nuget/Gladia@0.0.0-dev.48
 - pkg:nuget/Gladia@0.0.0-dev.52
+- pkg:nuget/Gladia@1.0.1-dev.101
+- pkg:nuget/Gladia@1.0.1-dev.103
+- pkg:nuget/Gladia@1.0.1-dev.105
+- pkg:nuget/Gladia@1.0.1-dev.113
+- pkg:nuget/Gladia@1.0.1-dev.116
+- pkg:nuget/Gladia@1.0.1-dev.122
+- pkg:nuget/Gladia@1.0.1-dev.124
+- pkg:nuget/Gladia@1.0.1-dev.126
+- pkg:nuget/Gladia@1.0.1-dev.134
+- pkg:nuget/Gladia@1.0.1-dev.139
+- pkg:nuget/Gladia@1.0.1-dev.151
+- pkg:nuget/Gladia@1.0.1-dev.155
+- pkg:nuget/Gladia@1.0.1-dev.157
+- pkg:nuget/Gladia@1.0.1-dev.158
+- pkg:nuget/Gladia@1.0.1-dev.98
+- pkg:nuget/Gladia@1.0.1-dev.99
