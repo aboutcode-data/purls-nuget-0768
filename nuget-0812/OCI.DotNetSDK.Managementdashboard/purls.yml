@@ -55,6 +55,7 @@
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@144.1.0
+- pkg:nuget/OCI.DotNetSDK.Managementdashboard@149.0.0
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Managementdashboard@15.2.0
