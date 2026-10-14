@@ -48,3 +48,4 @@
 - pkg:nuget/ktsu.DelegateTransform@1.1.42-pre.1
 - pkg:nuget/ktsu.DelegateTransform@1.1.5-pre.1
 - pkg:nuget/ktsu.DelegateTransform@1.1.6-pre.7
+- pkg:nuget/ktsu.DelegateTransform@2.0.2
