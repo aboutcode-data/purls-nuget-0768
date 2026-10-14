@@ -723,6 +723,8 @@
 - pkg:nuget/Soenneker.Extensions.HttpContent@3.0.729
 - pkg:nuget/Soenneker.Extensions.HttpContent@3.0.730
 - pkg:nuget/Soenneker.Extensions.HttpContent@3.0.731
+- pkg:nuget/Soenneker.Extensions.HttpContent@4.0.1012
+- pkg:nuget/Soenneker.Extensions.HttpContent@4.0.1013
 - pkg:nuget/Soenneker.Extensions.HttpContent@4.0.733
 - pkg:nuget/Soenneker.Extensions.HttpContent@4.0.737
 - pkg:nuget/Soenneker.Extensions.HttpContent@4.0.741
