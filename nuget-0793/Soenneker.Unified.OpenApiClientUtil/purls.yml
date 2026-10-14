@@ -21,6 +21,7 @@
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.216
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.226
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.238
+- pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.248
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.27
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.29
 - pkg:nuget/Soenneker.Unified.OpenApiClientUtil@4.0.42
