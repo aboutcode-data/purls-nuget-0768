@@ -4,6 +4,8 @@
 - pkg:nuget/Identity.Module.AuthManager@2.5.107
 - pkg:nuget/Identity.Module.AuthManager@2.5.108
 - pkg:nuget/Identity.Module.AuthManager@2.5.12
+- pkg:nuget/Identity.Module.AuthManager@2.5.121
+- pkg:nuget/Identity.Module.AuthManager@2.5.124
 - pkg:nuget/Identity.Module.AuthManager@2.5.15
 - pkg:nuget/Identity.Module.AuthManager@2.5.16
 - pkg:nuget/Identity.Module.AuthManager@2.5.17
