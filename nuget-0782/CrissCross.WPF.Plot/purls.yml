@@ -25,3 +25,4 @@
 - pkg:nuget/CrissCross.WPF.Plot@2.5.3
 - pkg:nuget/CrissCross.WPF.Plot@2.5.4
 - pkg:nuget/CrissCross.WPF.Plot@2.6.2
+- pkg:nuget/CrissCross.WPF.Plot@5.0.2
