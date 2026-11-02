@@ -360,6 +360,7 @@
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.46
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.48
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.5
+- pkg:nuget/LEC.Blazor.Components.Models@8.0.53
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.6
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.7
 - pkg:nuget/LEC.Blazor.Components.Models@8.0.8
