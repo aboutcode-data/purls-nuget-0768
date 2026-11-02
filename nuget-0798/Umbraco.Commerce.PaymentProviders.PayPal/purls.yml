@@ -15,4 +15,5 @@
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@15.1.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@16.0.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@17.0.1
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@18.0.0
