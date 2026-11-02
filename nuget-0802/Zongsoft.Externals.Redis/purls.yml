@@ -24,6 +24,7 @@
 - pkg:nuget/Zongsoft.Externals.Redis@6.9.0
 - pkg:nuget/Zongsoft.Externals.Redis@7.0.0
 - pkg:nuget/Zongsoft.Externals.Redis@7.1.0
+- pkg:nuget/Zongsoft.Externals.Redis@7.18.0
 - pkg:nuget/Zongsoft.Externals.Redis@7.2.0
 - pkg:nuget/Zongsoft.Externals.Redis@7.3.0
 - pkg:nuget/Zongsoft.Externals.Redis@7.4.0
