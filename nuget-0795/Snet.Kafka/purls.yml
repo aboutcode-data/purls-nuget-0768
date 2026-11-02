@@ -81,5 +81,7 @@
 - pkg:nuget/Snet.Kafka@26.219.1
 - pkg:nuget/Snet.Kafka@26.222.1
 - pkg:nuget/Snet.Kafka@26.226.1
+- pkg:nuget/Snet.Kafka@26.282.1
+- pkg:nuget/Snet.Kafka@26.283.1-preview.1
 - pkg:nuget/Snet.Kafka@26.77.1
 - pkg:nuget/Snet.Kafka@26.78.1
