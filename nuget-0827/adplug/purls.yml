@@ -188,6 +188,7 @@
 - pkg:nuget/adplug@2.3.7
 - pkg:nuget/adplug@2.3.8
 - pkg:nuget/adplug@2.3.9
+- pkg:nuget/adplug@2.4.1-beta1049
 - pkg:nuget/adplug@2.4.1-beta879
 - pkg:nuget/adplug@2.4.1-beta880
 - pkg:nuget/adplug@2.4.1-beta881
