@@ -10,6 +10,7 @@
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@1.0.7
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@1.0.8
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@1.0.9
+- pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@10.0.6
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@7.0.0
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@7.0.1
 - pkg:nuget/ReHackt.AspNetCore.EntityFrameworkCore@7.0.2

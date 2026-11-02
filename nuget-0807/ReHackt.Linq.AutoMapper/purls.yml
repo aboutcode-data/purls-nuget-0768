@@ -16,6 +16,7 @@
 - pkg:nuget/ReHackt.Linq.AutoMapper@1.1.1
 - pkg:nuget/ReHackt.Linq.AutoMapper@1.1.2
 - pkg:nuget/ReHackt.Linq.AutoMapper@1.1.3
+- pkg:nuget/ReHackt.Linq.AutoMapper@10.0.6
 - pkg:nuget/ReHackt.Linq.AutoMapper@7.0.0
 - pkg:nuget/ReHackt.Linq.AutoMapper@7.0.1
 - pkg:nuget/ReHackt.Linq.AutoMapper@7.0.2
