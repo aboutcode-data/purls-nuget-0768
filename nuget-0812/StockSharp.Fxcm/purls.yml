@@ -34,6 +34,7 @@
 - pkg:nuget/StockSharp.Fxcm@5.0.128
 - pkg:nuget/StockSharp.Fxcm@5.0.13
 - pkg:nuget/StockSharp.Fxcm@5.0.14
+- pkg:nuget/StockSharp.Fxcm@5.0.140
 - pkg:nuget/StockSharp.Fxcm@5.0.15
 - pkg:nuget/StockSharp.Fxcm@5.0.16
 - pkg:nuget/StockSharp.Fxcm@5.0.17
