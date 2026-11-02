@@ -26,6 +26,7 @@
 - pkg:nuget/DotNetCommon.Core@1.9.3
 - pkg:nuget/DotNetCommon.Core@10.1.0
 - pkg:nuget/DotNetCommon.Core@10.1.1
+- pkg:nuget/DotNetCommon.Core@10.5.0
 - pkg:nuget/DotNetCommon.Core@3.0.0
 - pkg:nuget/DotNetCommon.Core@3.0.1
 - pkg:nuget/DotNetCommon.Core@3.1.0
@@ -79,6 +80,8 @@
 - pkg:nuget/DotNetCommon.Core@4.9.1
 - pkg:nuget/DotNetCommon.Core@6.0.0
 - pkg:nuget/DotNetCommon.Core@6.1.0
+- pkg:nuget/DotNetCommon.Core@6.12.0
+- pkg:nuget/DotNetCommon.Core@6.12.1
 - pkg:nuget/DotNetCommon.Core@6.2.0
 - pkg:nuget/DotNetCommon.Core@6.2.1
 - pkg:nuget/DotNetCommon.Core@6.2.2
@@ -90,6 +93,7 @@
 - pkg:nuget/DotNetCommon.Core@6.8.1
 - pkg:nuget/DotNetCommon.Core@8.0.0
 - pkg:nuget/DotNetCommon.Core@8.1.0
+- pkg:nuget/DotNetCommon.Core@8.12.0
 - pkg:nuget/DotNetCommon.Core@8.2.0
 - pkg:nuget/DotNetCommon.Core@8.3.0
 - pkg:nuget/DotNetCommon.Core@8.3.1
