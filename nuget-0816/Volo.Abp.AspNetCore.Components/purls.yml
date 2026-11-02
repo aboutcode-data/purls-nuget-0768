@@ -4,6 +4,8 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components@10.5.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components@10.5.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components@10.6.3
+- pkg:nuget/Volo.Abp.AspNetCore.Components@11.0.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components@4.0.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components@4.0.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components@4.0.0-rc.2
