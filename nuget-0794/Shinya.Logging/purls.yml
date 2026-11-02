@@ -270,3 +270,5 @@
 - pkg:nuget/Shinya.Logging@1.4.2-alpha.20250707.2
 - pkg:nuget/Shinya.Logging@1.4.2-alpha.20250708.1
 - pkg:nuget/Shinya.Logging@1.4.2-alpha.20250708.2
+- pkg:nuget/Shinya.Logging@1.4.4-preview.20261029.1
+- pkg:nuget/Shinya.Logging@1.4.4-preview.20261102.0
