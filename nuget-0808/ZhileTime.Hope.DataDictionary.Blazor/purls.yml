@@ -1,3 +1,6 @@
+- pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@11.0.0
+- pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@11.2.0
+- pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@11.5.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@4.2.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@4.3.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Blazor@4.4.0
