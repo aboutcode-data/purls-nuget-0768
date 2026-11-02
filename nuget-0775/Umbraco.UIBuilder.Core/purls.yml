@@ -60,4 +60,8 @@
 - pkg:nuget/Umbraco.UIBuilder.Core@16.0.2
 - pkg:nuget/Umbraco.UIBuilder.Core@16.0.3
 - pkg:nuget/Umbraco.UIBuilder.Core@17.2.8
+- pkg:nuget/Umbraco.UIBuilder.Core@17.3.0
+- pkg:nuget/Umbraco.UIBuilder.Core@17.3.1
 - pkg:nuget/Umbraco.UIBuilder.Core@18.0.6
+- pkg:nuget/Umbraco.UIBuilder.Core@18.1.0
+- pkg:nuget/Umbraco.UIBuilder.Core@18.1.1
