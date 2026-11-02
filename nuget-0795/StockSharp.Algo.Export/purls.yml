@@ -37,6 +37,7 @@
 - pkg:nuget/StockSharp.Algo.Export@5.0.130
 - pkg:nuget/StockSharp.Algo.Export@5.0.135
 - pkg:nuget/StockSharp.Algo.Export@5.0.14
+- pkg:nuget/StockSharp.Algo.Export@5.0.141
 - pkg:nuget/StockSharp.Algo.Export@5.0.15
 - pkg:nuget/StockSharp.Algo.Export@5.0.16
 - pkg:nuget/StockSharp.Algo.Export@5.0.17

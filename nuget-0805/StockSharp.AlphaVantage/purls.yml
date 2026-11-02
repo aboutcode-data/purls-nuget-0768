@@ -107,6 +107,7 @@
 - pkg:nuget/StockSharp.AlphaVantage@5.0.194
 - pkg:nuget/StockSharp.AlphaVantage@5.0.195
 - pkg:nuget/StockSharp.AlphaVantage@5.0.196
+- pkg:nuget/StockSharp.AlphaVantage@5.0.198
 - pkg:nuget/StockSharp.AlphaVantage@5.0.2
 - pkg:nuget/StockSharp.AlphaVantage@5.0.20
 - pkg:nuget/StockSharp.AlphaVantage@5.0.21
