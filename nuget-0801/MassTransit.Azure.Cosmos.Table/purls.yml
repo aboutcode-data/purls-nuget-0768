@@ -766,6 +766,7 @@
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.10-develop.2424
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.10-develop.2432
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.10-develop.2434
+- pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.12
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.12-develop.2445
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.2
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@8.5.2-develop.2341
@@ -825,3 +826,7 @@
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.3-develop.181
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.3-develop.183
 - pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.4-develop.196
+- pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.4-develop.197
+- pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.4-develop.198
+- pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.5
+- pkg:nuget/MassTransit.Azure.Cosmos.Table@9.2.5-develop.204
