@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@11.0.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@2.7.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@2.7.2
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@3.0.0
@@ -73,3 +74,4 @@
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@6.1.10
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@6.2.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@6.2.1
+- pkg:nuget/ZhileTime.Hope.ApiKey.HttpApi@9.0.0
