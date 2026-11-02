@@ -400,6 +400,8 @@
 - pkg:nuget/Ajw.Ads.Models@2025.9.29.1029-beta
 - pkg:nuget/Ajw.Ads.Models@2025.9.29.1033
 - pkg:nuget/Ajw.Ads.Models@2026.10.2.1047-beta
+- pkg:nuget/Ajw.Ads.Models@2026.10.28.1142
+- pkg:nuget/Ajw.Ads.Models@2026.10.28.902-beta
 - pkg:nuget/Ajw.Ads.Models@2026.10.7.1244-beta
 - pkg:nuget/Ajw.Ads.Models@2026.10.7.1408
 - pkg:nuget/Ajw.Ads.Models@2026.10.7.1758-beta
