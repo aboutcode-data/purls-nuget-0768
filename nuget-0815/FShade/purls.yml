@@ -238,3 +238,4 @@
 - pkg:nuget/FShade@5.7.0-prerelease0011
 - pkg:nuget/FShade@5.7.0-prerelease0012
 - pkg:nuget/FShade@5.7.0-prerelease0013
+- pkg:nuget/FShade@5.7.21
