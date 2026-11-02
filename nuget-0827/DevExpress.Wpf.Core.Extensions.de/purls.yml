@@ -1,8 +1,10 @@
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.1.11
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.1.12
+- pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.1.15
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.1.5
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.1.6
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.2.10
+- pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.2.11
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.2.5
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@25.2.8
 - pkg:nuget/DevExpress.Wpf.Core.Extensions.de@26.1.2-beta
