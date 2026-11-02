@@ -77,6 +77,7 @@
 - pkg:nuget/Soenneker.Extensions.HashSet@1.0.79
 - pkg:nuget/Soenneker.Extensions.HashSet@1.0.8
 - pkg:nuget/Soenneker.Extensions.HashSet@1.0.9
+- pkg:nuget/Soenneker.Extensions.HashSet@11.0.629
 - pkg:nuget/Soenneker.Extensions.HashSet@2.0.1
 - pkg:nuget/Soenneker.Extensions.HashSet@2.0.2
 - pkg:nuget/Soenneker.Extensions.HashSet@2.0.3
