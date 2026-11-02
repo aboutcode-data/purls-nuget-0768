@@ -94,3 +94,6 @@
 - pkg:nuget/Clanwars.TournamentManager.Lib@4.3.10
 - pkg:nuget/Clanwars.TournamentManager.Lib@4.3.4
 - pkg:nuget/Clanwars.TournamentManager.Lib@4.5.3
+- pkg:nuget/Clanwars.TournamentManager.Lib@5.1.3
+- pkg:nuget/Clanwars.TournamentManager.Lib@5.2.1
+- pkg:nuget/Clanwars.TournamentManager.Lib@5.2.2
