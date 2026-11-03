@@ -5,3 +5,6 @@
 - pkg:nuget/SvgToPng@3.0.5
 - pkg:nuget/SvgToPng@3.0.6
 - pkg:nuget/SvgToPng@3.6.0
+- pkg:nuget/SvgToPng@4.9.1
+- pkg:nuget/SvgToPng@5.1.1
+- pkg:nuget/SvgToPng@5.2.1
