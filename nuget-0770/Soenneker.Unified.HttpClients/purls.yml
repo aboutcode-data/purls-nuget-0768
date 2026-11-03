@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Unified.HttpClients@11.0.159
+- pkg:nuget/Soenneker.Unified.HttpClients@11.0.168
 - pkg:nuget/Soenneker.Unified.HttpClients@4.0.102
 - pkg:nuget/Soenneker.Unified.HttpClients@4.0.114
 - pkg:nuget/Soenneker.Unified.HttpClients@4.0.115
