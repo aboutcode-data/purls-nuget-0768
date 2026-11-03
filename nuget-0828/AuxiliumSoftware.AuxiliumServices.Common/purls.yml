@@ -19,3 +19,5 @@
 - pkg:nuget/AuxiliumSoftware.AuxiliumServices.Common@3.0.4.9
 - pkg:nuget/AuxiliumSoftware.AuxiliumServices.Common@3.0.44.3
 - pkg:nuget/AuxiliumSoftware.AuxiliumServices.Common@3.0.50.2
+- pkg:nuget/AuxiliumSoftware.AuxiliumServices.Common@3.0.57
+- pkg:nuget/AuxiliumSoftware.AuxiliumServices.Common@3.0.58.3
