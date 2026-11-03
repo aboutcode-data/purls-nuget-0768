@@ -30,3 +30,4 @@
 - pkg:nuget/Ventas.Nova.NetCore.Store@8.0.0
 - pkg:nuget/Ventas.Nova.NetCore.Store@8.0.2
 - pkg:nuget/Ventas.Nova.NetCore.Store@8.0.3
+- pkg:nuget/Ventas.Nova.NetCore.Store@8.1.1
