@@ -201,3 +201,4 @@
 - pkg:nuget/BlazorStrap@5.2.103.250524
 - pkg:nuget/BlazorStrap@5.2.104
 - pkg:nuget/BlazorStrap@5.2.105-Preview-1
+- pkg:nuget/BlazorStrap@5.2.105-RC-4
