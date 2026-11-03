@@ -48,3 +48,4 @@
 - pkg:nuget/ZLogger@2.5.7
 - pkg:nuget/ZLogger@2.5.8
 - pkg:nuget/ZLogger@2.5.9
+- pkg:nuget/ZLogger@2.6.0
