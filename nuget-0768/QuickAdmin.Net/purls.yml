@@ -47,3 +47,5 @@
 - pkg:nuget/QuickAdmin.Net@2.0.3-dev
 - pkg:nuget/QuickAdmin.Net@2.0.5-dev
 - pkg:nuget/QuickAdmin.Net@2.0.8-dev
+- pkg:nuget/QuickAdmin.Net@3.0.0.1
+- pkg:nuget/QuickAdmin.Net@3.0.0.1-preview.1
