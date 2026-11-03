@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Sonarr.HttpClients@11.0.166
 - pkg:nuget/Soenneker.Sonarr.HttpClients@11.0.168
 - pkg:nuget/Soenneker.Sonarr.HttpClients@11.0.170
+- pkg:nuget/Soenneker.Sonarr.HttpClients@11.0.173
+- pkg:nuget/Soenneker.Sonarr.HttpClients@11.0.175
 - pkg:nuget/Soenneker.Sonarr.HttpClients@4.0.10
 - pkg:nuget/Soenneker.Sonarr.HttpClients@4.0.109
 - pkg:nuget/Soenneker.Sonarr.HttpClients@4.0.124
