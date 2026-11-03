@@ -335,6 +335,7 @@
 - pkg:nuget/Pulumi.Archive@0.4.0-alpha.1778652788
 - pkg:nuget/Pulumi.Archive@0.5.0-alpha.1779344924
 - pkg:nuget/Pulumi.Archive@0.5.0-alpha.1779432879
+- pkg:nuget/Pulumi.Archive@0.5.4-alpha.1793188579
 - pkg:nuget/Pulumi.Archive@0.6.0-alpha.1780900737
 - pkg:nuget/Pulumi.Archive@0.6.0-alpha.1780986582
 - pkg:nuget/Pulumi.Archive@0.6.0-alpha.1781592904
