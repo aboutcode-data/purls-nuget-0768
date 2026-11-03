@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Middlewares.TrafficLogging@11.0.543
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@3.0.1
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@3.0.10
 - pkg:nuget/Soenneker.Middlewares.TrafficLogging@3.0.100
