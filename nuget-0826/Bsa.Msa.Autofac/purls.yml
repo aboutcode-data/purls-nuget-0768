@@ -18,6 +18,7 @@
 - pkg:nuget/Bsa.Msa.Autofac@1.1.0
 - pkg:nuget/Bsa.Msa.Autofac@10.0.76
 - pkg:nuget/Bsa.Msa.Autofac@10.0.83
+- pkg:nuget/Bsa.Msa.Autofac@10.0.84
 - pkg:nuget/Bsa.Msa.Autofac@2.0.0
 - pkg:nuget/Bsa.Msa.Autofac@2.0.1
 - pkg:nuget/Bsa.Msa.Autofac@2.0.2
@@ -83,6 +84,7 @@
 - pkg:nuget/Bsa.Msa.Autofac@6.0.76
 - pkg:nuget/Bsa.Msa.Autofac@6.0.8
 - pkg:nuget/Bsa.Msa.Autofac@6.0.82
+- pkg:nuget/Bsa.Msa.Autofac@6.0.84
 - pkg:nuget/Bsa.Msa.Autofac@6.0.9
 - pkg:nuget/Bsa.Msa.Autofac@7.0.0
 - pkg:nuget/Bsa.Msa.Autofac@7.0.1
