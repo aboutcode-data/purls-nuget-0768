@@ -310,6 +310,7 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.10.3812-nightly
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.10.3819-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.10.3833-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.10.3894-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.2.1639-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.2.1772-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuthRFID.Android@9.2.1786-nightly
