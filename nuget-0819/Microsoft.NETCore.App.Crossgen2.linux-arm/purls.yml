@@ -136,6 +136,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.19
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.2
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.22
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.4
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-arm@9.0.5
