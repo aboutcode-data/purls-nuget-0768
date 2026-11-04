@@ -1,0 +1,2 @@
+- pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.MyServiceBus.RabbitMq@0.45.0-dev
+- pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.MyServiceBus.RabbitMq@0.49.0-dev
