@@ -393,6 +393,10 @@
 - pkg:nuget/Ascon.Pilot.Server.Api@26.16.162-alpha
 - pkg:nuget/Ascon.Pilot.Server.Api@26.16.163-alpha
 - pkg:nuget/Ascon.Pilot.Server.Api@26.16.164-alpha
+- pkg:nuget/Ascon.Pilot.Server.Api@26.18.171-alpha
+- pkg:nuget/Ascon.Pilot.Server.Api@26.18.172-alpha
+- pkg:nuget/Ascon.Pilot.Server.Api@26.19.176-alpha
+- pkg:nuget/Ascon.Pilot.Server.Api@26.20.0
 - pkg:nuget/Ascon.Pilot.Server.Api@26.4.0
 - pkg:nuget/Ascon.Pilot.Server.Api@26.8.125-alpha
 - pkg:nuget/Ascon.Pilot.Server.Api@26.8.127-alpha
