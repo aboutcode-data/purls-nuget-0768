@@ -175,6 +175,7 @@
 - pkg:nuget/Ecng.Reflection@1.0.31
 - pkg:nuget/Ecng.Reflection@1.0.312
 - pkg:nuget/Ecng.Reflection@1.0.32
+- pkg:nuget/Ecng.Reflection@1.0.327
 - pkg:nuget/Ecng.Reflection@1.0.33
 - pkg:nuget/Ecng.Reflection@1.0.34
 - pkg:nuget/Ecng.Reflection@1.0.35
