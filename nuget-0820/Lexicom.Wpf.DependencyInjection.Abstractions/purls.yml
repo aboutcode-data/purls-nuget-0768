@@ -7,6 +7,8 @@
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@10.0.33
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@10.0.38
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@10.0.41
+- pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@10.0.53
+- pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@10.0.54
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@8.0.20
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@8.0.21
 - pkg:nuget/Lexicom.Wpf.DependencyInjection.Abstractions@8.0.22
