@@ -40,3 +40,4 @@
 - pkg:nuget/YunTeng.Orleans.Service@6.0.6
 - pkg:nuget/YunTeng.Orleans.Service@6.0.8
 - pkg:nuget/YunTeng.Orleans.Service@6.1.0
+- pkg:nuget/YunTeng.Orleans.Service@6.1.1
