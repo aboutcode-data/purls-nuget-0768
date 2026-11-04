@@ -14,3 +14,5 @@
 - pkg:nuget/MatriksIQ.AI.Reference.Assembly@5.4.0.1
 - pkg:nuget/MatriksIQ.AI.Reference.Assembly@5.4.1.16
 - pkg:nuget/MatriksIQ.AI.Reference.Assembly@5.4.1.8
+- pkg:nuget/MatriksIQ.AI.Reference.Assembly@6.0.0.5
+- pkg:nuget/MatriksIQ.AI.Reference.Assembly@6.0.0.7
