@@ -13,3 +13,8 @@
 - pkg:nuget/FluentCertificates.Common@0.12.1-ci0004
 - pkg:nuget/FluentCertificates.Common@0.12.1-ci0005
 - pkg:nuget/FluentCertificates.Common@0.13.0
+- pkg:nuget/FluentCertificates.Common@0.16.1-ci.13
+- pkg:nuget/FluentCertificates.Common@0.18.0
+- pkg:nuget/FluentCertificates.Common@0.20.1
+- pkg:nuget/FluentCertificates.Common@0.20.2-ci.31
+- pkg:nuget/FluentCertificates.Common@0.22.1-ci.128
