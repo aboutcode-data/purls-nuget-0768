@@ -1,3 +1,6 @@
+- pkg:nuget/Ertis.ImageProcessing@10.0.4-preview.1
+- pkg:nuget/Ertis.ImageProcessing@10.0.5
+- pkg:nuget/Ertis.ImageProcessing@10.0.9
 - pkg:nuget/Ertis.ImageProcessing@7.0.0
 - pkg:nuget/Ertis.ImageProcessing@7.0.1
 - pkg:nuget/Ertis.ImageProcessing@7.0.2
