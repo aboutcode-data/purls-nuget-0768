@@ -10,3 +10,5 @@
 - pkg:nuget/Syncfusion.ImagePreProcessor.WinForms@34.1.29
 - pkg:nuget/Syncfusion.ImagePreProcessor.WinForms@34.1.32
 - pkg:nuget/Syncfusion.ImagePreProcessor.WinForms@34.2.3
+- pkg:nuget/Syncfusion.ImagePreProcessor.WinForms@35.1.37
+- pkg:nuget/Syncfusion.ImagePreProcessor.WinForms@35.1.40
