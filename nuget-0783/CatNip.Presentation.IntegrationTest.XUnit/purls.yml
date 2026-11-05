@@ -4,3 +4,4 @@
 - pkg:nuget/CatNip.Presentation.IntegrationTest.XUnit@3.0.1
 - pkg:nuget/CatNip.Presentation.IntegrationTest.XUnit@3.1.0
 - pkg:nuget/CatNip.Presentation.IntegrationTest.XUnit@3.1.1
+- pkg:nuget/CatNip.Presentation.IntegrationTest.XUnit@4.2.1
