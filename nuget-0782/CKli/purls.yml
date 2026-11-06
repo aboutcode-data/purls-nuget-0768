@@ -67,5 +67,6 @@
 - pkg:nuget/CKli@0.5.1
 - pkg:nuget/CKli@0.5.2
 - pkg:nuget/CKli@0.5.3
+- pkg:nuget/CKli@0.50.1
 - pkg:nuget/CKli@0.6.0
 - pkg:nuget/CKli@0.7.0
