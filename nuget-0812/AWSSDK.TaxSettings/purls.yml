@@ -293,4 +293,5 @@
 - pkg:nuget/AWSSDK.TaxSettings@4.0.100.8
 - pkg:nuget/AWSSDK.TaxSettings@4.0.101.7
 - pkg:nuget/AWSSDK.TaxSettings@4.0.101.9
+- pkg:nuget/AWSSDK.TaxSettings@4.0.103.1
 - pkg:nuget/AWSSDK.TaxSettings@4.0.3.1
