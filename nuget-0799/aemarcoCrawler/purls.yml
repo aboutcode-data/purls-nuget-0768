@@ -1,3 +1,4 @@
+- pkg:nuget/aemarcoCrawler@10.0.3
 - pkg:nuget/aemarcoCrawler@5.0.10
 - pkg:nuget/aemarcoCrawler@5.0.11
 - pkg:nuget/aemarcoCrawler@5.0.16
