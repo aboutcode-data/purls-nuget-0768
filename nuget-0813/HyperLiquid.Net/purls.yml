@@ -30,5 +30,6 @@
 - pkg:nuget/HyperLiquid.Net@4.4.1
 - pkg:nuget/HyperLiquid.Net@4.6.0
 - pkg:nuget/HyperLiquid.Net@5.0.0
+- pkg:nuget/HyperLiquid.Net@5.10.0
 - pkg:nuget/HyperLiquid.Net@5.6.0
 - pkg:nuget/HyperLiquid.Net@5.9.1
