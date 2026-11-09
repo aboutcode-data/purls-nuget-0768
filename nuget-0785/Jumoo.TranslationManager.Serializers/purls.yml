@@ -100,6 +100,7 @@
 - pkg:nuget/Jumoo.TranslationManager.Serializers@18.2.1
 - pkg:nuget/Jumoo.TranslationManager.Serializers@18.3.0
 - pkg:nuget/Jumoo.TranslationManager.Serializers@18.4.0
+- pkg:nuget/Jumoo.TranslationManager.Serializers@18.5.0
 - pkg:nuget/Jumoo.TranslationManager.Serializers@19.0.0-beta01
 - pkg:nuget/Jumoo.TranslationManager.Serializers@9.0.0
 - pkg:nuget/Jumoo.TranslationManager.Serializers@9.0.0-beta002
