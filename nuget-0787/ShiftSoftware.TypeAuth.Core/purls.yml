@@ -37,6 +37,7 @@
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@1.5.9
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@1.6.0
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@1.6.1
+- pkg:nuget/ShiftSoftware.TypeAuth.Core@2.0.2
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@2023.10.1.1
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@2023.10.1.2
 - pkg:nuget/ShiftSoftware.TypeAuth.Core@2023.10.1.3
