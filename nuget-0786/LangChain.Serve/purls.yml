@@ -274,3 +274,4 @@
 - pkg:nuget/LangChain.Serve@0.17.1-dev.94
 - pkg:nuget/LangChain.Serve@0.17.2-dev.19
 - pkg:nuget/LangChain.Serve@0.17.2-dev.20
+- pkg:nuget/LangChain.Serve@0.17.2-dev.23
