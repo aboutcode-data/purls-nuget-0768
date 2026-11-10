@@ -1,0 +1,5 @@
+- pkg:nuget/NymBroker.Idempotency.MySql@0.11.0
+- pkg:nuget/NymBroker.Idempotency.MySql@0.12.1
+- pkg:nuget/NymBroker.Idempotency.MySql@0.13.0
+- pkg:nuget/NymBroker.Idempotency.MySql@0.20.0
+- pkg:nuget/NymBroker.Idempotency.MySql@0.22.2

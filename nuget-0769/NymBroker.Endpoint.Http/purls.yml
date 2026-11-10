@@ -1,0 +1,4 @@
+- pkg:nuget/NymBroker.Endpoint.Http@0.11.0
+- pkg:nuget/NymBroker.Endpoint.Http@0.12.1
+- pkg:nuget/NymBroker.Endpoint.Http@0.20.0
+- pkg:nuget/NymBroker.Endpoint.Http@0.22.2
