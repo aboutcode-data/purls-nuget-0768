@@ -1189,6 +1189,7 @@
 - pkg:nuget/AWSSDK.S3Control@4.0.101.11
 - pkg:nuget/AWSSDK.S3Control@4.0.101.6
 - pkg:nuget/AWSSDK.S3Control@4.0.101.8
+- pkg:nuget/AWSSDK.S3Control@4.0.102
 - pkg:nuget/AWSSDK.S3Control@4.0.12.5
 - pkg:nuget/AWSSDK.S3Control@4.0.2
 - pkg:nuget/AWSSDK.S3Control@4.0.2.1
