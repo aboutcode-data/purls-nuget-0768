@@ -17,3 +17,4 @@
 - pkg:nuget/Reveal.Sdk.Data.Google.SearchConsole@2.0.0
 - pkg:nuget/Reveal.Sdk.Data.Google.SearchConsole@2.1.1-preview.22
 - pkg:nuget/Reveal.Sdk.Data.Google.SearchConsole@2.2.2-preview.2
+- pkg:nuget/Reveal.Sdk.Data.Google.SearchConsole@2.3.1
