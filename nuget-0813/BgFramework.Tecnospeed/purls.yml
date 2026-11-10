@@ -215,6 +215,7 @@
 - pkg:nuget/BgFramework.Tecnospeed@25.9.24.1
 - pkg:nuget/BgFramework.Tecnospeed@25.9.26.1
 - pkg:nuget/BgFramework.Tecnospeed@26.1.26.1
+- pkg:nuget/BgFramework.Tecnospeed@26.11.9.3
 - pkg:nuget/BgFramework.Tecnospeed@26.3.18.1
 - pkg:nuget/BgFramework.Tecnospeed@26.3.26.1
 - pkg:nuget/BgFramework.Tecnospeed@26.5.14.1
