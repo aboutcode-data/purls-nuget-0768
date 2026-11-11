@@ -70,6 +70,7 @@
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@1.0.75
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@1.0.8
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@1.0.9
+- pkg:nuget/Soenneker.Utils.AsyncSingleton@11.0.890
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@2.0.1
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@2.0.2
 - pkg:nuget/Soenneker.Utils.AsyncSingleton@2.0.76
