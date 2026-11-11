@@ -72,6 +72,7 @@
 - pkg:nuget/Soenneker.Extensions.List.String@1.0.75
 - pkg:nuget/Soenneker.Extensions.List.String@1.0.76
 - pkg:nuget/Soenneker.Extensions.List.String@1.0.8
+- pkg:nuget/Soenneker.Extensions.List.String@11.0.633
 - pkg:nuget/Soenneker.Extensions.List.String@2.0.1
 - pkg:nuget/Soenneker.Extensions.List.String@2.0.2
 - pkg:nuget/Soenneker.Extensions.List.String@2.0.77
