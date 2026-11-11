@@ -172,6 +172,8 @@
 - pkg:nuget/Sitko.Core.Storage.S3@12.0.0
 - pkg:nuget/Sitko.Core.Storage.S3@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Storage.S3@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Storage.S3@13.1.1
+- pkg:nuget/Sitko.Core.Storage.S3@13.1.2
 - pkg:nuget/Sitko.Core.Storage.S3@3.10.0
 - pkg:nuget/Sitko.Core.Storage.S3@3.11.0
 - pkg:nuget/Sitko.Core.Storage.S3@3.12.0
