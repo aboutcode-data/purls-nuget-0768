@@ -148,6 +148,8 @@
 - pkg:nuget/Soenneker.Blob.Container@11.0.3053
 - pkg:nuget/Soenneker.Blob.Container@11.0.3054
 - pkg:nuget/Soenneker.Blob.Container@11.0.3059
+- pkg:nuget/Soenneker.Blob.Container@11.0.3060
+- pkg:nuget/Soenneker.Blob.Container@11.0.3062
 - pkg:nuget/Soenneker.Blob.Container@2.0.1
 - pkg:nuget/Soenneker.Blob.Container@2.0.146
 - pkg:nuget/Soenneker.Blob.Container@2.0.147
