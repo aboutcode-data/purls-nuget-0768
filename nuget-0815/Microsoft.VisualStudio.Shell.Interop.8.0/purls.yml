@@ -30,6 +30,7 @@
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@17.7.37355
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@17.8.37221
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@17.9.37000
+- pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@18.12.1603
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@8.0.50727
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@8.0.50727-pre
 - pkg:nuget/Microsoft.VisualStudio.Shell.Interop.8.0@8.0.50728
