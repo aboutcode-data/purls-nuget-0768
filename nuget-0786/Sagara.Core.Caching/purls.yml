@@ -81,6 +81,7 @@
 - pkg:nuget/Sagara.Core.Caching@4.6.2
 - pkg:nuget/Sagara.Core.Caching@5.0.0
 - pkg:nuget/Sagara.Core.Caching@5.1.9
+- pkg:nuget/Sagara.Core.Caching@5.10.12
 - pkg:nuget/Sagara.Core.Caching@5.3.3
 - pkg:nuget/Sagara.Core.Caching@5.3.4
 - pkg:nuget/Sagara.Core.Caching@5.4.0
