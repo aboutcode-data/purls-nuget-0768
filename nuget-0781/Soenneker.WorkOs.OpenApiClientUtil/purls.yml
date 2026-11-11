@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@11.0.268
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@11.0.272
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@11.0.281
+- pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@11.0.283
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@4.0.11
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@4.0.117
 - pkg:nuget/Soenneker.WorkOs.OpenApiClientUtil@4.0.133
