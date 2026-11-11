@@ -25,6 +25,7 @@
 - pkg:nuget/Marten.NodaTime@1.9.2
 - pkg:nuget/Marten.NodaTime@1.9.3
 - pkg:nuget/Marten.NodaTime@1.9.4
+- pkg:nuget/Marten.NodaTime@10.0.0-alpha.1
 - pkg:nuget/Marten.NodaTime@2.0.0
 - pkg:nuget/Marten.NodaTime@2.0.0-alpha
 - pkg:nuget/Marten.NodaTime@2.0.0-alpha.10
