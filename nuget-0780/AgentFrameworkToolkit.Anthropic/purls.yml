@@ -9,3 +9,4 @@
 - pkg:nuget/AgentFrameworkToolkit.Anthropic@1.1.0
 - pkg:nuget/AgentFrameworkToolkit.Anthropic@1.11.1
 - pkg:nuget/AgentFrameworkToolkit.Anthropic@1.16.1
+- pkg:nuget/AgentFrameworkToolkit.Anthropic@1.28.1
