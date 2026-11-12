@@ -5,6 +5,8 @@
 - pkg:nuget/MultiFormatDataConverter@0.2.1%2Bbuild.20250624025937.b720ac6
 - pkg:nuget/MultiFormatDataConverter@0.2.10%2Bbuild.20250729062458.d17645b
 - pkg:nuget/MultiFormatDataConverter@0.2.101%2Bbuild.20260916233619.f55fe98
+- pkg:nuget/MultiFormatDataConverter@0.2.105%2Bbuild.20261013200141.e5b4b5f
+- pkg:nuget/MultiFormatDataConverter@0.2.106%2Bbuild.20261013200903.e8c7d95
 - pkg:nuget/MultiFormatDataConverter@0.2.11%2Bbuild.20250729163503.a3d6e6e
 - pkg:nuget/MultiFormatDataConverter@0.2.12%2Bbuild.20250730130758.ab640b5
 - pkg:nuget/MultiFormatDataConverter@0.2.13%2Bbuild.20250805193632.d2ca692
