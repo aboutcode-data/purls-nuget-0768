@@ -14,6 +14,11 @@
 - pkg:nuget/Obvs.NetMQ@5.0.2.4
 - pkg:nuget/Obvs.NetMQ@5.0.2.6
 - pkg:nuget/Obvs.NetMQ@6.0.10
+- pkg:nuget/Obvs.NetMQ@6.0.22
+- pkg:nuget/Obvs.NetMQ@6.0.23
+- pkg:nuget/Obvs.NetMQ@6.0.24
+- pkg:nuget/Obvs.NetMQ@6.0.25
+- pkg:nuget/Obvs.NetMQ@6.0.29
 - pkg:nuget/Obvs.NetMQ@6.0.5
 - pkg:nuget/Obvs.NetMQ@6.0.8
 - pkg:nuget/Obvs.NetMQ@6.0.9
