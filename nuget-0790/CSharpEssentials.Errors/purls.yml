@@ -10,3 +10,9 @@
 - pkg:nuget/CSharpEssentials.Errors@2.0.9
 - pkg:nuget/CSharpEssentials.Errors@3.0.7
 - pkg:nuget/CSharpEssentials.Errors@3.1.0
+- pkg:nuget/CSharpEssentials.Errors@4.1.0
+- pkg:nuget/CSharpEssentials.Errors@5.2.1
+- pkg:nuget/CSharpEssentials.Errors@6.0.0
+- pkg:nuget/CSharpEssentials.Errors@6.3.0
+- pkg:nuget/CSharpEssentials.Errors@6.5.0
+- pkg:nuget/CSharpEssentials.Errors@7.0.0
