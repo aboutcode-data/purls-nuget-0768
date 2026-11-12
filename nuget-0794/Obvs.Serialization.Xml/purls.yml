@@ -36,6 +36,11 @@
 - pkg:nuget/Obvs.Serialization.Xml@5.0.2.33
 - pkg:nuget/Obvs.Serialization.Xml@5.0.2.34
 - pkg:nuget/Obvs.Serialization.Xml@6.0.10
+- pkg:nuget/Obvs.Serialization.Xml@6.0.22
+- pkg:nuget/Obvs.Serialization.Xml@6.0.23
+- pkg:nuget/Obvs.Serialization.Xml@6.0.24
+- pkg:nuget/Obvs.Serialization.Xml@6.0.25
+- pkg:nuget/Obvs.Serialization.Xml@6.0.29
 - pkg:nuget/Obvs.Serialization.Xml@6.0.5
 - pkg:nuget/Obvs.Serialization.Xml@6.0.8
 - pkg:nuget/Obvs.Serialization.Xml@6.0.9
