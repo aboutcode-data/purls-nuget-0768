@@ -32,4 +32,5 @@
 - pkg:nuget/IQFeed.CSharpApiClient@439.0.0
 - pkg:nuget/IQFeed.CSharpApiClient@681.0.0
 - pkg:nuget/IQFeed.CSharpApiClient@771.0.0
+- pkg:nuget/IQFeed.CSharpApiClient@808.0.0
 - pkg:nuget/IQFeed.CSharpApiClient@98.0.0
