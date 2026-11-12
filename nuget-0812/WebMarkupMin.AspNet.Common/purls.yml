@@ -26,6 +26,7 @@
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.2.0
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.2.2
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.2.5
+- pkg:nuget/WebMarkupMin.AspNet.Common@2.24.0
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.3.0
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.4.0
 - pkg:nuget/WebMarkupMin.AspNet.Common@2.5.0
