@@ -39,6 +39,7 @@
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@13.0.2
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@14.0.0
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@14.0.1
+- pkg:nuget/Microsoft.Azure.Kusto.Ingest@14.2.4
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@4.0.0-beta
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@4.0.1-beta
 - pkg:nuget/Microsoft.Azure.Kusto.Ingest@4.0.3
