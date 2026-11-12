@@ -1,4 +1,7 @@
 - pkg:nuget/Soenneker.Extensions.HttpContent@11.0.1028
+- pkg:nuget/Soenneker.Extensions.HttpContent@11.0.1035
+- pkg:nuget/Soenneker.Extensions.HttpContent@11.0.1036
+- pkg:nuget/Soenneker.Extensions.HttpContent@11.0.1038
 - pkg:nuget/Soenneker.Extensions.HttpContent@2.1.1
 - pkg:nuget/Soenneker.Extensions.HttpContent@2.1.10
 - pkg:nuget/Soenneker.Extensions.HttpContent@2.1.100
