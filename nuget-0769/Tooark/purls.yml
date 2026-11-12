@@ -19,3 +19,5 @@
 - pkg:nuget/Tooark@2.1.9
 - pkg:nuget/Tooark@2.3.0
 - pkg:nuget/Tooark@3.2.0
+- pkg:nuget/Tooark@4.6.0
+- pkg:nuget/Tooark@4.7.3
