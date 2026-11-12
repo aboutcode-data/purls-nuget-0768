@@ -1,0 +1,7 @@
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-dev-2
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-dev-8
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-feature.feature-345-evosign-vers-testsdk.346
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-feature.feature-implementazione-webapi.5
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-feature.feature-implementazione-webapi.8
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-feature.supporto-docker.1
+- pkg:nuget/kokos-me-dotnet-evodoc-sign.Shared@1.0.0-feature.trusted-publishing.0
