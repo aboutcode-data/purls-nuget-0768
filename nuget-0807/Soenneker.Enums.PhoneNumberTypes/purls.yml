@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@11.0.101
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@11.0.106
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@3.0.1
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@3.0.2
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@3.0.3
@@ -16,4 +18,9 @@
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.57
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.59
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.7
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.71
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.78
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.85
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.88
 - pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.9
+- pkg:nuget/Soenneker.Enums.PhoneNumberTypes@4.0.98

@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Utils.Types@11.0.310
+- pkg:nuget/Soenneker.Utils.Types@11.0.313
+- pkg:nuget/Soenneker.Utils.Types@11.0.315
 - pkg:nuget/Soenneker.Utils.Types@3.0.1
 - pkg:nuget/Soenneker.Utils.Types@3.0.10
 - pkg:nuget/Soenneker.Utils.Types@3.0.100

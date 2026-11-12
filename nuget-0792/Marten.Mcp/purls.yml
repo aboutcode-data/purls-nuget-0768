@@ -1,1 +1,7 @@
 - pkg:nuget/Marten.Mcp@0.1.0
+- pkg:nuget/Marten.Mcp@0.9.0
+- pkg:nuget/Marten.Mcp@1.0.0-alpha.1
+- pkg:nuget/Marten.Mcp@1.0.0-rc.1
+- pkg:nuget/Marten.Mcp@1.1.0
+- pkg:nuget/Marten.Mcp@1.1.1
+- pkg:nuget/Marten.Mcp@1.2.0
