@@ -1,3 +1,11 @@
+- pkg:nuget/Soenneker.Lepton.Suite@11.0.135
+- pkg:nuget/Soenneker.Lepton.Suite@11.0.136
+- pkg:nuget/Soenneker.Lepton.Suite@11.0.138
+- pkg:nuget/Soenneker.Lepton.Suite@11.0.142
+- pkg:nuget/Soenneker.Lepton.Suite@4.0.101
+- pkg:nuget/Soenneker.Lepton.Suite@4.0.118
+- pkg:nuget/Soenneker.Lepton.Suite@4.0.120
+- pkg:nuget/Soenneker.Lepton.Suite@4.0.128
 - pkg:nuget/Soenneker.Lepton.Suite@4.0.14
 - pkg:nuget/Soenneker.Lepton.Suite@4.0.20
 - pkg:nuget/Soenneker.Lepton.Suite@4.0.24
