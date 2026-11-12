@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@11.0.119
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@11.0.122
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@11.0.129
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@11.0.131
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@11.0.135
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.20
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.30
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.39
@@ -8,3 +13,5 @@
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.6
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.61
 - pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.71
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.85
+- pkg:nuget/Soenneker.Clay.OpenApiClientUtil@4.0.97
