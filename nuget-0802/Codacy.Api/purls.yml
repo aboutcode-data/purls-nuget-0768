@@ -2,3 +2,5 @@
 - pkg:nuget/Codacy.Api@3.0.19
 - pkg:nuget/Codacy.Api@3.0.21
 - pkg:nuget/Codacy.Api@3.0.22
+- pkg:nuget/Codacy.Api@3.0.35
+- pkg:nuget/Codacy.Api@4.0.38
