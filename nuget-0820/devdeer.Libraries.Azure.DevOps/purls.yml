@@ -14,3 +14,4 @@
 - pkg:nuget/devdeer.Libraries.Azure.DevOps@0.0.7-alpha
 - pkg:nuget/devdeer.Libraries.Azure.DevOps@0.0.8-alpha
 - pkg:nuget/devdeer.Libraries.Azure.DevOps@0.0.9-alpha
+- pkg:nuget/devdeer.Libraries.Azure.DevOps@0.2.0-alpha
