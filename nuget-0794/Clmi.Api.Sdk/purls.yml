@@ -583,4 +583,5 @@
 - pkg:nuget/Clmi.Api.Sdk@5.0.22
 - pkg:nuget/Clmi.Api.Sdk@5.0.3
 - pkg:nuget/Clmi.Api.Sdk@5.0.35
+- pkg:nuget/Clmi.Api.Sdk@5.0.38
 - pkg:nuget/Clmi.Api.Sdk@5.0.8
