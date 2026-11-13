@@ -10,6 +10,7 @@
 - pkg:nuget/SharpConsoleUI@0.2.3
 - pkg:nuget/SharpConsoleUI@2.0.0
 - pkg:nuget/SharpConsoleUI@2.10.10
+- pkg:nuget/SharpConsoleUI@2.10.13
 - pkg:nuget/SharpConsoleUI@2.10.7
 - pkg:nuget/SharpConsoleUI@2.10.8
 - pkg:nuget/SharpConsoleUI@2.4.13
