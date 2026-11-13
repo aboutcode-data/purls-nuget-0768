@@ -122,6 +122,9 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4132-update-credfeto
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4150-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4151-main
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4158-tracking-cache
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4159-pull-367-merge
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.20.4160-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-arm64@1.5.3.3149-unit-tests-depe
