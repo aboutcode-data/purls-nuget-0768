@@ -33,4 +33,7 @@
 - pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.40
 - pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.40-alpha.1
 - pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.42
+- pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.43
+- pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.47
+- pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.48
 - pkg:nuget/Dosaic.Plugins.Validations.AttributeValidation@1.2.5
