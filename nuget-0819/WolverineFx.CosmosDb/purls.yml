@@ -26,3 +26,4 @@
 - pkg:nuget/WolverineFx.CosmosDb@6.63.0
 - pkg:nuget/WolverineFx.CosmosDb@6.64.0
 - pkg:nuget/WolverineFx.CosmosDb@6.7.0
+- pkg:nuget/WolverineFx.CosmosDb@7.0.0-alpha.2
