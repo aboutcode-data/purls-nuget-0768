@@ -386,6 +386,7 @@
 - pkg:nuget/DubUrl.OleDb@0.55.0
 - pkg:nuget/DubUrl.OleDb@0.56.0
 - pkg:nuget/DubUrl.OleDb@0.6.0
+- pkg:nuget/DubUrl.OleDb@0.64.0
 - pkg:nuget/DubUrl.OleDb@0.7.0
 - pkg:nuget/DubUrl.OleDb@0.7.1
 - pkg:nuget/DubUrl.OleDb@0.7.2
