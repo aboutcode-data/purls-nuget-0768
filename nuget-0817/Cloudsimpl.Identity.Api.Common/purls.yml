@@ -23,3 +23,5 @@
 - pkg:nuget/Cloudsimpl.Identity.Api.Common@1.0.8
 - pkg:nuget/Cloudsimpl.Identity.Api.Common@1.0.9
 - pkg:nuget/Cloudsimpl.Identity.Api.Common@1.1.2
+- pkg:nuget/Cloudsimpl.Identity.Api.Common@4.0.9
+- pkg:nuget/Cloudsimpl.Identity.Api.Common@5.0.0
