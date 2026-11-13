@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.NotificationCenter.Blazor.WebAssembly@10.0.0
+- pkg:nuget/ZhileTime.Hope.NotificationCenter.Blazor.WebAssembly@12.0.0
 - pkg:nuget/ZhileTime.Hope.NotificationCenter.Blazor.WebAssembly@2.1.0
 - pkg:nuget/ZhileTime.Hope.NotificationCenter.Blazor.WebAssembly@2.2.0
 - pkg:nuget/ZhileTime.Hope.NotificationCenter.Blazor.WebAssembly@2.2.1
