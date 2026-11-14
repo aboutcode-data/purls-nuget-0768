@@ -95,3 +95,4 @@
 - pkg:nuget/LaunchDarkly.ServerSdk@8.9.0
 - pkg:nuget/LaunchDarkly.ServerSdk@8.9.1
 - pkg:nuget/LaunchDarkly.ServerSdk@8.9.2
+- pkg:nuget/LaunchDarkly.ServerSdk@9.0.0-alpha.1
