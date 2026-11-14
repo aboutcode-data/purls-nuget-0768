@@ -69,3 +69,11 @@
 - pkg:nuget/Microi.HDFS@8.4.6
 - pkg:nuget/Microi.HDFS@8.5.0
 - pkg:nuget/Microi.HDFS@8.5.1
+- pkg:nuget/Microi.HDFS@8.5.13
+- pkg:nuget/Microi.HDFS@8.6.4
+- pkg:nuget/Microi.HDFS@8.7.1
+- pkg:nuget/Microi.HDFS@8.7.12
+- pkg:nuget/Microi.HDFS@8.7.5
+- pkg:nuget/Microi.HDFS@8.9.2
+- pkg:nuget/Microi.HDFS@8.9.4
+- pkg:nuget/Microi.HDFS@9.0.1
