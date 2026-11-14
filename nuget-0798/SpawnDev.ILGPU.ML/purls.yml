@@ -4,4 +4,12 @@
 - pkg:nuget/SpawnDev.ILGPU.ML@5.2.14
 - pkg:nuget/SpawnDev.ILGPU.ML@5.2.3
 - pkg:nuget/SpawnDev.ILGPU.ML@5.2.36
+- pkg:nuget/SpawnDev.ILGPU.ML@5.3.15
+- pkg:nuget/SpawnDev.ILGPU.ML@5.3.21
+- pkg:nuget/SpawnDev.ILGPU.ML@5.3.23
 - pkg:nuget/SpawnDev.ILGPU.ML@5.3.3
+- pkg:nuget/SpawnDev.ILGPU.ML@5.4.0
+- pkg:nuget/SpawnDev.ILGPU.ML@5.7.0
+- pkg:nuget/SpawnDev.ILGPU.ML@5.8.11
+- pkg:nuget/SpawnDev.ILGPU.ML@5.8.13
+- pkg:nuget/SpawnDev.ILGPU.ML@5.8.8
