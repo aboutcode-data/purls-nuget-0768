@@ -1042,6 +1042,8 @@
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.157.2491-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.157.2492-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.159.2521-dotnet-sdk-11-0
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.160.2561-main
+- pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.160.2562-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.28.714
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.29.715-main
 - pkg:nuget/Credfeto.Enumeration.Source.Generation@1.2.29.716
