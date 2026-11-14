@@ -76,3 +76,5 @@
 - pkg:nuget/JOS.Enumeration.Database.EntityFrameworkCore@5.1.7-beta-gde2fcc267f
 - pkg:nuget/JOS.Enumeration.Database.EntityFrameworkCore@6.1.8-beta-g9e94e798e5
 - pkg:nuget/JOS.Enumeration.Database.EntityFrameworkCore@6.2.17-beta-ga696d663f2
+- pkg:nuget/JOS.Enumeration.Database.EntityFrameworkCore@6.2.18-beta-g2c42e38e6e
+- pkg:nuget/JOS.Enumeration.Database.EntityFrameworkCore@6.2.19-beta-g7747da842e
