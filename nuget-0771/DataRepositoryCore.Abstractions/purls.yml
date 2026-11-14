@@ -6,6 +6,8 @@
 - pkg:nuget/DataRepositoryCore.Abstractions@0.8.0
 - pkg:nuget/DataRepositoryCore.Abstractions@0.9.0
 - pkg:nuget/DataRepositoryCore.Abstractions@10.0.14
+- pkg:nuget/DataRepositoryCore.Abstractions@11.0.0
+- pkg:nuget/DataRepositoryCore.Abstractions@11.0.1
 - pkg:nuget/DataRepositoryCore.Abstractions@2.1.0
 - pkg:nuget/DataRepositoryCore.Abstractions@2.1.1
 - pkg:nuget/DataRepositoryCore.Abstractions@6.0.4
