@@ -1,3 +1,11 @@
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.186
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.188
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.195
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.198
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.202
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.203
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.205
+- pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@11.0.206
 - pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@4.0.10
 - pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@4.0.100
 - pkg:nuget/Soenneker.Wikimedia.OpenApiClientUtil@4.0.107
