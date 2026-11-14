@@ -33,6 +33,16 @@
 - pkg:nuget/Lakona.Game.Server@0.49.24
 - pkg:nuget/Lakona.Game.Server@0.51.4
 - pkg:nuget/Lakona.Game.Server@0.53.1
+- pkg:nuget/Lakona.Game.Server@0.53.11
+- pkg:nuget/Lakona.Game.Server@0.53.20
+- pkg:nuget/Lakona.Game.Server@0.53.25
+- pkg:nuget/Lakona.Game.Server@0.53.34
+- pkg:nuget/Lakona.Game.Server@0.53.45
+- pkg:nuget/Lakona.Game.Server@0.53.6
+- pkg:nuget/Lakona.Game.Server@0.53.7
+- pkg:nuget/Lakona.Game.Server@0.54.0
+- pkg:nuget/Lakona.Game.Server@0.54.3
+- pkg:nuget/Lakona.Game.Server@0.54.8
 - pkg:nuget/Lakona.Game.Server@0.8.0
 - pkg:nuget/Lakona.Game.Server@0.8.35
 - pkg:nuget/Lakona.Game.Server@0.9.1
