@@ -32,3 +32,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.PipelineCache.WebApi@20.276.37607-buildid31881983
 - pkg:nuget/Microsoft.VisualStudio.Services.PipelineCache.WebApi@20.278.37626-buildid31967067
 - pkg:nuget/Microsoft.VisualStudio.Services.PipelineCache.WebApi@20.278.37721-buildid32097046
+- pkg:nuget/Microsoft.VisualStudio.Services.PipelineCache.WebApi@20.282.37909-buildid32538504
