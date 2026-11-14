@@ -13,3 +13,4 @@
 - pkg:nuget/raylib@4.5.0
 - pkg:nuget/raylib@5.0.0
 - pkg:nuget/raylib@5.5.0
+- pkg:nuget/raylib@6.2.0
