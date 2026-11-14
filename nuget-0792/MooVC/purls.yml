@@ -15,6 +15,7 @@
 - pkg:nuget/MooVC@1.2.0-CI-20190925-124608
 - pkg:nuget/MooVC@1.2.0-CI-20191025-080553
 - pkg:nuget/MooVC@1.2.0-CI-20191025-080810
+- pkg:nuget/MooVC@10.0.3
 - pkg:nuget/MooVC@2.0.0
 - pkg:nuget/MooVC@2.0.0-alpha0028
 - pkg:nuget/MooVC@2.0.0-alpha0029
