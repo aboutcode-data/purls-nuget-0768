@@ -17,3 +17,6 @@
 - pkg:nuget/EasyAdminBlazor@2.2.1
 - pkg:nuget/EasyAdminBlazor@2.2.16
 - pkg:nuget/EasyAdminBlazor@2.2.2
+- pkg:nuget/EasyAdminBlazor@2.4.1
+- pkg:nuget/EasyAdminBlazor@2.6.0
+- pkg:nuget/EasyAdminBlazor@2.6.1
