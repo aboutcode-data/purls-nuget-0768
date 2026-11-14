@@ -5,3 +5,7 @@
 - pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@25.2.9
 - pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.2-beta
 - pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.4
+- pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.4-pre-26190
+- pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.5
+- pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.5-pre-26227
+- pkg:nuget/DevExpress.ExpressApp.ReportsV2.Blazor.es@26.1.6-pre-26270
