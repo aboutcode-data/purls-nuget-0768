@@ -1,2 +1,6 @@
 - pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@2.1.0
 - pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@4.1.0
+- pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@5.7.0
+- pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@6.1.0
+- pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@6.3.0
+- pkg:nuget/MASS4.Guinevere.OpenGL.OpenTK@6.6.0

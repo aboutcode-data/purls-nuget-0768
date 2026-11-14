@@ -1,1 +1,12 @@
 - pkg:nuget/Quartz.Dashboard@3.17.0
+- pkg:nuget/Quartz.Dashboard@3.22.1
+- pkg:nuget/Quartz.Dashboard@3.22.4
+- pkg:nuget/Quartz.Dashboard@3.22.5
+- pkg:nuget/Quartz.Dashboard@4.0.0-alpha.1
+- pkg:nuget/Quartz.Dashboard@4.0.0-alpha.3
+- pkg:nuget/Quartz.Dashboard@4.0.0-beta.1
+- pkg:nuget/Quartz.Dashboard@4.1.1
+- pkg:nuget/Quartz.Dashboard@4.2.0
+- pkg:nuget/Quartz.Dashboard@4.3.0
+- pkg:nuget/Quartz.Dashboard@4.5.0
+- pkg:nuget/Quartz.Dashboard@4.5.1
