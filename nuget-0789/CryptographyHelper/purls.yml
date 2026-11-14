@@ -7,3 +7,4 @@
 - pkg:nuget/CryptographyHelper@2.0.0
 - pkg:nuget/CryptographyHelper@3.0.0
 - pkg:nuget/CryptographyHelper@3.1.0
+- pkg:nuget/CryptographyHelper@5.0.0
