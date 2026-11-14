@@ -33,3 +33,4 @@
 - pkg:nuget/Skyline.DataMiner.Sdk@2.4.3
 - pkg:nuget/Skyline.DataMiner.Sdk@2.4.7
 - pkg:nuget/Skyline.DataMiner.Sdk@2.5.1
+- pkg:nuget/Skyline.DataMiner.Sdk@2.7.1
