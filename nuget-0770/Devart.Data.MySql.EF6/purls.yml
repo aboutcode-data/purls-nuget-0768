@@ -1,4 +1,5 @@
 - pkg:nuget/Devart.Data.MySql.EF6@10.0.0
+- pkg:nuget/Devart.Data.MySql.EF6@10.3.248
 - pkg:nuget/Devart.Data.MySql.EF6@8.14.1470-preview
 - pkg:nuget/Devart.Data.MySql.EF6@8.15.1499
 - pkg:nuget/Devart.Data.MySql.EF6@8.15.1504
