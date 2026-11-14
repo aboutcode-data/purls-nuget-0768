@@ -53,3 +53,4 @@
 - pkg:nuget/OpenIddict.Client.AspNetCore@7.1.0
 - pkg:nuget/OpenIddict.Client.AspNetCore@7.2.0
 - pkg:nuget/OpenIddict.Client.AspNetCore@7.3.0
+- pkg:nuget/OpenIddict.Client.AspNetCore@8.0.0-preview.6.26564.67
