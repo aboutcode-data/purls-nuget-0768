@@ -6,3 +6,4 @@
 - pkg:nuget/OpenSearch.Net.Auth.AwsSigV4@1.7.0
 - pkg:nuget/OpenSearch.Net.Auth.AwsSigV4@1.7.1
 - pkg:nuget/OpenSearch.Net.Auth.AwsSigV4@1.8.0
+- pkg:nuget/OpenSearch.Net.Auth.AwsSigV4@2.2.0
