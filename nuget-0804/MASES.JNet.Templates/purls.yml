@@ -53,6 +53,7 @@
 - pkg:nuget/MASES.JNet.Templates@2.5.9
 - pkg:nuget/MASES.JNet.Templates@2.6.0
 - pkg:nuget/MASES.JNet.Templates@2.6.1
+- pkg:nuget/MASES.JNet.Templates@2.6.10-preview20261016
 - pkg:nuget/MASES.JNet.Templates@2.6.2
 - pkg:nuget/MASES.JNet.Templates@2.6.3
 - pkg:nuget/MASES.JNet.Templates@2.6.4
