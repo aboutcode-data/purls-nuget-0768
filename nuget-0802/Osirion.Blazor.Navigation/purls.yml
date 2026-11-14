@@ -14,3 +14,5 @@
 - pkg:nuget/Osirion.Blazor.Navigation@2.1.7
 - pkg:nuget/Osirion.Blazor.Navigation@2.1.8
 - pkg:nuget/Osirion.Blazor.Navigation@2.1.9
+- pkg:nuget/Osirion.Blazor.Navigation@4.0.0
+- pkg:nuget/Osirion.Blazor.Navigation@4.4.2
