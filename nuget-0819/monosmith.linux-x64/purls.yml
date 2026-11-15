@@ -58,6 +58,9 @@
 - pkg:nuget/monosmith.linux-x64@2.36.0
 - pkg:nuget/monosmith.linux-x64@2.38.0
 - pkg:nuget/monosmith.linux-x64@2.40.0
+- pkg:nuget/monosmith.linux-x64@2.48.0
+- pkg:nuget/monosmith.linux-x64@2.48.2
+- pkg:nuget/monosmith.linux-x64@2.48.3
 - pkg:nuget/monosmith.linux-x64@2.5.0
 - pkg:nuget/monosmith.linux-x64@2.8.0
 - pkg:nuget/monosmith.linux-x64@2.9.0
