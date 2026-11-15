@@ -2,6 +2,7 @@
 - pkg:nuget/PolyfillLib@10.11.1
 - pkg:nuget/PolyfillLib@10.11.2
 - pkg:nuget/PolyfillLib@10.8.0
+- pkg:nuget/PolyfillLib@11.4.3
 - pkg:nuget/PolyfillLib@8.0.0
 - pkg:nuget/PolyfillLib@8.0.0-beta.4
 - pkg:nuget/PolyfillLib@8.0.0-beta.5
