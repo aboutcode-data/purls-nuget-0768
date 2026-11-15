@@ -5,3 +5,4 @@
 - pkg:nuget/FluentAssertions.Web.v8@1.9.5
 - pkg:nuget/FluentAssertions.Web.v8@2.0.1
 - pkg:nuget/FluentAssertions.Web.v8@2.0.5
+- pkg:nuget/FluentAssertions.Web.v8@3.0.3
