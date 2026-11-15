@@ -249,6 +249,7 @@
 - pkg:nuget/Soenneker.Cosmos.Database@11.0.2797
 - pkg:nuget/Soenneker.Cosmos.Database@11.0.2801
 - pkg:nuget/Soenneker.Cosmos.Database@11.0.2802
+- pkg:nuget/Soenneker.Cosmos.Database@11.0.2803
 - pkg:nuget/Soenneker.Cosmos.Database@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Database@2.0.2
 - pkg:nuget/Soenneker.Cosmos.Database@2.0.245
