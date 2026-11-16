@@ -19,3 +19,4 @@
 - pkg:nuget/Clarity.Runtime.Sqlite@0.90.0
 - pkg:nuget/Clarity.Runtime.Sqlite@0.91.0
 - pkg:nuget/Clarity.Runtime.Sqlite@0.93.0
+- pkg:nuget/Clarity.Runtime.Sqlite@0.98.0
