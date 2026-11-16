@@ -211,12 +211,14 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-beta.229.67633
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-beta.232.67700
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-beta.238.67771
+- pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-beta.242.67869
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-claude-issue-1196-ask-user.1.67014
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-codex-scriptbox-temporary-runs.1.66790
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.11.0-codex-scriptbox-temporary-runs.1.66793
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-1097-machine-install.1.67440
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-1097-machine-install.1.67442
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-1097-machine-install.1.67449
+- pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1269.107.67875
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1300.188.67501
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1302.16.67450
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1315.13.67525
@@ -244,6 +246,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1359.2.67697
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1361.41.67711
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1365.41.67712
+- pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1366.154.67874
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1375.2.67735
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1410.77.67786
 - pkg:nuget/CW.Assistant.Extensions.Revit.2022@26.12.0-PullRequest1443.13.67865
