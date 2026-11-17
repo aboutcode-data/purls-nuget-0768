@@ -23,5 +23,6 @@
 - pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.65
 - pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.7
 - pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.70
+- pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.74
 - pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.8
 - pkg:nuget/Raster.BarcodeGenerator.PDF.Source.Code128@12.3.5.9
