@@ -28,3 +28,4 @@
 - pkg:nuget/JetBrains.Platform.Core.AgentModelContext@262.0.20260909.200126
 - pkg:nuget/JetBrains.Platform.Core.AgentModelContext@262.0.20260924.172949
 - pkg:nuget/JetBrains.Platform.Core.AgentModelContext@262.0.20261030.12655
+- pkg:nuget/JetBrains.Platform.Core.AgentModelContext@262.0.20261116.82835
