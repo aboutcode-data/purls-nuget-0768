@@ -72,4 +72,5 @@
 - pkg:nuget/GroupDocs.Metadata@25.6.0
 - pkg:nuget/GroupDocs.Metadata@25.7.0
 - pkg:nuget/GroupDocs.Metadata@25.8.0
+- pkg:nuget/GroupDocs.Metadata@26.11.0
 - pkg:nuget/GroupDocs.Metadata@26.3.0
