@@ -18,6 +18,7 @@
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.130.2
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.134.2
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.137.1
+- pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.151.1-validation.1
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.92.1
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.92.3
 - pkg:nuget/AiDotNet.Native.CUDA.Fragments.1@0.93.1
