@@ -184,4 +184,5 @@
 - pkg:nuget/SharpAbp.Abp.AuditLogging.Domain@4.6.9
 - pkg:nuget/SharpAbp.Abp.AuditLogging.Domain@4.7.10
 - pkg:nuget/SharpAbp.Abp.AuditLogging.Domain@4.7.5
+- pkg:nuget/SharpAbp.Abp.AuditLogging.Domain@4.8.0
 - pkg:nuget/SharpAbp.Abp.AuditLogging.Domain@6.0.1
