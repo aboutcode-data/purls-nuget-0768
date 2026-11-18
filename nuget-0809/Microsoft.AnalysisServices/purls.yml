@@ -2,6 +2,7 @@
 - pkg:nuget/Microsoft.AnalysisServices@19.101.1
 - pkg:nuget/Microsoft.AnalysisServices@19.103.2
 - pkg:nuget/Microsoft.AnalysisServices@19.104.1
+- pkg:nuget/Microsoft.AnalysisServices@19.120.1
 - pkg:nuget/Microsoft.AnalysisServices@19.84.1
 - pkg:nuget/Microsoft.AnalysisServices@19.84.10
 - pkg:nuget/Microsoft.AnalysisServices@19.84.6
