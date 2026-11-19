@@ -24,4 +24,6 @@
 - pkg:nuget/RailReader.Core.Vlm.OpenAI@0.81.0
 - pkg:nuget/RailReader.Core.Vlm.OpenAI@0.82.2
 - pkg:nuget/RailReader.Core.Vlm.OpenAI@0.83.1
+- pkg:nuget/RailReader.Core.Vlm.OpenAI@0.88.0
+- pkg:nuget/RailReader.Core.Vlm.OpenAI@0.89.0
 - pkg:nuget/RailReader.Core.Vlm.OpenAI@0.9.0
