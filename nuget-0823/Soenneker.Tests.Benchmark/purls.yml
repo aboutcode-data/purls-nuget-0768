@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Tests.Benchmark@11.0.232
 - pkg:nuget/Soenneker.Tests.Benchmark@11.0.238
 - pkg:nuget/Soenneker.Tests.Benchmark@11.0.242
+- pkg:nuget/Soenneker.Tests.Benchmark@11.0.248
 - pkg:nuget/Soenneker.Tests.Benchmark@3.0.1
 - pkg:nuget/Soenneker.Tests.Benchmark@3.0.10
 - pkg:nuget/Soenneker.Tests.Benchmark@3.0.11
