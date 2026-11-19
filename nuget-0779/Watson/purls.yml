@@ -147,3 +147,4 @@
 - pkg:nuget/Watson@7.0.8
 - pkg:nuget/Watson@7.1.1
 - pkg:nuget/Watson@7.2.1
+- pkg:nuget/Watson@7.3.3
