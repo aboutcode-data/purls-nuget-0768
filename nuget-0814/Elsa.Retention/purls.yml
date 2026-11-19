@@ -31,6 +31,7 @@
 - pkg:nuget/Elsa.Retention@2.9.2-rc2
 - pkg:nuget/Elsa.Retention@2.9.3
 - pkg:nuget/Elsa.Retention@2.9.3-rc1
+- pkg:nuget/Elsa.Retention@3.10.2
 - pkg:nuget/Elsa.Retention@3.3.0
 - pkg:nuget/Elsa.Retention@3.3.0-rc1
 - pkg:nuget/Elsa.Retention@3.3.0-rc2
