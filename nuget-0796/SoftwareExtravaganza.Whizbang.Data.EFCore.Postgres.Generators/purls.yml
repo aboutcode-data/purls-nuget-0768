@@ -106,6 +106,8 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.157
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.1637
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.1642
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.1737
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.1742
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.275
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.338
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Data.EFCore.Postgres.Generators@0.2627.0-alpha.473
