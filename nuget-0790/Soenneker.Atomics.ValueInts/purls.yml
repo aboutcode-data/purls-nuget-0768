@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Atomics.ValueInts@11.0.43
 - pkg:nuget/Soenneker.Atomics.ValueInts@4.0.12
 - pkg:nuget/Soenneker.Atomics.ValueInts@4.0.14
 - pkg:nuget/Soenneker.Atomics.ValueInts@4.0.23
