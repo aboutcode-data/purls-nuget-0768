@@ -215,6 +215,7 @@
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.3.9
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.30.4
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.30.7
+- pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.30.8
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.4.0
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.4.1
 - pkg:nuget/Dynamicweb.Frontend.Classic.Api.Content@10.4.2
