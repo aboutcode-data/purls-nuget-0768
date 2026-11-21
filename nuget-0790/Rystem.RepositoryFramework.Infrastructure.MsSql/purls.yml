@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.MsSql@10.0.7
+- pkg:nuget/Rystem.RepositoryFramework.Infrastructure.MsSql@11.1.0-beta.3
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.MsSql@3.0.11
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.MsSql@3.0.12
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.MsSql@3.0.13
