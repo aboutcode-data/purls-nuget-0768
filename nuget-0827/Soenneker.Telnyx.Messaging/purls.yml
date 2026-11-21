@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Telnyx.Messaging@11.0.136
 - pkg:nuget/Soenneker.Telnyx.Messaging@11.0.141
 - pkg:nuget/Soenneker.Telnyx.Messaging@11.0.159
+- pkg:nuget/Soenneker.Telnyx.Messaging@11.0.174
 - pkg:nuget/Soenneker.Telnyx.Messaging@4.0.105
 - pkg:nuget/Soenneker.Telnyx.Messaging@4.0.112
 - pkg:nuget/Soenneker.Telnyx.Messaging@4.0.115
