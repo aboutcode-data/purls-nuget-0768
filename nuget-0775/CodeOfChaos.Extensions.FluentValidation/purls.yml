@@ -54,3 +54,4 @@
 - pkg:nuget/CodeOfChaos.Extensions.FluentValidation@0.81.1
 - pkg:nuget/CodeOfChaos.Extensions.FluentValidation@0.83.1
 - pkg:nuget/CodeOfChaos.Extensions.FluentValidation@0.89.0
+- pkg:nuget/CodeOfChaos.Extensions.FluentValidation@0.94.1
