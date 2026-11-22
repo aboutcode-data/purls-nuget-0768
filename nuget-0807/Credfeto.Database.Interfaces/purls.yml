@@ -1152,6 +1152,8 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.233.2960-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.234.2969-remove-unconsum
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.235.2970-main
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.235.2974
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.236.2973-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.24.694-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.24.695
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.25.696-main
