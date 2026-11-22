@@ -48,3 +48,4 @@
 - pkg:nuget/MTConnect.NET-Common@6.6.0
 - pkg:nuget/MTConnect.NET-Common@6.7.0
 - pkg:nuget/MTConnect.NET-Common@6.8.0
+- pkg:nuget/MTConnect.NET-Common@7.2.0.105
