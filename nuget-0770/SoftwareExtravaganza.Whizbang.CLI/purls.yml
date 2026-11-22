@@ -136,6 +136,7 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.42.1-alpha.69
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.4457.0
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.4522.0-alpha.120
+- pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.4522.0-alpha.133
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.4522.0-alpha.9
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.502.1-alpha.25
 - pkg:nuget/SoftwareExtravaganza.Whizbang.CLI@0.54.2-alpha.76
