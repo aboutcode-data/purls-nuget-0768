@@ -12,3 +12,5 @@
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Abstractions@1.0.0.81
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Abstractions@1.0.0.86
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Abstractions@2.0.106
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Abstractions@2.0.121
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Abstractions@3.0.122
