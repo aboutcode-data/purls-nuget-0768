@@ -1,3 +1,4 @@
 - pkg:nuget/Xake.Dotnet@1.1.0.2-alpha
 - pkg:nuget/Xake.Dotnet@1.1.0.4-alpha
 - pkg:nuget/Xake.Dotnet@1.1.4.7-beta
+- pkg:nuget/Xake.Dotnet@5.0.0
