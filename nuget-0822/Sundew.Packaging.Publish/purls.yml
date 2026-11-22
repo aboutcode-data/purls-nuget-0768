@@ -7,6 +7,7 @@
 - pkg:nuget/Sundew.Packaging.Publish@10.0.1-u20231128-233126-ci%2Bac7ac72345
 - pkg:nuget/Sundew.Packaging.Publish@10.0.10-u20250427-204945-ci%2B0c15b0f811
 - pkg:nuget/Sundew.Packaging.Publish@10.0.17
+- pkg:nuget/Sundew.Packaging.Publish@10.0.18-u20261121-224050-ci
 - pkg:nuget/Sundew.Packaging.Publish@10.0.2%2B643877f556
 - pkg:nuget/Sundew.Packaging.Publish@10.0.3%2Bfdbaa4ae2d
 - pkg:nuget/Sundew.Packaging.Publish@10.0.4%2B05adecff30
