@@ -314,4 +314,5 @@
 - pkg:nuget/DryIoc.MefAttributedModel.dll@6.2.0
 - pkg:nuget/DryIoc.MefAttributedModel.dll@7.0.0
 - pkg:nuget/DryIoc.MefAttributedModel.dll@7.0.2
+- pkg:nuget/DryIoc.MefAttributedModel.dll@8.0.0
 - pkg:nuget/DryIoc.MefAttributedModel.dll@8.0.0-preview-01
