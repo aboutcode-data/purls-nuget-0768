@@ -32,6 +32,7 @@
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@6.1.1
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@6.2.0
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@6.2.0-preview-01
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection@8.0.0
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@8.0.0-preview-01
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@8.0.0-preview-02
 - pkg:nuget/DryIoc.Microsoft.DependencyInjection@8.0.0-preview-03
