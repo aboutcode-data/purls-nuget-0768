@@ -4,4 +4,5 @@
 - pkg:nuget/Fuaran.Core.AiSurface@0.25.0
 - pkg:nuget/Fuaran.Core.AiSurface@0.40.1
 - pkg:nuget/Fuaran.Core.AiSurface@0.42.0
+- pkg:nuget/Fuaran.Core.AiSurface@0.45.0
 - pkg:nuget/Fuaran.Core.AiSurface@0.6.0
