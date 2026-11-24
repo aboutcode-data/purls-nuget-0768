@@ -28,6 +28,8 @@
 - pkg:nuget/PatternKit.Core@0.147.27
 - pkg:nuget/PatternKit.Core@0.147.31
 - pkg:nuget/PatternKit.Core@0.147.35
+- pkg:nuget/PatternKit.Core@0.147.38
+- pkg:nuget/PatternKit.Core@0.147.39
 - pkg:nuget/PatternKit.Core@0.147.4
 - pkg:nuget/PatternKit.Core@0.147.5
 - pkg:nuget/PatternKit.Core@0.147.9
