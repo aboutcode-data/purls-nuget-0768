@@ -2,6 +2,7 @@
 - pkg:nuget/FireSoft.Core@10.0.6
 - pkg:nuget/FireSoft.Core@10.0.8
 - pkg:nuget/FireSoft.Core@11.0.0
+- pkg:nuget/FireSoft.Core@11.0.2
 - pkg:nuget/FireSoft.Core@6.0.1
 - pkg:nuget/FireSoft.Core@6.0.1.5
 - pkg:nuget/FireSoft.Core@6.0.1.6
