@@ -108,6 +108,11 @@
 - pkg:nuget/Material.Avalonia.DataGrid@3.2.5-nightly.0.10
 - pkg:nuget/Material.Avalonia.DataGrid@3.2.5-nightly.0.7
 - pkg:nuget/Material.Avalonia.DataGrid@3.2.5-nightly.0.8
+- pkg:nuget/Material.Avalonia.DataGrid@3.20.1-nightly.2
+- pkg:nuget/Material.Avalonia.DataGrid@3.21.1-nightly.2
+- pkg:nuget/Material.Avalonia.DataGrid@3.22.0
+- pkg:nuget/Material.Avalonia.DataGrid@3.22.1-nightly.1
+- pkg:nuget/Material.Avalonia.DataGrid@3.22.1-nightly.2
 - pkg:nuget/Material.Avalonia.DataGrid@3.3.0
 - pkg:nuget/Material.Avalonia.DataGrid@3.3.1-nightly.0.1
 - pkg:nuget/Material.Avalonia.DataGrid@3.3.1-nightly.0.2
