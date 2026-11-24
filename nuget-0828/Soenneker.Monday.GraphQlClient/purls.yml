@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Monday.GraphQlClient@11.0.124
 - pkg:nuget/Soenneker.Monday.GraphQlClient@11.0.126
 - pkg:nuget/Soenneker.Monday.GraphQlClient@11.0.130
+- pkg:nuget/Soenneker.Monday.GraphQlClient@11.0.135
 - pkg:nuget/Soenneker.Monday.GraphQlClient@4.0.10
 - pkg:nuget/Soenneker.Monday.GraphQlClient@4.0.100
 - pkg:nuget/Soenneker.Monday.GraphQlClient@4.0.101
