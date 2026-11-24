@@ -481,6 +481,7 @@
 - pkg:nuget/JetBrains.Platform.Core.Shell@253.0.20260318.145348
 - pkg:nuget/JetBrains.Platform.Core.Shell@253.0.20260827.134005
 - pkg:nuget/JetBrains.Platform.Core.Shell@253.0.20261029.110910
+- pkg:nuget/JetBrains.Platform.Core.Shell@253.0.20261123.83916
 - pkg:nuget/JetBrains.Platform.Core.Shell@261.0.20260203.83624-eap03
 - pkg:nuget/JetBrains.Platform.Core.Shell@261.0.20260305.200213-eap07
 - pkg:nuget/JetBrains.Platform.Core.Shell@261.0.20260319.155754-rc01
