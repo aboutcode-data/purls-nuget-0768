@@ -93,6 +93,7 @@
 - pkg:nuget/Benevia.Core.DataGenerator@0.10.5-ci.738
 - pkg:nuget/Benevia.Core.DataGenerator@0.10.5-ci.758
 - pkg:nuget/Benevia.Core.DataGenerator@0.10.5-ci.764
+- pkg:nuget/Benevia.Core.DataGenerator@0.10.5-ci.772
 - pkg:nuget/Benevia.Core.DataGenerator@0.8.1
 - pkg:nuget/Benevia.Core.DataGenerator@0.8.1-ci.12
 - pkg:nuget/Benevia.Core.DataGenerator@0.8.3
