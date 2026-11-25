@@ -2,3 +2,5 @@
 - pkg:nuget/CodexFlow.Core@0.1.2
 - pkg:nuget/CodexFlow.Core@0.2.4
 - pkg:nuget/CodexFlow.Core@0.2.6
+- pkg:nuget/CodexFlow.Core@0.2.7
+- pkg:nuget/CodexFlow.Core@0.2.8

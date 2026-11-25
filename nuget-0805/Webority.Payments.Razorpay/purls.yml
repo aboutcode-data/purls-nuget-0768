@@ -12,5 +12,6 @@
 - pkg:nuget/Webority.Payments.Razorpay@0.42.0
 - pkg:nuget/Webority.Payments.Razorpay@0.45.0
 - pkg:nuget/Webority.Payments.Razorpay@0.45.1
+- pkg:nuget/Webority.Payments.Razorpay@0.45.3
 - pkg:nuget/Webority.Payments.Razorpay@0.7.0
 - pkg:nuget/Webority.Payments.Razorpay@0.9.1
