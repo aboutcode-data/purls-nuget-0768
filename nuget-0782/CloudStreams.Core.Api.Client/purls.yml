@@ -41,4 +41,5 @@
 - pkg:nuget/CloudStreams.Core.Api.Client@0.8.0
 - pkg:nuget/CloudStreams.Core.Api.Client@0.81.0
 - pkg:nuget/CloudStreams.Core.Api.Client@0.82.0
+- pkg:nuget/CloudStreams.Core.Api.Client@0.84.0
 - pkg:nuget/CloudStreams.Core.Api.Client@0.9.0
