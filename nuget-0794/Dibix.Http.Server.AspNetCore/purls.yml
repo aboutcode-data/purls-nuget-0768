@@ -49,4 +49,5 @@
 - pkg:nuget/Dibix.Http.Server.AspNetCore@1.7.231
 - pkg:nuget/Dibix.Http.Server.AspNetCore@1.7.96
 - pkg:nuget/Dibix.Http.Server.AspNetCore@1.8.1
+- pkg:nuget/Dibix.Http.Server.AspNetCore@1.8.17
 - pkg:nuget/Dibix.Http.Server.AspNetCore@1.8.7
