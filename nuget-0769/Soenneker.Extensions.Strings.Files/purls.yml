@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.262
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.263
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.267
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.269
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.271
+- pkg:nuget/Soenneker.Extensions.Strings.Files@11.0.272
 - pkg:nuget/Soenneker.Extensions.Strings.Files@3.0.1
 - pkg:nuget/Soenneker.Extensions.Strings.Files@3.0.10
 - pkg:nuget/Soenneker.Extensions.Strings.Files@3.0.11
@@ -34,7 +40,10 @@
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.206
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.220
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.224
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.230
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.232
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.24
+- pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.242
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.30
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.36
 - pkg:nuget/Soenneker.Extensions.Strings.Files@4.0.42
