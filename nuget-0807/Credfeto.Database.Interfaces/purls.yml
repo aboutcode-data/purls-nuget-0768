@@ -1162,6 +1162,7 @@
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.240.3006-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.240.3011-update-microsof
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.240.3012-pull-206-merge
+- pkg:nuget/Credfeto.Database.Interfaces@1.2.240.3013-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.25.696-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.25.697-main
 - pkg:nuget/Credfeto.Database.Interfaces@1.2.25.698-main
