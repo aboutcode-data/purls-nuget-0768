@@ -33,6 +33,7 @@
 - pkg:nuget/Storm.Api.Dtos@1.0.5
 - pkg:nuget/Storm.Api.Dtos@1.0.6
 - pkg:nuget/Storm.Api.Dtos@1.0.7
+- pkg:nuget/Storm.Api.Dtos@10.1.0
 - pkg:nuget/Storm.Api.Dtos@2.0.0
 - pkg:nuget/Storm.Api.Dtos@2.0.1
 - pkg:nuget/Storm.Api.Dtos@2.0.10
