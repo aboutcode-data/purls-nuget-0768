@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Pdf@11.0.20262.349
 - pkg:nuget/C1.Pdf@5.0.20232.14-beta
 - pkg:nuget/C1.Pdf@5.0.20233.26-beta
 - pkg:nuget/C1.Pdf@6.0.20223.584
