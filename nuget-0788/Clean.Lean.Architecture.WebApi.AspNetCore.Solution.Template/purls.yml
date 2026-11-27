@@ -7,6 +7,7 @@
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@0.4.0
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@0.5.0
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@10.1.0
+- pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@10.2.0
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@8.0.0
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@8.1.0
 - pkg:nuget/Clean.Lean.Architecture.WebApi.AspNetCore.Solution.Template@8.2.0
