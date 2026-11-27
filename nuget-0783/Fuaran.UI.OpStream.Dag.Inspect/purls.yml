@@ -1,6 +1,10 @@
+- pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.104.0
+- pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.105.0
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.12.0
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.26.0
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.71.0
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.75.0
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.78.1
 - pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.80.0
+- pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.88.0
+- pkg:nuget/Fuaran.UI.OpStream.Dag.Inspect@0.92.0
