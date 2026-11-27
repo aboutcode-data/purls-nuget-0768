@@ -1,1 +1,9 @@
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@1.0.0-alpha.26357.13
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@1.0.0-alpha.26358.12
 - pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@1.0.0-alpha.26363.8
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@1.0.0-alpha.26377.5
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@2.4.0
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@2.4.1
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@2.5.0
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@2.5.1
+- pkg:nuget/Microsoft.Testing.Extensions.PackagedApp@2.5.2
