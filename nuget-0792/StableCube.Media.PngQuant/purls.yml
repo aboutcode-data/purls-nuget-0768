@@ -1,1 +1,3 @@
 - pkg:nuget/StableCube.Media.PngQuant@1.0.0
+- pkg:nuget/StableCube.Media.PngQuant@10.0.14
+- pkg:nuget/StableCube.Media.PngQuant@10.0.2
