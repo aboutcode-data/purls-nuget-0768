@@ -361,6 +361,11 @@
 - pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8628
 - pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8629
+- pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8634
+- pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8635
+- pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8637
+- pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8640
+- pkg:nuget/Telerik.Sitefinity.Web.Services@15.4.8641
 - pkg:nuget/Telerik.Sitefinity.Web.Services@9.0.6000
 - pkg:nuget/Telerik.Sitefinity.Web.Services@9.0.6001
 - pkg:nuget/Telerik.Sitefinity.Web.Services@9.0.6010

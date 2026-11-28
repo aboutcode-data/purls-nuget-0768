@@ -1,4 +1,6 @@
 - pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.10
 - pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.12
 - pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.13
+- pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.17
+- pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.20
 - pkg:nuget/Tiro.Health.SmartWebMessaging.Fhir.R5@0.0.3

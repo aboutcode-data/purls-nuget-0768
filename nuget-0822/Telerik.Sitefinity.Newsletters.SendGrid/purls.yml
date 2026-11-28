@@ -361,6 +361,10 @@
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8628
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8629
+- pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8634
+- pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8635
+- pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8637
+- pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@15.4.8640
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@8.1.5800
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@8.1.5803
 - pkg:nuget/Telerik.Sitefinity.Newsletters.SendGrid@8.1.5810
