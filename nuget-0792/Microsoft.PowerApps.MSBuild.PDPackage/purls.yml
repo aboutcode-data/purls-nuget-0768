@@ -54,4 +54,6 @@
 - pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@1.48.2
 - pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@2.1.1
 - pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@2.13.1
+- pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@2.15.1
+- pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@2.16.1
 - pkg:nuget/Microsoft.PowerApps.MSBuild.PDPackage@2.5.1
