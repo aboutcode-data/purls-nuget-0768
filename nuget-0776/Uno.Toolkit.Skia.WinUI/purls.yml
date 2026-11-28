@@ -5,6 +5,7 @@
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@11.0.0-dev.156
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@11.0.0-dev.90
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@11.0.0-dev.94
+- pkg:nuget/Uno.Toolkit.Skia.WinUI@11.1.0-dev.22
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@3.1.0-dev.44
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@3.1.0-dev.47
 - pkg:nuget/Uno.Toolkit.Skia.WinUI@3.2.0-dev.17
