@@ -29,5 +29,7 @@
 - pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.6
 - pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.62
 - pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.7
+- pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.76
 - pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.8
+- pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.81
 - pkg:nuget/KA.Barcode.Generator.PDF.DataMatrix.VB@7.7.0.9
