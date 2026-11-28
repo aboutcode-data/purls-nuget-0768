@@ -1,2 +1,12 @@
 - pkg:nuget/Tessio.Verifier.OpenId4Vp@0.1.1
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.13.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.15.2
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.20.5
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.25.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.31.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.34.1
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.35.0
 - pkg:nuget/Tessio.Verifier.OpenId4Vp@0.4.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.5.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.7.0
+- pkg:nuget/Tessio.Verifier.OpenId4Vp@0.8.0
