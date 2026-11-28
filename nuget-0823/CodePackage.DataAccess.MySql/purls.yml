@@ -1,0 +1,3 @@
+- pkg:nuget/CodePackage.DataAccess.MySql@18.0.12
+- pkg:nuget/CodePackage.DataAccess.MySql@18.0.13
+- pkg:nuget/CodePackage.DataAccess.MySql@18.0.16
