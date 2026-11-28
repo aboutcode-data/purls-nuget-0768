@@ -8,3 +8,5 @@
 - pkg:nuget/Apache.Iggy@0.9.0-edge.3
 - pkg:nuget/Apache.Iggy@0.9.0-edge.4
 - pkg:nuget/Apache.Iggy@0.9.0-edge.6
+- pkg:nuget/Apache.Iggy@0.9.1-edge.5
+- pkg:nuget/Apache.Iggy@0.9.1-edge.9
