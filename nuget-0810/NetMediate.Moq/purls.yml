@@ -1,2 +1,4 @@
 - pkg:nuget/NetMediate.Moq@2026.5.15.1272
+- pkg:nuget/NetMediate.Moq@2026.5.22.798
+- pkg:nuget/NetMediate.Moq@2026.5.22.800
 - pkg:nuget/NetMediate.Moq@26.4.21.798

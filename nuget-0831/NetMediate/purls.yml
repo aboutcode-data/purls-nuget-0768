@@ -1,4 +1,6 @@
 - pkg:nuget/NetMediate@2026.5.15.1272
+- pkg:nuget/NetMediate@2026.5.22.798
+- pkg:nuget/NetMediate@2026.5.22.800
 - pkg:nuget/NetMediate@25.8.16.425
 - pkg:nuget/NetMediate@25.8.16.426
 - pkg:nuget/NetMediate@25.8.16.439
