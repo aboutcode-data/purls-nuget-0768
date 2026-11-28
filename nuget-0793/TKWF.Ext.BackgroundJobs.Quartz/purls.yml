@@ -1,6 +1,11 @@
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.1
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.128
+- pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.192
+- pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.217
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.29
+- pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.328
+- pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.329
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.34
+- pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.375
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.50
 - pkg:nuget/TKWF.Ext.BackgroundJobs.Quartz@0.1.2-preview.0.59
