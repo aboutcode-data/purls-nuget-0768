@@ -10,4 +10,5 @@
 - pkg:nuget/OnAim.FeaturesEngine.Domain@1.40.0
 - pkg:nuget/OnAim.FeaturesEngine.Domain@1.57.0
 - pkg:nuget/OnAim.FeaturesEngine.Domain@1.6.0
+- pkg:nuget/OnAim.FeaturesEngine.Domain@1.62.0
 - pkg:nuget/OnAim.FeaturesEngine.Domain@1.8.0
