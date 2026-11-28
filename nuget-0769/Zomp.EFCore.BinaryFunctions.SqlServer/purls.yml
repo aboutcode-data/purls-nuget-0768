@@ -2,6 +2,7 @@
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@0.1.28-alpha
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@1.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@1.0.2
+- pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@11.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@7.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@8.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.SqlServer@8.0.1-preview4
