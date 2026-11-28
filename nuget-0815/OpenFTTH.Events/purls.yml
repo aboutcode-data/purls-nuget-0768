@@ -11,6 +11,8 @@
 - pkg:nuget/OpenFTTH.Events@1.0.7-alpha
 - pkg:nuget/OpenFTTH.Events@1.0.8
 - pkg:nuget/OpenFTTH.Events@1.0.9
+- pkg:nuget/OpenFTTH.Events@11.0.0
+- pkg:nuget/OpenFTTH.Events@11.1.0
 - pkg:nuget/OpenFTTH.Events@2.0.0
 - pkg:nuget/OpenFTTH.Events@2.1.0
 - pkg:nuget/OpenFTTH.Events@2.1.1
