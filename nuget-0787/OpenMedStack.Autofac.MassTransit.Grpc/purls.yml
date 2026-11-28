@@ -2,3 +2,4 @@
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Grpc@2.1.1
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Grpc@2.2.0
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Grpc@2.3.0
+- pkg:nuget/OpenMedStack.Autofac.MassTransit.Grpc@2.6.1

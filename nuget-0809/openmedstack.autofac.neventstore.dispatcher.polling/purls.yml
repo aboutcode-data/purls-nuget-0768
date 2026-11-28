@@ -7,3 +7,4 @@
 - pkg:nuget/openmedstack.autofac.neventstore.dispatcher.polling@2.1.1
 - pkg:nuget/openmedstack.autofac.neventstore.dispatcher.polling@2.2.0
 - pkg:nuget/openmedstack.autofac.neventstore.dispatcher.polling@2.3.0
+- pkg:nuget/openmedstack.autofac.neventstore.dispatcher.polling@2.6.1
