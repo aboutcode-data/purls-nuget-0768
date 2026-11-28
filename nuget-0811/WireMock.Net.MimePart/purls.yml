@@ -28,3 +28,6 @@
 - pkg:nuget/WireMock.Net.MimePart@2.11.0
 - pkg:nuget/WireMock.Net.MimePart@2.15.0
 - pkg:nuget/WireMock.Net.MimePart@2.2.0
+- pkg:nuget/WireMock.Net.MimePart@2.20.0
+- pkg:nuget/WireMock.Net.MimePart@2.21.0
+- pkg:nuget/WireMock.Net.MimePart@2.31.0
