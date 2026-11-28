@@ -15,3 +15,7 @@
 - pkg:nuget/PerfilUnico.Data@1.3.0-rc.141%2Bbce370b2
 - pkg:nuget/PerfilUnico.Data@1.5.1-rc.160%2B43cae167
 - pkg:nuget/PerfilUnico.Data@1.5.1-rc.167%2Bc6eeac86
+- pkg:nuget/PerfilUnico.Data@10.0.0-rc.208
+- pkg:nuget/PerfilUnico.Data@10.0.0-rc.222
+- pkg:nuget/PerfilUnico.Data@10.0.0-rc.223
+- pkg:nuget/PerfilUnico.Data@11.0.0-rc.199
