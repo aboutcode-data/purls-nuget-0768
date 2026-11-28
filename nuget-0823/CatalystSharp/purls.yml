@@ -1,1 +1,4 @@
 - pkg:nuget/CatalystSharp@0.1.0
+- pkg:nuget/CatalystSharp@2026.10.31-beta.1
+- pkg:nuget/CatalystSharp@2026.11.16-beta.1
+- pkg:nuget/CatalystSharp@2026.11.5-beta.1
