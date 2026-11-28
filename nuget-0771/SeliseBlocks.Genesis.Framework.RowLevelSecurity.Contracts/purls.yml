@@ -1,3 +1,5 @@
+- pkg:nuget/SeliseBlocks.Genesis.Framework.RowLevelSecurity.Contracts@10.0.0.2
+- pkg:nuget/SeliseBlocks.Genesis.Framework.RowLevelSecurity.Contracts@10.0.2.2
 - pkg:nuget/SeliseBlocks.Genesis.Framework.RowLevelSecurity.Contracts@6.0.0.1
 - pkg:nuget/SeliseBlocks.Genesis.Framework.RowLevelSecurity.Contracts@6.0.0.10
 - pkg:nuget/SeliseBlocks.Genesis.Framework.RowLevelSecurity.Contracts@6.0.0.11
