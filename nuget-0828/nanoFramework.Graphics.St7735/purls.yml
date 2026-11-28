@@ -19,3 +19,4 @@
 - pkg:nuget/nanoFramework.Graphics.St7735@1.2.42
 - pkg:nuget/nanoFramework.Graphics.St7735@1.2.44
 - pkg:nuget/nanoFramework.Graphics.St7735@1.2.45
+- pkg:nuget/nanoFramework.Graphics.St7735@2.0.0-preview.43
